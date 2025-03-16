@@ -3,7 +3,7 @@
 - We can head north through the mountains and then over the plains, it should take us  ~ 10 days of travel
 
  [[Session 13]]
-- We started heading from [[Zephrah]] towards [[Drynna]], goring north through the mountains
+- We started heading from [[Zephrah]] towards [[Drynna]], going north through the mountains
 - We've traveled 5 days so far
 - There should be about 5-6 more days of travel left before getting there
 

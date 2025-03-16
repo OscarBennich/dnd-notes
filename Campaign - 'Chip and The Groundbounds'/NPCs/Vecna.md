@@ -1,0 +1,1 @@
+- Ascended to become [[The Whispered One]]

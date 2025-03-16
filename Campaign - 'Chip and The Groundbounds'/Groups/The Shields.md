@@ -1,1 +1,2 @@
 - Guards in [[Westruun]]
+- *Shields of the Plain*

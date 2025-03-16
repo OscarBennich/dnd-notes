@@ -1,0 +1,3 @@
+- Genasi from [[Marquet]]
+- Part of the [[Council of Westruun]]
+- Representative of the merchant guilds

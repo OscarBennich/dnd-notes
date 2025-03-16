@@ -1,5 +1,6 @@
 - Leader of [[The Ironhand Trading Company]]
-- Billiams sons:
+- Former member of the [[Council of Westruun]]
+- Billiam's sons:
 	- [[Matthew Christ]]
 	- [[Mark Christ]]
 	- [[John Christ]]

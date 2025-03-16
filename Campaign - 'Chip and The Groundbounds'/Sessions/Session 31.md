@@ -9,14 +9,14 @@
 - We are now level 7! 🎉
 - Dain has a vision - *"Not quite yet...*
 - Dain is alive!
-	- Retcon because of DM mistakes w/ the Nullifier fight
+	- Retcon because of DM mistakes w/ the [[Nullifier]] fight
 	- It wasn't supposed to be completely immune to magic but Viv forgot to roll for concentration on the *Antimagic Field* spell
 - We investigate the bank vault and find:
 	- Potions of Greater Healing (x2)
 	- Golden embroidered vestments (25g)
 	- Gold bracelet (25g)
 	- Carved bone statuette
-- We investigate the Nullifier
+- We investigate the [[Nullifier]]
 	- Unlike anything we know
 	- *Doesn't make sense*
 	- Created by magical corruption?

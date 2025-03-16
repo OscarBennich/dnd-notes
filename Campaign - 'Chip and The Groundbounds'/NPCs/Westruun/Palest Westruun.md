@@ -1,0 +1,3 @@
+- Founder of [[Westruun]]
+- The "Onyx King"
+- There's a statue of him in the Opal Ward

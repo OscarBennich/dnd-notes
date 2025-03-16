@@ -9,7 +9,7 @@
 - We buy the *Bracers of Archery* and the *Goggles of Night* for 525g/person and put the armor "on hold" and will be able to buy it for 1850g
 - We head to the [[Chianfanelli Bank]] to see if we can exchange our note
 	- It's actually a safe deposit box thingy
-- Fountain w/ statue of [[Pealas Westruun]] 
+- Fountain w/ statue of [[Palest Westruun]] 
 - [[Chip]] talks to the Gnome teller
 - The teller seems nervous about the deposit box
 - He goes to get his supervisor - [[Bognor Regis]]

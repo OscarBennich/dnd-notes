@@ -7,6 +7,7 @@
 > - [[Find connection between The League of Miracles and the Clasp]]
 
 ---
+- We are now level 8! 🎉
 - A letter is waiting for us from [[Melindra Buchanan]] from [[Best Stitch Tailoring]]
 - The garments are delayed until the morning of the day of the [[Big Ball]]
 - Fast forward 2 days...
@@ -16,7 +17,8 @@
 - We're heading to the ball
 - We surrender our weapons and pass the guards
 - We're in!
-- We meet [[Illvara Tevric]]
+- We are greeted by [[Illvara Tevric]]
+- [[Zenor]] is here as well
 - [[Singular Destination]] are performing music at the ball
 - Subtle magical effects are improving the music
 - [[Bognor Regis]] and [[Duchess Bianca Caliban]] are here as well

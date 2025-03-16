@@ -1,1 +1,2 @@
-- Spellwright from [[The League of Miracles]] have the ability to conjure [[Adronach]]s
+- Spellwright from [[The League of Miracles]] have the ability to conjure an [[Adronach]]
+- The Spellwrights are given the ability and components directly by the leader of [[The League of Miracles]] - [[The Grand Thaumaturge]]

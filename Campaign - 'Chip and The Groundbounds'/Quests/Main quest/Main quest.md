@@ -5,7 +5,10 @@ General ideas:
 	- [[Session 36]]
 - Something related to [[The League of Miracles]]
 	- Where they behind the attack on the [[Chianfanelli Bank]]?
+	- And the attack at the [[Big Ball]]
+		- [[Investigate the Dragon attack at the Big Ball]]
 - Something related to [[Shadebarrow]]
 	- We should find Shadebarrow to investigate
 	- (also connected to [[Find the magical storm]])
 - Something related to [[Ryzzix]]?
+	- [[Investigate Ryzzix]]
