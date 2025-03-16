@@ -1,0 +1,1 @@
+A golden bracelet that allows you to cast Calm Emotions once per long rest.
