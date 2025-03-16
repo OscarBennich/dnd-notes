@@ -1,0 +1,11 @@
+General ideas:
+- Undead activity between [[Drynna]] & [[Westruun]]
+	- [[Session 14]]
+	- [[Session 15]]
+	- [[Session 36]]
+- Something related to [[The League of Miracles]]
+	- Where they behind the attack on the [[Chianfanelli Bank]]?
+- Something related to [[Shadebarrow]]
+	- We should find Shadebarrow to investigate
+	- (also connected to [[Find the magical storm]])
+- Something related to [[Ryzzix]]?

@@ -1,0 +1,4 @@
+- Found in [[Stilben]]
+- Owns [[Philmore's Fabulous Freight]]
+- A prominent member of [[The League of Miracles]]
+- Charmed [[Evan|me]] in his store

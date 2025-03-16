@@ -1,0 +1,12 @@
+- Criminal organization
+- Active in all / most of [[Tal'Dorei]]
+- We've run into them in both [[Stilben]] & [[Westruun]]
+- Been at war with [[The Myriad]] for many years
+- The Myriad has the upper hand in the conflict
+---
+- Big event 30 years ago ([[Chroma Crisis]])
+- Contributed positively to society
+	- The Clasp used to be "the good guys" after the [[Chroma Crisis]] when they helped rebuild the city
+	- They needed structure to be able to function as an organization
+	- After that they went back to criminal stuff
+	- "Lawful Evil"

@@ -1,0 +1,5 @@
+- Followers of [[The Whispered One]]
+- They offer you immortality and to save the ones you love
+- Different factions of the cult
+- Their goal:
+	- Bring back The Whispered One

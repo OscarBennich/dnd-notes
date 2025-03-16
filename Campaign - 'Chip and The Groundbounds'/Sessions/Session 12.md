@@ -1,0 +1,92 @@
+> [!Summary] Current quests
+> - [[Main quest]]
+> - [[Find the magical storm]]
+> - [[Find Griphon egg poachers]]
+> - [[Narissa is wanted for murder in Westruun]]
+
+---
+- We start heading back to [[Zephrah]]
+- We've tied Barry's hands and he's following closely behind us
+- We hear the sound of wings but manage to hide
+- It starts getting dark and we find shelter
+- We put Barry alone in our 3rd tent (that we found in the [[Bag of Holding]])
+- Me and [[Mads]] take the first shift
+- [[Dain]] and [[Ossian]] take the second shift
+- [[Ossian]] sees something small moving behind a rock
+- It's a little rodent that is seeking shelter from the rain
+- [[Chip]] and [[Narissa]] take the third shift
+- [[Chip]] sees a vague shape in the distant (in the sky)
+- The next morning we continue to Zephrah
+- It's raining continuously... 🌧
+- I see no sign of "the rift"
+- We set up camp for the night
+- Mads and Narissa take the first shift
+- Narissa hears the strange whispers again... She also sees a dark bird flying away
+- Narissa talks to Mads about what she's been experiencing
+- Mads tells Narissa a bit about her and her relationship to being a Tiefling
+- Me and Ossian take the second shift
+- ...
+- We finally arrive to the north side of Zephrah
+- We pass by the pink blossom tree
+- As we get to the the tree we see [[Keyleth]]
+- Keyleth casts something and we all feel a magical warmth
+- We tell Keyleth about the poachers and Barry
+- I show an image of the "bat" to Keyleth using _Minor Illusion_
+- We all have to make CHA saving throws
+- Me and [[Ossian]] suceed
+- The rest are affected by "Zone of Thruth"
+- Keyleth starts talking to Barry
+- We see the symbol of [[The Clasp]] on Barry's back
+- Barry said he found the sword in the swamp
+	- From [[Relic Seekers Guild]]?
+- Barry says they found the things just lying on the ground in the swamp
+- The bat thing called itself [[Ryzzix]]
+- Barry needed to pay off a debt
+- The demon bothers Keyleth
+	- Not everyone has the power to summon a demon...
+- Mads mentions [[The Whispered One]] and Keyleth seems to know about it
+- The followers of the [[The Whispered One]] are called [[The Remnants]]
+- This world has 2 moons
+- Things seem to happen when [[Ruidus]] is at its zenith
+- "Ruidus-born", ill-fated lives?
+- Weaken a magical barrier when Ruidus is in zenith?
+	- It will be in zenith at the end of the year
+- Magical properties of griphon eggs?
+- [[Keyleth]] does not have time to investigate [[Drynna]]
+	- But we can help her!
+- Keyleth opens up a portal in the blossom tree and disappears
+- We all head to [[Rosavine]]'s place
+- My [[Patron]] speaks to me on the way there
+	- She wants me to get [[Rosavine]] and [[Norse]] to get together and she will give me a "surprise"
+- Mads and Chip go to the kitchen and have a drink
+- I bought a [[Pearl]] worth 100gp from Rosavine for my _Identify_ spell
+- Mads sends [[Theo]] out to hunt chickens in the village
+- I buy _Winter clothes_ for 15g
+- I join Chip and Mads in Rosavine's kitchen and have a drink
+- I ask Rosavine about [[Norse]]
+	- We plan a date between them
+	- I head over to Norse
+	- We need more help!
+	- I head back and get Chip
+	- We need more help!
+	- I head back and get Ossian
+	- We all help Norse with dinner
+	- I try to convince Norse to go on a "date" after our dinner
+	- I tell Norse about Rosavine's feelings
+- We all convene at Norris's place
+- As the desert comes in we all find an excuse to leave (except Narissa who stays and fixes the dishes)
+- As we get back to Rosavine's place my [[Patron]] talk to me again
+	- I'll get my "surprise" eventually
+- After a few more drinks we all go to bed
+- Before I fall asleep I tell my Patron - "Good night, head-lady"
+	- She whispers - "Sweet dreams"
+- As we wake up, Narissa feel absolutely terrible
+- We all eat breakfast together
+- We all agree to allow [[Mads]] to get the enchanted bow as the reward for the "[[Find Griphon egg poachers]]" quest
+- We all agree to head towards [[Drynna]] as our next step
+- Mads found a scroll case with the symbol of [[The League of Miracles]] on it - as she was tidying in Rosavine's house
+- Mads chooses her bow, it's called [[Rose]] 
+- We speak to Korrin ([[Keyleth]]'s father) about the best route to Drynna
+- We can go north through the mountains and then over the plains, it should take us ~ 10 days of tavel
+- Before we leave we should prepare (rations etc.)
+- The sessions ends...

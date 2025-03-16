@@ -1,0 +1,5 @@
+- Found in [[Stilben]]
+- Pink-skinned
+- Half-elf
+- Contact for [[Madame Saunton]] in [[Stilben]]
+- Their house has a hidden cellar

@@ -1,0 +1,9 @@
+- Found in [[Stilben]]
+- Part of [[Dr. Dranzle's Traveling Troupe]]
+- Black hair
+- Small soul patch, continues into braid
+- Halfling (1.2 meters tall)
+- Half-shaped pin
+- Musician
+- Lush, flowing hair, basically a mullet
+- Green scarf, baggy clothes

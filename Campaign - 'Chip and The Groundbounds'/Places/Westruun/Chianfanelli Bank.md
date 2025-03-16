@@ -1,0 +1,2 @@
+- A bank in [[Westruun]]
+- It looks a lot like "Gringots" from Harry Potter

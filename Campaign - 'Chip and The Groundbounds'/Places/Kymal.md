@@ -1,0 +1,1 @@
+Kymal is a small city built on the rocky foothills of the Ironseat Ridge in the Republic of [[Tal'Dorei]], south of the Silvercut Crossroads.

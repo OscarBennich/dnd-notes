@@ -1,0 +1,3 @@
+- An [[Archfey]]
+- Master of the Shademurk and former wielder of Fenthra
+- An archfey prince living in Shademurk bog, he was betrayed and forgotten by his lover. Left to his own despair, he corrupted the bog around the enormous tree that he lived in. He longed for someone to heal his wounds and cleanse his heart, but in an attempt to enter into a pact with Vex, was slain when he asked for her heart. She told him: “My heart is someone else’s.”

@@ -1,0 +1,2 @@
+- Found in [[Stilben]]
+- Shopkeeper in [[Twillie's Twinkets]]

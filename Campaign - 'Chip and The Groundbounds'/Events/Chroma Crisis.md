@@ -1,0 +1,3 @@
+- 30 years ago dragons attack [[Tal'Dorei]]
+- These dragons where known as the [[Chroma Conclave]]
+- A black dragon attacked [[Westruun]]

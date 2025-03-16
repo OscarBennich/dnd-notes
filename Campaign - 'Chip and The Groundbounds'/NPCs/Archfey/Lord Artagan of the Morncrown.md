@@ -1,0 +1,3 @@
+- An [[Archfey]]
+- Artagan became a minor deity of sorts in Wildemount and seems to be stuck on this plane for the foreseeable future
+- He is described as a courtless Archfey, tall and thin with almond-shaped emerald green eyes and curly, wild orange hair

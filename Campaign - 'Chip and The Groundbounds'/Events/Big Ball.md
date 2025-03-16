@@ -1,0 +1,7 @@
+- Big celebration in [[Westruun]]
+- 2 weeks time celebration for midsummer start
+- Artisan's faire
+- The ball is at the start of the [[Midsummer Festival]] celebration period, the day before the artisan's faire
+- It is being held at the [[Margrave's Keep]]
+---
+- [[Session 41]]

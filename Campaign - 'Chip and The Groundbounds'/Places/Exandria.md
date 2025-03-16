@@ -1,0 +1,4 @@
+- The world on which the campaign takes place
+- There are two moons in this world:
+	- [[Catha]]
+	- [[Ruidus]]

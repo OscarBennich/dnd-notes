@@ -1,0 +1,1 @@
+The Divine Gate is a barrier that prevents the gods of Exandria, both good and evil, from physically crossing into the Prime Material Plane and the Elemental Planes.

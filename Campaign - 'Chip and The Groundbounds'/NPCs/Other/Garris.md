@@ -1,0 +1,2 @@
+- Connected to [[Ossian]] in some way
+- Garris helped Ossian and he killed him?

@@ -1,0 +1,12 @@
+- A town on the east coast of [[Tal'Dorei]]
+- There are *tiers* in the city
+	- Tents
+	- Ramshackle houses
+	- Sturdy houses
+	- City center and town square
+- Mostly human, but also has gnomes, dwarves, halflings, elves, and tieflings
+- There is a suspicious atmosphere
+- Significantly smaller than [[Stilben]]
+- Buildings
+	- [[Sunrise Lodge]]
+	- [[Old Speckled Hen]] tavern

@@ -1,0 +1,1 @@
+- Lawful evil dragon goddess of greed, queen of evil dragons.

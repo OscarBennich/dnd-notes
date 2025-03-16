@@ -1,0 +1,2 @@
+- Descendent of [[Baron Hauthess]]
+- Headed towards [[Lyrengorn]]

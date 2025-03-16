@@ -1,0 +1,2 @@
+- Employee at [[The Ironhand Trading Company]]
+- Hasn't showed up after her first day

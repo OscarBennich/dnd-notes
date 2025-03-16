@@ -1,0 +1,5 @@
+- Descendent of [[Baron Hauthess]]
+- Remains in [[Westruun]]
+- Used to be married to [[Hugh Austan]]
+- Aristocrat
+- Will be at the [[Big Ball]]

@@ -1,0 +1,2 @@
+- Son of [[Billiam Christ]]
+- Plays in a 5 man band called "Judas Priest"

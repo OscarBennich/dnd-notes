@@ -1,0 +1,4 @@
+- The guy that Narissa is suspected of killing
+	- [[Narissa is wanted for murder in Westruun]]
+- Member of [[The Clasp]]
+- Suspected of being a spy for [[The Myriad]]

@@ -1,0 +1,4 @@
+- Found in [[Stilben]]
+---
+- Small gnome
+- Head priestess of [[Stilben - Temple of Avandra]]

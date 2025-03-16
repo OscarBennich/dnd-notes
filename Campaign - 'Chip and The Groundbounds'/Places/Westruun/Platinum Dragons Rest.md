@@ -1,0 +1,1 @@
+- Temple to [[Bahamut]] in [[Westruun]]

@@ -1,0 +1,6 @@
+- Criminal organization
+- Active in all / most of [[Tal'Dorei]]
+- We've run into them in both [[Stilben]] & [[Westruun]]
+- Been at war with [[The Clasp]] for many years
+--- 
+- Has the upper hand in the conflict with The Clasp

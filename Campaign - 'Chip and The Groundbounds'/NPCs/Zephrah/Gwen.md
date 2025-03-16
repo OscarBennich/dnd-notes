@@ -1,0 +1,3 @@
+- From [[Zephrah]]
+- Daughter to [[Oswalt]] & [[Ellis]]
+- Sister to [[Sai]]

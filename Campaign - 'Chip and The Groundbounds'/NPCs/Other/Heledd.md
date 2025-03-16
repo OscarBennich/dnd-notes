@@ -1,0 +1,3 @@
+- Half-orc
+- Champion of the [[Herd of Storms]]
+- See [[Session 13]], [[Session 14]]

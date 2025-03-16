@@ -1,0 +1,3 @@
+- Large-bellied Human
+- From [[Stilben]]
+- Head of [[Relic Seekers Guild]]

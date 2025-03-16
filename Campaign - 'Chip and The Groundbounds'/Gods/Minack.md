@@ -1,0 +1,5 @@
+- Worshiped by the [[Friends of the Minack]]
+- The head of a bull
+- The body of a man
+- Wings
+- Tail of a fish

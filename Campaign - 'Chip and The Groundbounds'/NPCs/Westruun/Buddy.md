@@ -1,0 +1,2 @@
+- Ogre I fought in the [[Hobgoblin tavern]]
+- From [[Westruun]]

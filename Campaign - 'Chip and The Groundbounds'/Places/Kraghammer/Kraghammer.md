@@ -1,0 +1,1 @@
+- Kraghammer is an underground dwarven citadel that sits within the Cliffkeep Mountains.

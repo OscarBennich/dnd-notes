@@ -1,0 +1,3 @@
+A weathered metal disk with Elvish script on the back. While holding this disk you can use an action to determine which way is north. This property functions only on the Material Plane.
+
+If you touch the disk to an object and speak the command word, it will instead point to the object. If you speak the command word again the connection will be severed and the arrow on the disk point towards north instead.

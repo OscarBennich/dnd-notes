@@ -1,0 +1,8 @@
+- Gods used to walk the earth
+- _Prime Deities_ vs. _Betrayer Gods_
+- All the gods left this plane after the Calamity
+- [[Ascension]]
+- "Sealed beyond the Divine Gate"
+- There was a ritual 30 years ago that intended to sacrifice a whole city to give [[The Whispered One]] power
+- It was miraculously stopped by 'legendary heroes' and armies
+- This was on another continent (not [[Tal'Dorei]])

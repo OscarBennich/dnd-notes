@@ -1,0 +1,5 @@
+- "Bat thing" found near [[Zephrah]]
+- See:
+	- [[Session 11]]
+	- [[Session 12]]
+- Came from [[Drynna]]

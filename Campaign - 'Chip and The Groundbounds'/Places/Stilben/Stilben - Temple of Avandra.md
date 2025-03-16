@@ -1,0 +1,7 @@
+- For worshipping [[Avandra]]
+- Located in central [[Stilben]]
+---
+- [[Ashbrittle Nadderwater]] is the high priestess of the temple
+- Large circular hole in the roof
+- Subdued
+- Beautiful but not flashy

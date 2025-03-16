@@ -1,0 +1,3 @@
+- Lives in [[Zephrah]]
+- Hamish is a 'Firbolg' (a "highland cow turned human")
+- He is part of the _Air Ashari_

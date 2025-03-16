@@ -1,0 +1,2 @@
+- For worshipping to [[Melora]]
+- Located in the "Mudfront" part of [[Stilben]]

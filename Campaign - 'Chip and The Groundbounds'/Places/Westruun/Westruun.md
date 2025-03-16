@@ -1,0 +1,12 @@
+- Big city in central [[Tal'Dorei]]
+- Founded by [[Pealas Westruun
+- The city is divided into 6 wards:
+	- Residential ward
+	- Opal ward
+		- The Opal ward has a statue of [[Pealas Westruun]], riding on a black horse
+	- Temple ward
+	- Market ward
+	- Scholar ward
+	- Underwalk
+		- There's a chamber in the Underwalk called "Survivor's Legacy" - in honor of the survivors of the [[Chroma Crisis]]
+- The Margrave of the city is [[Brandon Zimmerset]]

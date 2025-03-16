@@ -1,0 +1,5 @@
+- Found in [[Stilben]]
+- Suave and Charismatic man we met in the bar in the [[Sunset Stride Inn]]
+- Part of [[Dr. Dranzle's Traveling Troupe]]
+---
+- Who is Dranzle's ex?

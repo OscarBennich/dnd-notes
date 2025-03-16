@@ -1,0 +1,9 @@
+- Married to [[Austell]]
+- Husband found in [[Drynna]] ([[Session 16]])
+- [[Mads]] grew up with Feena
+- She died in [[Westruun]]
+	- [[Austell]] doesn't know how Feena died, but she was murdered
+	- She was killed quietly in their home in [[Westruun]]
+	- Some people came around wanting to buy the shop before she was killed
+	- There were two of them, wearing cloaks
+- Owned [[Herbalist shop]]

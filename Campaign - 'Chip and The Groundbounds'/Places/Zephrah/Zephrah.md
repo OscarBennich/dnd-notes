@@ -1,0 +1,7 @@
+- A town north-west of [[Stilben]]
+- High up in the mountains
+- Town is led by the "Voice of the Tempest"
+	- Her name is [[Keyleth]]
+- There's a lot of Tieflings that live in the town
+- But a majority seem to be Half-Elf
+- Big tree in the town with pink blossoms

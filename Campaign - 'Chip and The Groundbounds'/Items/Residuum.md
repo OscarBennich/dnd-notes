@@ -1,0 +1,2 @@
+- Green glass used for magic
+- A magical component that (among other things) can be used to enhance magical powers

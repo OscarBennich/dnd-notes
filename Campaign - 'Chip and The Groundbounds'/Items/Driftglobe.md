@@ -1,0 +1,1 @@
+- A driftglobe is a magic item that can be commanded to shed light of varying strengths and float while following the person who commanded it.

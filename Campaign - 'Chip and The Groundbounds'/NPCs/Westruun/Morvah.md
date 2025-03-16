@@ -1,0 +1,1 @@
+- Half-Orc scholar at the Cobalt Reserve

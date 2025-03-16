@@ -1,0 +1,21 @@
+- Settlement in [[Tal'Dorei]]
+- Humid
+- Swamp
+- Buzzing insects
+- It smells
+- Muddy streets
+- Stilben is divided in 2 sections:
+	- West = Bustling, muddy
+	- East = Gate leading into paved port
+	- South east = Docks
+- Has 2 temples:
+	- [[Stilben - Temple of Avandra]]
+	- [[Stilben - Temple of Melora]]
+- Southern gate:
+	- Gate to central Stilben
+	- Cleaner
+	- Many shops
+	- Richer
+	- People are well-dressed
+	- Upper class
+- Downwater Wharf

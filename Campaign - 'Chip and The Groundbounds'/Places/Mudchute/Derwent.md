@@ -1,0 +1,3 @@
+- Small island off the coast close to [[Mudchute]]
+- *Might* be haunted according to a fisherman
+- Owned by the same family for a long time

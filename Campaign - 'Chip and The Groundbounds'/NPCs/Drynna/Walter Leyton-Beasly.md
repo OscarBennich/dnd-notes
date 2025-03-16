@@ -1,0 +1,4 @@
+- Found in [[Drynna]]
+- From the [[Sunrise Lodge]]
+- Noble human
+- Knows [[Dain]] from before

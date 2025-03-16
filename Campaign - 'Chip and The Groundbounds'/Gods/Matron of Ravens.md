@@ -1,0 +1,8 @@
+- Goddess of Death
+- "The Raven Queen"
+- Behind [[The Divine Gate]]
+- Involved in fate
+- Matron of Ravens was a mortal that ascended to Godhood
+- The name of the mortal that became the [[Matron of Ravens]] was wiped from texts and memories
+- When she ascended she destroyed the previous god of death
+- A follower and partner of the previous god of death?

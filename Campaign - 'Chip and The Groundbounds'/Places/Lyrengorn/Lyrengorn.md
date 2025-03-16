@@ -1,0 +1,4 @@
+- City in [[Tal'Dorei]]
+- Connected people:
+	- [[Camilla Tenver]]
+	- [[Evans father]]

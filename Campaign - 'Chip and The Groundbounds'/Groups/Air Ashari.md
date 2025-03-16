@@ -1,0 +1,3 @@
+- The Air Ashari seek to protect the gate between [[Exandria]] and the Air Elemental plain
+- They live close to [[Zephrah]]
+- The Air Ashari have contraptions to be able to see very far (some kind of telescope)

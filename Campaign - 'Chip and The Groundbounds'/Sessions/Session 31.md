@@ -1,0 +1,100 @@
+> [!Summary] Current quests
+> - [[Main quest]]
+> - [[Find the magical storm]]
+> - [[Narissa is wanted for murder in Westruun]]
+> - [[Investigate Ryzzix]]
+> - [[Find out who my Patron is and what she wants]]
+
+---
+- We are now level 7! 🎉
+- Dain has a vision - *"Not quite yet...*
+- Dain is alive!
+	- Retcon because of DM mistakes w/ the Nullifier fight
+	- It wasn't supposed to be completely immune to magic but Viv forgot to roll for concentration on the *Antimagic Field* spell
+- We investigate the bank vault and find:
+	- Potions of Greater Healing (x2)
+	- Golden embroidered vestments (25g)
+	- Gold bracelet (25g)
+	- Carved bone statuette
+- We investigate the Nullifier
+	- Unlike anything we know
+	- *Doesn't make sense*
+	- Created by magical corruption?
+- [[Narissa]] investigates
+	- 50 Platinum (500g)
+	- 300g
+	- 1000s
+	- 900c
+	- Potions of Healing (3x)
+	- *Scroll of See Invisibility*
+	- Necklace (magical?)
+- The vault door has a symbol
+	- It's the same symbol as [[The League of Miracles]]
+	- What do they have to do with this?
+- There are tiny etchings in *Thieves' cant*
+- In the main vault there's a big broken cage
+- We find scattered pieces of paper around the cage
+- It says: 
+	- *24th of Dualehei 836 P.D* (3-4 months ago)
+	- *To be delivered to Cianfanelli Bank in Westruun and await collection by Dragomir Lunthak*
+- The creature seems to have been delivered to the vault and then it broke free
+- [[Dragomir Lunthak]] was named once or twice in [[Syngorn]]. Otherwise we don't know that name
+- We think we got everything and decide to leave
+- We head back to [[Monk's Eternal]]
+- [[Mads]] and [[Narissa]] are going to meet Narissa's friend for more information, [[Ossian]] joins them
+- They go to a park to meet Narissa's friend
+- Someone came and asked about Narissa at the bakery
+	- He's called [[Jack Shepherd]] and can be found in [[Bessie's Best]]
+- Narissa hears whispers from the dead and see a raven
+	- Voice in her head: *It wasn't his time*
+- [[Matron of Ravens]]
+	- There's a temple to her in the city
+- Narissa, Ossian, and Mads head back to the tavern
+- We take a long rest
+- I cast *Identify* on the statuette
+	- It is not magical but it could be valuable
+	- We can sell it in the Market Ward
+- I cast *Identify* at the necklace
+	- It is a [[Periapt of Wound Closure]]
+	- We give it to [[Dain]]
+- When Dain came back to life he also got [[Amulet of the Devout +1]]
+- We want to find a cheaper tavern to stay at
+- We're trying to figure out the monster and the vault and the connection to [[The League of Miracles]]
+- (1) Head to the [[Westruun - Temple of Melora]]
+- (2) Figure out who [[Dragomir Lunthak]] is
+- (3) Wait for Billiam's son to find us
+- Narissa asks me about her visions
+- I tell the party more about my [[Patron]]
+- We should split up and go to the [[Westruun - Temple of Melora]] and the [[Westruun - Temple of Matron of Ravens]]
+- Narissa, Mads, Ossian head to the temple of the [[Matron of Ravens]]
+- [[Narissa]] takes part in a ritual
+	- Her vision goes black
+	- 6 threads (represents our party?)
+	- She follows the shadowy thread
+	- Visions of growing up
+	- Giant porcelain mark
+	- Vast open plain
+	- An army before her
+	- Undead army?
+	- She blinks and she's back in the temple
+- She is covered in blood...
+- [[Ossian]] casts a spell to remove the blood. It *almost* doesn't work.
+- Our group reconvenes
+- We head to [[Doom Bar]] (cheaper tavern than Monk's Eternal)
+- "The Moonweaver's Ribbons" in [[Lyrengorn]]
+- We head back to [[Monk's Eternal]] first to get our stuff
+- There is a letter waiting for us
+- From [[Leviticus Christ]] (Levi)
+	- We can meet him at [[The Cleric's Finger]] tavern tonight
+	- We head over there
+- We meet up with Levi and he introduces us to the rest of [[Billiam Christ]]'s "sons"
+- Billiam has heard a rumor that someone high up in [[The League of Miracles]] is working with [[The Clasp]]
+	- Can we find evidence of the direct link of this? ➡ [[Find connection between The League of Miracles and the Clasp|new quest]]!
+- Debt is used as leverage from the league against the council
+- This would be evidence that the league is a criminal organization
+- Billiam wants this for the good of [[Westruun]] (...?)
+- We need to be discrete
+- I buy the Billiam boys a round of ale
+- There will be a bar brawl in the Underwalk in a few days time, you can get 750-1000g
+	- In the back room of the [[Hobgoblin tavern]]
+- The session ends...

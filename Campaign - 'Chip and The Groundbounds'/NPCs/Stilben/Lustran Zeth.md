@@ -1,0 +1,6 @@
+- Also known as *The Baron*
+- The textile baron in [[Stilben]]
+- Known as "The Backstabber"
+- Part of the Vas Estate
+- The leader of [[The Myriad]] in Stilben (and famous in the organization in general)
+- He is one of the first double-agents who turned from [[The Clasp]] to [[The Myriad]]

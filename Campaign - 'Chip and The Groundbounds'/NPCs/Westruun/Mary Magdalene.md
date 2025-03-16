@@ -1,0 +1,4 @@
+- Half-elf
+- Friendly
+- Partner to [[Billiam Christ]]
+- From [[Westruun]]

@@ -1,0 +1,4 @@
+- The Ashari are a group/clans of druidic people
+- They reside near gates to the elemental plains
+- 4 different factions/clans
+- [[Air Ashari]]

@@ -1,0 +1,2 @@
+- Known as "The Margrave"
+- De facto leader of [[Stilben]]

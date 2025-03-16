@@ -1,0 +1,6 @@
+- See [[Find Griphon egg poachers]]
+---
+- Griphons are aggressive around their nests
+- Griphons are ferocious
+- Attacks horses
+- Bad sense of smell?

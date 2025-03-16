@@ -1,0 +1,4 @@
+- Childhood friend of [[Mads]]
+- Morris and [[Mads]] grew up together in [[Mudchute]]
+- Worships the [[The Whispered One]]
+- Has a boat called _The Tadpole_

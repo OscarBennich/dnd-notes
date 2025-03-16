@@ -1,0 +1,4 @@
+- Former wife of [[Dragomir Lunthak]]
+- Lila was born *Austan*
+	- Same last name as [[Buddleah Austan]]
+- She is cousin with [[Hugh Austan]]

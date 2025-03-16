@@ -1,0 +1,3 @@
+- Father of [[Ossian]]
+- Aristocrat from [[Syngorn]]
+- Of the [[Faedithas]] house

@@ -1,0 +1,5 @@
+- Lives in caves
+- Large
+- 10ft wormy body
+- Naturally armored
+- Tentacles

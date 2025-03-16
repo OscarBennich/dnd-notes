@@ -1,0 +1,1 @@
+This smooth dark grey stone allowed the night hag Luella the Dawnstealer to become ethereal while it was in her possession. Unfortunately, it does not impart this property to any other users. However, the touch of the Heartstone will cure any disease. This feature can only be used once per day.

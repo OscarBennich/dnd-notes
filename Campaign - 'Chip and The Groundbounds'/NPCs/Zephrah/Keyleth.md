@@ -1,0 +1,3 @@
+- Leader of [[Zephrah]]
+- AKA the "Voice of the Tempest"
+- She has met Gods?

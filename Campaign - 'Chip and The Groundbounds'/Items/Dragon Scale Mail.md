@@ -1,0 +1,3 @@
+- 14 AC + 1 + Dex
+- Medium armor
+- Disadvantage on stealth

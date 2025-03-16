@@ -1,0 +1,2 @@
+- Works at [[Tallyhoes]] in [[Stilben]]
+- Can use some kind of psychic magic

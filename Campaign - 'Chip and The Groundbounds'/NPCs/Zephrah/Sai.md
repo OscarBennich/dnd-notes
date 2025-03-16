@@ -1,0 +1,3 @@
+- From [[Zephrah]]
+- Son of [[Oswalt]] & [[Ellis]]
+- Brother to [[Gwen]]

@@ -1,0 +1,1 @@
+- Can be used as material for a resurrection ritual (needs to be worth at least 500g)

@@ -1,0 +1,3 @@
+- An [[Archfey]]
+- Aso known as "They-Who-Walk-Unseen", Master of the Unseelie Court (another political faction of the Feywild, which tends to be the Seelie Court’s darker counterpart)
+- He is said to have black eyes, a bald head adorned with blue markings and a darker blue gem in the center of his forehead

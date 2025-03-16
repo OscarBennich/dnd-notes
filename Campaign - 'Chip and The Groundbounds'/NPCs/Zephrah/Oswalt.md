@@ -1,0 +1,4 @@
+- Half-elf from [[Zephrah]]
+- Husband to [[Ellis]]
+- [[Gwen]] - daughter
+- [[Sai]] - son

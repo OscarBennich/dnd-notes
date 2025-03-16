@@ -1,0 +1,2 @@
+- Deceased ☠ 
+- (formerly) Married to [[Buddleah Austan]]

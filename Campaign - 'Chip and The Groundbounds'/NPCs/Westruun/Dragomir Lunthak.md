@@ -1,0 +1,5 @@
+- From [[Westruun]]
+- Representative / administrator for [[The League of Miracles]]
+- Lesser nobility
+- Has an office in the [[The League of Miracles]] HQ in Westruun
+- Used to be married to [[Lila Lunthak]]

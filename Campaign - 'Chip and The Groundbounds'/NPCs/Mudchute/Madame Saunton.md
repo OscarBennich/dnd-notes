@@ -1,0 +1,2 @@
+- Runs the [[The Crooked Gnome]] tavern in [[Mudchute]]
+- Everyone in the party owed her debts but they were repaid after giving her items found on [[Derwent]]

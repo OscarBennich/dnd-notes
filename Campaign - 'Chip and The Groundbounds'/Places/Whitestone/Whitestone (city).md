@@ -1,0 +1,2 @@
+- A city in [[Tal'Dorei]]
+- Also a type of magical stone

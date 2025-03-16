@@ -1,0 +1,5 @@
+- Tavern in [[Stilben]]
+- The innkeeper is [[Father Mordec Vart]]
+- Tavern activities:
+	- Dice games
+	- Lizard race

@@ -1,0 +1,4 @@
+- A mage who lives in a tower outside of [[Westruun]]
+- Used to be part of the [[Arcana Pansophical]]
+- He left for some reason
+- He's a "crotchety old fuck" (according to [[Billiam Christ]])

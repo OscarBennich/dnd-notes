@@ -1,0 +1,2 @@
+- From [[Zephrah]]
+- Romantically interested in [[Rosavine]]

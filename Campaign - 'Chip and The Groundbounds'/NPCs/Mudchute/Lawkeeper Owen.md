@@ -1,0 +1,2 @@
+- Found in [[Mudchute]]
+- Gave us a quest to [[Clear the north road from monsters]]

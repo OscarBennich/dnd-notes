@@ -1,0 +1,2 @@
+- Merchant in [[Drynna]]
+- Works in [[Finn and Fortune]]

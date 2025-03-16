@@ -1,0 +1,3 @@
+- Leader of the [[Herd of Storms]]
+- Found in [[Session 14]]
+- Female Goliath

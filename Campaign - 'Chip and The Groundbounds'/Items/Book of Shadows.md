@@ -1,0 +1,2 @@
+- Given to me by my [[Patron]]
+- In the tome are various spells that I am able to cast

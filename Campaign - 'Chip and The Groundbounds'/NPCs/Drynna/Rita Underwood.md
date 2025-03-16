@@ -1,0 +1,3 @@
+- From [[Drynna]]
+- Found in the [[Sunrise Lodge]]
+- Short-haired, female halfling, dirty-blonde hair

@@ -1,0 +1,2 @@
+- Founder of [[Westruun]]
+- The "Onyx King"

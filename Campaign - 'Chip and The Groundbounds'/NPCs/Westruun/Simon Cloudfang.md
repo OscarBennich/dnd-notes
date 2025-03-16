@@ -1,0 +1,1 @@
+- From [[Westruun - Temple of Melora]] in [[Westruun]]

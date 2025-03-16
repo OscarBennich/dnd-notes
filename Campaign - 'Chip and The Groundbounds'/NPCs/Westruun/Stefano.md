@@ -1,0 +1,2 @@
+- From [[Westruun]]
+- Bodyguard of [[Duchess Bianca Caliban]]

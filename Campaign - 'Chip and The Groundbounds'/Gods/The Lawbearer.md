@@ -1,0 +1,1 @@
+- Temple in [[Westruun]]: [[The Bastion]]

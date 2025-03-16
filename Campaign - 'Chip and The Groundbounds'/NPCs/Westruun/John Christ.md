@@ -1,0 +1,5 @@
+- Son of [[Billiam Christ]]
+- Tall and skinny
+- Half-elf
+- Mop of hair
+- Droning voice

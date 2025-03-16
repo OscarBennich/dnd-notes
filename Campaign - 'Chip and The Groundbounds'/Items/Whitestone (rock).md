@@ -1,0 +1,4 @@
+- A type of magical rock
+- Found in the lake near [[Drynna]]
+- It is originally from the *Alabaster Sierras*
+- It can be made into [[Residuum]]

@@ -1,0 +1,4 @@
+- From [[Westruun]]
+- 2m tall
+- "Thighs that could kill a man"
+- "Dripping with jewelry"

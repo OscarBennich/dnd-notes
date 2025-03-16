@@ -1,0 +1,2 @@
+- Second best university in [[Tal'Dorei]]
+- Located in [[Westruun]]
