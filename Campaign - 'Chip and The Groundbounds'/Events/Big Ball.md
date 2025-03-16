@@ -5,3 +5,5 @@
 - It is being held at the [[Margrave's Keep]]
 ---
 - [[Session 41]]
+- [[Session 42]]
+- [[Session 43]]
