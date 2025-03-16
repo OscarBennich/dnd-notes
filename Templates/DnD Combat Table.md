@@ -2,9 +2,10 @@
 - ??? AC
 - ~ ??? HP
 
-| Attacker | Defender | Attack / Spell | Hit / Spell Save | Damage | Total |
-| -------- | -------- | -------------- | ---------------- | ------ | ----- |
-| ...      | ...      | ...            | ...              | ...    | ...   |
-|          |          |                |                  |        | ☠     |
+| Attacker | Defender | Action | Attack roll / Saving throw | Damage / Healing / Outcome | Total damage / Status |
+| -------- | -------- | ------ | -------------------------- | -------------------------- | --------------------- |
+|          |          |        |                            |                            |                       |
+|          |          |        |                            |                            |                       |
+|          |          |        |                            |                            |                       |
 
 ---
