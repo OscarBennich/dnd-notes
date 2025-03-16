@@ -4,51 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bb9e79ff29378006",
+        "id": "b1134c1d2ebe7df5",
         "type": "tabs",
         "children": [
           {
-            "id": "c4e75b609e4fb38b",
+            "id": "3da758e9adf0dc6d",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Campaign - 'Chip and The Groundbounds'/Sessions/Session 44.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Session 44"
-            }
-          },
-          {
-            "id": "603ac99873eea0ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign - 'Chip and The Groundbounds'/Quests/Major quests/Investigate Ryzzix.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Investigate Ryzzix"
-            }
-          },
-          {
-            "id": "a8da6a45c5847c39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign - 'Chip and The Groundbounds'/Quests/Major quests/Find out who my Patron is and what she wants.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Find out who my Patron is and what she wants"
             }
           }
         ]
@@ -83,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nullifier",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,12 +73,22 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "8503eb101e859e37",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "9bd62b06c3d22fad",
@@ -124,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign - 'Chip and The Groundbounds'/Sessions/Session 44.md",
+                "file": "Campaign - 'Chip and The Groundbounds'/Sessions/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 44"
+              "title": "Backlinks for Session 2"
             }
           },
           {
@@ -200,34 +180,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4e75b609e4fb38b",
+  "active": "3da758e9adf0dc6d",
   "lastOpenFiles": [
-    "Campaign - 'Chip and The Groundbounds'/Quests/Major quests/Investigate Ryzzix.md",
-    "Campaign - 'Chip and The Groundbounds'/Quests/Major quests/Find out who my Patron is and what she wants.md",
-    "Campaign - 'Chip and The Groundbounds'/Sessions/Session 44.md",
-    "Campaign - 'Chip and The Groundbounds'/Quests/Major quests/Find connection between The League of Miracles and the Clasp.md",
-    "Campaign - 'Chip and The Groundbounds'/Quests/Minor quests/Investigate the strange speech from the Matron of Ravens priestesses.md",
+    "Campaign - 'Chip and The Groundbounds'/Items/Bead of Force.md",
+    "Campaign - 'Chip and The Groundbounds'/Items/Sovereign Glue.md",
     "Campaign - 'Chip and The Groundbounds'/Adventuring Party/Party Cheat Sheet.md",
-    "Campaign - 'Chip and The Groundbounds'/Quests/Minor quests/Investigate the Dragon attack at the Big Ball.md",
-    "Campaign - 'Chip and The Groundbounds'/Places/Westruun/The Offices of The League of Miracles.md",
-    "Campaign - 'Chip and The Groundbounds'/Sessions/Session 31.md",
-    "Campaign - 'Chip and The Groundbounds'/Sessions/Session 12.md",
-    "Campaign - 'Chip and The Groundbounds'/NPCs/Westruun/Headmistress Estella Ladimar.md",
+    "Campaign - 'Chip and The Groundbounds'/Items/Bracers of Archery.md",
+    "Campaign - 'Chip and The Groundbounds'/Items/Ring of Protection.md",
+    "Campaign - 'Chip and The Groundbounds'/Items/Hat of Vermin.md",
+    "Campaign - 'Chip and The Groundbounds'/Items/Bracelet of Calm Emotions.md",
+    "Campaign - 'Chip and The Groundbounds'/Items/Goggles of Night.md",
     "Campaign - 'Chip and The Groundbounds'/Sessions/Session 43.md",
-    "Campaign - 'Chip and The Groundbounds'/Groups/Council of Westruun.md",
-    "Templates/DnD Combat Table.md",
-    "Campaign - 'Chip and The Groundbounds'/Sessions/Session 30.md",
-    "Campaign - 'Chip and The Groundbounds'/Sessions/Session 40.md",
-    "Campaign - 'Chip and The Groundbounds'/NPCs/Patia Por'co.md",
-    "Campaign - 'Chip and The Groundbounds'/NPCs/Westruun/Lysandra Kalloss.md",
-    "Campaign - 'Chip and The Groundbounds'/NPCs/Vecna.md",
+    "Campaign - 'Chip and The Groundbounds'/Sessions/Session 44.md",
+    "Campaign - 'Chip and The Groundbounds'/Places/Westruun/The Offices of The League of Miracles.md",
     "Campaign - 'Chip and The Groundbounds'/NPCs/Westruun/Thorn Valestrike.md",
-    "Campaign - 'Chip and The Groundbounds'/NPCs/Westruun/Billiam Christ.md",
-    "Campaign - 'Chip and The Groundbounds'/NPCs/Westruun/Lynne Serafine.md",
-    "Campaign - 'Chip and The Groundbounds'/NPCs/Westruun/Rynn Dalbrick.md",
-    "Campaign - 'Chip and The Groundbounds'/NPCs/Westruun/Leoryl Velan.md",
-    "Campaign - 'Chip and The Groundbounds'/NPCs/Westruun/Illvara Tevric.md",
-    "Campaign - 'Chip and The Groundbounds'/NPCs/Westruun/Asif Valeron.md",
+    "Campaign - 'Chip and The Groundbounds'/NPCs/Westruun/The Grand Thaumaturge.md",
+    "Campaign - 'Chip and The Groundbounds'/NPCs/Westruun/Palest Westruun.md",
+    "Campaign - 'Chip and The Groundbounds'/Monsters/Nullifier.md",
+    "Campaign - 'Chip and The Groundbounds'/Groups/Council of Westruun.md",
+    "Campaign - 'Chip and The Groundbounds'/Sessions/Session 2.md",
+    "Templates/DnD Combat Table.md",
     "Templates",
     "dnd-notes"
   ]
