@@ -168,8 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "646eb37838203e28",
+  "active": "8503eb101e859e37",
   "lastOpenFiles": [
+    "Templates/DnD Combat Table.md",
+    "Templates",
     "dnd-notes"
   ]
 }
