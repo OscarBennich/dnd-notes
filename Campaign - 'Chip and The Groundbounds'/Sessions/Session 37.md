@@ -14,7 +14,7 @@
 - We head to [[Bäkerz Bakery]] instead to see if we can talk to [[Ansel]]
 - We find out about [[Realmseer Eskil Ryndarien]]
 - We to talk to [[Billiam Christ]]
-- I investigate the statue of [[Pealas Westruun]] (on a black horse) in the Opal Ward
+- I investigate the statue of [[Palest Westruun]] (on a black horse) in the Opal Ward
 - I find a *transmutation* glyph on the statue
 - It is used to animate objects?
 - I cast *Identify*

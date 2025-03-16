@@ -24,9 +24,8 @@
 - She will also be at the [[Big Ball]]
 - She lives in [[Caliban Manor]]
 - We leave [[Gilmore's Glorious Goods]]
-- Meanwhile, [[Narissa]] is investigating the [[Hall of Reason]] and the [[The League of Miracles]] HQ ("The offices of the League of Miracles")
-	- It is a free-standing building with alleys of either side and a gate in front
-	- The bars on the windows has runes etched into them
+- Meanwhile, [[Narissa]] is investigating the [[Hall of Reason]] and the [[The League of Miracles]] HQ
+	- [[The Offices of The League of Miracles]]
 - She comes back and we give her the [[Gloves of Thievery]]
 - We head to a tavern to eat lunch and let me attune to the [[Hat of Disguise]]
 - One of the windows in [[The League of Miracles]] HQ is connected to abjuration, denying entry

@@ -1,0 +1,5 @@
+- From [[Westruun]]
+- A woman in her early 60's, functional clothing
+- A member of the [[Council of Westruun]]
+- Retired captain of [[The Shields]]
+- She is focused on maintaining order in the city

@@ -1,0 +1,2 @@
+- Major landowner of farms outside of [[Westruun]]
+- Part of the [[Council of Westruun]]

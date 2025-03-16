@@ -1,1 +1,2 @@
 - *Lord Mayor* and *Lord Margrave* of [[Westruun]]
+- Head of the [[Council of Westruun]]

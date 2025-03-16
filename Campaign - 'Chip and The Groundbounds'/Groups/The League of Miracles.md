@@ -19,4 +19,4 @@
 - [[Dragomir Lunthak]] has an office in the [[The League of Miracles]] HQ in Westruun
 
 [[Session 42]]
-- The leader of the league is called *"The Grand Thaumaturge"*
+- The leader of the league is called [[The Grand Thaumaturge]]

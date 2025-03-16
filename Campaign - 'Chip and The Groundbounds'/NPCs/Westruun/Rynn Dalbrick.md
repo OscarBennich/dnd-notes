@@ -2,3 +2,4 @@
 - Half-Orc
 - Tall and muscular
 - Healer who runs a free clinic in [[Westruun]]
+- Part of [[Council of Westruun]]

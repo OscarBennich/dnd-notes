@@ -1,9 +1,9 @@
 - Big city in central [[Tal'Dorei]]
-- Founded by [[Pealas Westruun
+- Founded by [[Palest Westruun]]
 - The city is divided into 6 wards:
 	- Residential ward
 	- Opal ward
-		- The Opal ward has a statue of [[Pealas Westruun]], riding on a black horse
+		- The Opal ward has a black statue of [[Palest Westruun]], riding on black horse
 	- Temple ward
 	- Market ward
 	- Scholar ward

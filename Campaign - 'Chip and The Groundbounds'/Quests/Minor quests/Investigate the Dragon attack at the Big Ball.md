@@ -1,0 +1,51 @@
+[[Session 42]]
+- A two-headed green dragon was conjured during a fireworks display during the [[Big Ball]]
+
+[[Session 43]]
+- After it was defeated (by the Golem of [[Palest Westruun]]) it disappeared into thin air
+- Who conjured it?
+- And why?
+- Research in the [[Cobalt Reserve]]?
+- [[The Grand Thaumaturge]] has the ability to conjure [[Adronach]]s, is that a lead?
+	- We also had the attack from the [[Nullifier]] in the [[Chianfanelli Bank]] vault
+	- Are both of these attacks connected to [[The League of Miracles]]?
+- [[Chip]], [[Mads]], [[Narissa]] investigate the area around [[Margrave's Keep]] for clues, any traces of components
+- Whoever did it would have had to be close to the front of the party or just outside - tip from Mads
+	- Chip flies around looking, initially finding nothing. He increases the search area.
+		- He finds a copper coin, a mitten, and a pebble
+		- He finds a singed scrap of paper in an alley
+			- Arcana check (6): It looks weird
+			- Arcana check (23): It looks like *Spell Scroll Paper*
+			- I cast *Identify* on the paper
+			- The paper gives off the same "signature" as the scale
+	- [[Theo]] is also flying around looking, but doesn't find anything
+- I try to figure out what kind of magic could have conjured something like this
+	- Arcana check (17): I know that if I cast *Identify* I would be able to figure out more info
+	- I cast *Identify* on a dragon scale on the ground
+	- The spell that has been cast **doesn't have a name**
+		- It is a mixture of conjuration and transmutation
+		- Very unique, experimental, magic that I haven't encountered before
+		- Very tailor-made spell
+	- I reach out to my [[Patron]]
+		- She doesn't know either (or at least she says so)
+		- "I have a touch of the Fey. This isn't Fey."
+		- "Learned Wizards, experimenting..."
+		- "It would be interesting to know *why*"
+- Maybe find and talk to [[Realmseer Eskil Ryndarien]]?
+	- We saw him talking to the [[Headmistress Estella Ladimar]] and interested in what [[Dominic]] was saying
+	- He then left, somewhere (to his tower?)
+- [[Finley Merrymeat]] asks me about what I identified
+- [[Zenor]] looks worried when I tell them what I found
+- [[Mads]] and [[Chip]] leave to track whoever left the scrap of paper
+- Chip rides [[Theo]] - Animal handling check (Nat 20)
+- They look for traces of ash like the one from the paper
+- They head down a street in the direction of the Residential Ward
+- Escalating survival checks
+- It seems like the person looped back around and started going *back* to the Market Ward
+- Survival checks: 21 + 23 (DC 17)
+- Walking deeper into the Market Ward
+- Survival checks: 14 + 21 (DC 20)
+- They see scuff marks and tracks, now they're heading back *again* to the Opal Ward
+- Survival checks: 16 + 25 (DC 25)
+- They follow the tracks to a building on the edge of the Market Ward, bordering the Opal Ward
+- It's the [[The Offices of The League of Miracles]]!

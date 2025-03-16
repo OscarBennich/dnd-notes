@@ -33,3 +33,7 @@
 - She likes to flip between planes
 - Next steps:
 	- Go back to [[Cobalt Reserve]] and keep researching
+
+[[Session 43]]
+- "I have a touch of the **Fey**. This isn't Fey."
+	- See: [[Investigate the Dragon attack at the Big Ball]]

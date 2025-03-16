@@ -1,2 +1,3 @@
 - From [[Westruun]]
 - Guild master of the trader's guild
+- Part of the [[Council of Westruun]]

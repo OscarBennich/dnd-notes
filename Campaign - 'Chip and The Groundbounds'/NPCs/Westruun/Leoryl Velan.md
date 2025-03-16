@@ -1,0 +1,4 @@
+- Half-elf
+- Historian of [[Westruun]]
+- Convervationist
+- On the [[Council of Westruun]]

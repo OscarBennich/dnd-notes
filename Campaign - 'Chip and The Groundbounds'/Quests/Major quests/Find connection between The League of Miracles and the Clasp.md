@@ -1,22 +1,24 @@
 - [[The League of Miracles]]
 - [[The Clasp]]
 - From [[Billiam Christ]] in [[Westruun]]
+	- The quest is *actually* from [[Lysandra Kalloss]] (indirectly)
+	- Because she suspects that there are people on the [[Council of Westruun]] involved and she doesn't want them to know
 ---
 - Debt is being used as leverage against the council
-- If the league has ties to the Clasp it would make them outright illegal
+- If The League has ties to the Clasp it would make them outright illegal
 - This would be evidence that the league is a criminal organization
 - Billiam wants this for the good of [[Westruun]] (is that true?)
 - We need to be discrete
 - 2 paths:
-- (1) Go through the clasp tavern in the Market Ward (HQ? Cover?)
-- (2) Go through the league
-	- There's going to be a [[Big Ball]] in a week or two
-	- Billiam can get us in
-	- At the [[Lysandra Kalloss]]'s house
-	- [[Gilmore]] might be at the ball
-	- We need to get expensive clothes so we can blend in
-	- [[Simon Cloudfang]] might be at the ball too
-	- Could [[Buddleah Austan]] be there as well?
+	- (1) Go through the clasp tavern in the Market Ward (HQ? Cover?)
+	- (2) Go through the league
+		- There's going to be a [[Big Ball]] in a week or two
+		- Billiam can get us in
+		- At the [[Lysandra Kalloss]]'s house
+		- [[Gilmore]] might be at the ball
+		- We need to get expensive clothes so we can blend in
+		- [[Simon Cloudfang]] might be at the ball too
+		- Could [[Buddleah Austan]] be there as well?
 
 [[Session 34]]
 - Prominent members of [[The League of Miracles]] will be at the [[Big Ball]]

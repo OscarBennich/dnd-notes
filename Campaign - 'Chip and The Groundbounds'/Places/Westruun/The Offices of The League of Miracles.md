@@ -1,0 +1,6 @@
+- In [[Westruun]]
+- Headquarters of [[The League of Miracles]]
+---
+- It is a free-standing dark gray building with alleys on either side and a tall spike-tip iron fence that surrounds the building
+- With only one gate at the front
+- The bars on the windows has warding runes etched into them

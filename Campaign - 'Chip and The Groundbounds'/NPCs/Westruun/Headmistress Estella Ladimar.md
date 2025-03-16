@@ -1,0 +1,5 @@
+- From [[Westruun]]
+- Head mistress of [[Westhall Academy]]
+-  Dressed nicely
+- Clip in her hair
+- Mid 60's
