@@ -12,7 +12,7 @@
 - [[Mads]] has recovered from he illness
 - We all go to bed...
 - [[Chip]] dreams of a voice
-	- [[Iba]]?
+	- [[Eebah]]?
 - The others think Chip has died...
 - [[Evan|I]] have a vision of the heist
 - [[Patron|A voice]] speaks to me

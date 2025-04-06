@@ -1,2 +1,3 @@
 - Deceased ☠ 
 - (formerly) Married to [[Buddleah Austan]]
+- Cousin to [[Lila Lunthak]]

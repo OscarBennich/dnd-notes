@@ -1,0 +1,3 @@
+- Priestess from [[Westruun - Temple of Matron of Ravens]]
+- Gnome
+- Hundreds of years old

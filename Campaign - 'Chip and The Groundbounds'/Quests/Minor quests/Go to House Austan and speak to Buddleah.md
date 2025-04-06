@@ -1,3 +1,38 @@
  [[Session 42]]
- - During the [[Big Ball]], [[Buddleah Austan]] told us has some *suspicions* regarding the [[Investigate Bramblewood woman wandering outside of town|woman in the woods]] and [[Dragomir Lunthak]]
+ - During the [[Big Ball]], [[Buddleah Austan]] told us has some *suspicions* regarding the [[Investigate Bramblewood woman wandering outside of town|woman in the woods]] and [[Dragomir Lunthak]] (she's called *[[Janet]]*)
 - She didn't want to discuss it during the party but we're welcome to come by [[House Austan]] and speak to her
+- We could also ask her about [[Shadebarrow]]
+
+[[Session 44]]
+- [[Ossian]], [[Dain]], [[Mads]] will go talk to [[Buddleah Austan]]
+- They head to [[House Austan]]
+- The door is opened by a young servant girl
+- The light in the house is dim
+- They are brought into a front room with uncomfortable sofas
+- Buddleah shows up
+- Dragomir's servant Janet went missing some time ago
+- He went looking for her but her family still had questions
+- *"I find it interesting how many people around Dragomir seem to vanish"*
+- She suddenly seems reluctant to speak
+- [[Mads]] tells her about the [[Nullifier]] and it's connection to [[Dragomir Lunthak]]
+- Persuasion check: 24
+- Buddleah: "*I believe Dragomir killed Janet*" (but she has no proof)
+- She found out something she shouldn't have and he tried to cover it up?
+- Two contracts with the League:
+	- Build a Skyport
+	- Magical protection
+- She goes and gets a letter and comes back
+	- The letter was sent ~ 31 years ago
+	- It was among Hugh's belongings when he passed
+- It's addressed to [[Hugh Austan]] from [[Lila Lunthak]]
+- It says she chose to leave Dragomir
+- It accuses Dragomir of prioritizing his "disgusting experiments" and that he is to blame for their daughters "fate"
+	- Were these experiments what [[Janet]] stumbled across?
+- Was the daughter born with some kind of deformity?
+	- Tiefling?
+- Mads asks where Dragomir would be more likely to hide something
+	- His house?
+	- His office?
+- They ask her about [[Shadebarrow]]
+- Mads, Dain, and Ossian thank Buddleah and leave
+- Quest complete ✅

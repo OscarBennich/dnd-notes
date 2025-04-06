@@ -26,7 +26,7 @@
 * Thana is sitting close by and smoking a pipe
 * She asks Narissa to let the Gnoll go
 * Narissa agrees and joins her by lighting a cigarette
-* Thana:
+* [[Thana]]:
 	* "Be careful"
 	* "A lot of strange activity"
 	* "Skeletons - undead activity"

@@ -1,0 +1,3 @@
+- Priestess from [[Westruun - Temple of Matron of Ravens]]
+- Gave an ominous speech at the [[Big Ball]] in [[Westruun]]
+	- See [[Investigate the ominous speech from the Matron of Ravens priestesses]]

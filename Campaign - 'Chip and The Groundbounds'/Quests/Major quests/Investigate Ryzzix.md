@@ -22,3 +22,7 @@
 - We spoke to [[Theodora]] but she doesn't know anything more
 - Should we head to [[Westruun]] to find out more information about Ryzzix?
 	- Go to the [[Cobalt Reserve]]?
+
+[[Session 44]]
+- Ryzzix was a *Quasit* (Arcana check) - a lower tier demon
+- We probably wouldn't be able to find anything specific about Ryzzix at the [[Cobalt Reserve]]

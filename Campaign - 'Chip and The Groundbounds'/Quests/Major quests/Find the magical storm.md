@@ -1,5 +1,6 @@
 - [[Chip]] was sent to [[Tal'Dorei]] to find this magical storm
-- It is somehow connected to a threat to his home
+- It is somehow connected to a threat to the world
+- [[Eebah]] had a vision about the storm
 
 [[Session 7]]
 - More storms north of here ([[Stilben]]), towards [[Drynna]]
@@ -20,16 +21,16 @@
 	- Became druid worshippers tomb?
 - *Temple of the Wildmother* in [[Westruun]] might know more
 - Something happened to this [[Shadebarrow]] place to "piss off" Melora? Therefore creating a literal or metaphorical storm
-- (1) Find out more info from the [[Westruun - Temple of Melora]]  in Westruun
+- (1) Find out more info from the [[Westruun - Temple of Melora]] in Westruun
 - (2) **Find Shadebarrow to investigate**
 
 [[Session 31]]
 - Chip, [[Dain]], and [[Evan|me]] head to the Temple of Melora
 - We talk to someone at the temple and ask about [[Shadebarrow]]
 	- Druids of the Dawncircle
-	- There was an old king - [[King Drassig]]
+	- There was an old king - [[Trist Drassig]]
 	- Shadebarrow become a burial ground for the druids
-	- It was later owned by trade unions before being purchased by [[Baron Hauthess]] at great cost
+	- It was later owned by trade unions before being purchased by [[Baron Howthess]] at great cost
 	- He outfitted his tomb with riches
 	- Now, no one knows where the tomb is
 	- Adventuring parties sometimes look for it
@@ -49,3 +50,11 @@
 - Could this be connected to the Tomb in [[Shadebarrow]]?
 - She says there is "undead stuff" happening on the plains
 - She knows she was east of [[Gatshadow]] and south of the road
+
+[[Session 44]]
+- Chip asks [[Mother Veyra]] in the [[Westruun - Temple of Matron of Ravens]] about the storm
+- She also thinks that it could **refer to an army of undead**
+- Chip: *Thank you, I love you.*
+- - I ask her about people being turned undead ([[Meg Ruddlestone]])
+- She tells us of her brother who was turned undead, but he seems to have been more of a zombie
+- She says that if someone was turned undead but kept their "soul", the Matron might have a reason for it

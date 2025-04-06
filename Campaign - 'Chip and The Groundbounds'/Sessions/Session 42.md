@@ -48,7 +48,7 @@
 - As they spoke their voice changed
 - When they're done they seem staggered
 - A direct message from the [[Matron of Ravens]] herself?
-	- [[Investigate the strange speech from the Matron of Ravens priestesses]] 🆕
+	- [[Investigate the ominous speech from the Matron of Ravens priestesses]] 🆕
 - The mayor doesn't seem as surprised, more worried
 - [[Buddleah Austan]] looks particularly disturbed
 - Finale of the [[Big Ball]]

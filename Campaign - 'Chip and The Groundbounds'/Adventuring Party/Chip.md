@@ -6,5 +6,4 @@
 - Played by Lotta
 ---
 - Chip comes from the village of [[Faernwë]]
-- Chip's best friend is [[Eba]]
-- 
+- He was raised by [[Eebah]]

@@ -1,4 +1,5 @@
-- Descendent of [[Baron Hauthess]]
+- Descendent of [[Baron Howthess]]
+- Cousin of [[Camilla Tenver]]
 - Remains in [[Westruun]]
 - Used to be married to [[Hugh Austan]]
 - Aristocrat

@@ -1,0 +1,2 @@
+- Found [[Chip]]'s egg in [[Marquet]]
+- Raised him in [[Faernwë]]

@@ -1,2 +1,3 @@
-- Descendent of [[Baron Hauthess]]
-- Headed towards [[Lyrengorn]]
+- Descendent of [[Baron Howthess]]
+- Is in [[Lyrengorn]]?
+- Cousin of [[Buddleah Austan]]

@@ -1,3 +1,6 @@
 - Albino Tiefling
-- From [[Westruun]]
+- Lives in [[Westruun]]
+- From the [[Alabaster Sierras]]
 - [[Spellwright]] for [[The League of Miracles]]
+- She joined the League because there was an attack on the Market Ward when she was a child and the League defended the city
+- She helped defeat the Magma Landsharks in an attack on the Market Ward when she was an adult

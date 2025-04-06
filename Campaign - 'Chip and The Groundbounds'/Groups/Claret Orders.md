@@ -1,0 +1,3 @@
+- Formed when a plague of undeath spread across [[Wildemount]]
+- The [[Matron of Ravens]] gave her followers 
+- Blood Mage, Blood Hunter, 

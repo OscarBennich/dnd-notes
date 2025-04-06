@@ -1,2 +1,6 @@
 - In [[Westruun]]
 - [[Buddleah Austan]] lives here
+- In the Residential Ward
+- The windows are opaque
+- A gate
+- Staircase leading up to a large door with a knocker

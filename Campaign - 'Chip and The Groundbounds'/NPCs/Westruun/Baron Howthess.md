@@ -1,5 +1,5 @@
+- *Sevil Howthess*
 - Old baron from [[Westruun]]
-- His first name was "Sevil"
 - He was obsessed with history
 - Rich but foolish with money
 - Descendants:

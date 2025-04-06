@@ -37,3 +37,10 @@
 [[Session 43]]
 - "I have a touch of the **Fey**. This isn't Fey."
 	- See: [[Investigate the Dragon attack at the Big Ball]]
+
+[[Session 44]]
+- I go to the [[Cobalt Reserve]] and read about Fey
+- Roll DC6 = 5 + 3
+- I find out about 2 more [[Archfey]]:
+	- ...
+	- Titania

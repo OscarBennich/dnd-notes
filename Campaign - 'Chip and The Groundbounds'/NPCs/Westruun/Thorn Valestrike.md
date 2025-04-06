@@ -1,3 +1,3 @@
-- Female Tielfing
+- Female Tiefling
 - From [[Westruun]]
 - Representative of the Underwalk on the [[Council of Westruun]]

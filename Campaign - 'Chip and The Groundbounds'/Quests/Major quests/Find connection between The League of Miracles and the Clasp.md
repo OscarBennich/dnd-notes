@@ -10,7 +10,8 @@
 - Billiam wants this for the good of [[Westruun]] (is that true?)
 - We need to be discrete
 - 2 paths:
-	- (1) Go through the clasp tavern in the Market Ward (HQ? Cover?)
+	- (1) Go through the Clasp tavern in the Market Ward (HQ? Cover?)
+		- [[The Saddled Plainscow]]
 	- (2) Go through the league
 		- There's going to be a [[Big Ball]] in a week or two
 		- Billiam can get us in

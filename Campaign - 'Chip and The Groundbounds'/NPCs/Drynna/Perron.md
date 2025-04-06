@@ -1,3 +1,4 @@
 - From [[Drynna]]
 - Half-orc woman
 - She's been tracking something evil for a while
+- A [[Blood Hunter]]?

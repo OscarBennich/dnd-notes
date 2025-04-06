@@ -15,7 +15,7 @@
 - My [[Patron]] speaks to me - *"Be seeing me soon"*
 - We decide to head to the [[Cobalt Reserve]] to do research
 	- The monster in the bank
-	- [[Baron Hauthess]]
+	- [[Baron Howthess]]
 	- My [[Patron]]
 	- [[Matron of Ravens]]
 - We find a cheat-sheet for how to talk to nobles (outdated though)
