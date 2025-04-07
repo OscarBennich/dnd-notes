@@ -26,3 +26,4 @@
 [[Session 44]]
 - Ryzzix was a *Quasit* (Arcana check) - a lower tier demon
 - We probably wouldn't be able to find anything specific about Ryzzix at the [[Cobalt Reserve]]
+- We'll give this up (for now)
