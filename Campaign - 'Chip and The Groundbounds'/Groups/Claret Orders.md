@@ -1,3 +1,3 @@
-- Formed when a plague of undeath spread across [[Wildemount]]
-- The [[Matron of Ravens]] gave her followers 
-- Blood Mage, Blood Hunter, 
+Formed when a plague of undeath spread across [[Wildemount]]. The [[Matron of Ravens]] gave one of her priests the power of blood magic, leading to the first [[Blood Cleric]]s, [[Blood Hunter]]s and [[Blood Mage]]s. They work in secrecy, since their abilities are largely misunderstood. They keep their numbers small so as not to share their knowledge with those who would abuse it. However, some have slipped through the cracks.
+
+The Creed of the Claret Orders asks that followers commit their lives to hunting entities and creatures that threaten the sanctity of life and joy. They strive to protect those who cannot protect themselves, but do so from the shadows, taking no credit beyond the means to live and travel.
