@@ -14,7 +14,7 @@
 ---
 - We decide to head back to [[Doom Bar]] to take a long rest
 - We will get an invitation to stay with [[Duchess Bianca Caliban]] in a few days probably, at that point we can move out of Doom Bar
-- [[Mads]] reads the book she found at the ball ("A history of Tal'Dorei" by Findus Wandtrap)
+- [[Mads]] reads the book she found at the ball ([[A History of Tal’Dorei]] by [[Findus von Trapp]])
 	- See [[Session 41]]
 - Chip and I hear a knock at our door in the morning
 - [[Zenor]] is outside the door
