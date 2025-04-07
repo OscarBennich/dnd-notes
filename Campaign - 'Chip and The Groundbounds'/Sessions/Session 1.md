@@ -1,3 +1,5 @@
+**Date**: 2022-09-24
+
 > [!Summary] Current quests
 > - [[Main quest]]
 

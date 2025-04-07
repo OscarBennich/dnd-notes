@@ -1,3 +1,5 @@
+**Date**: 2022-12-04
+
 > [!Summary] Current quests
 > - [[Main quest]]
 > - [[Clear the north road from monsters]]
@@ -6,7 +8,6 @@
 > - [[Find a way to resurrect Dain]]
 > - [[Find Griphon egg poachers]]
 > - [[Narissa is wanted for murder in Westruun]]
-
 
 ---
 - We are now level 3! 🎉

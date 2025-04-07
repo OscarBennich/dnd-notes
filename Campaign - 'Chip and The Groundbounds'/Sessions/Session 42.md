@@ -1,3 +1,5 @@
+**Date**: 2025-01-25
+
 > [!Summary] Current quests
 > - [[Main quest]]
 > - [[Find the magical storm]]

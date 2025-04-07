@@ -1,3 +1,10 @@
+**Dates**:
+- 2022-05-08
+- 2022-05-11
+- 2022-07-09
+- 2022-07-18
+- 2022-09-27
+---
 We find ourselves in [[The Crooked Gnome]], a tavern in the village of [[Mudchute]]. My sister, [[Narissa]], has gotten in trouble with the locals and I'm here to help her.
 
 Our entire party has been contacted by the mysterious [[Madame Saunton]], who runs the tavern. Everyone (including [[Narissa]]) owes her in one way or another which is the reason we're here.

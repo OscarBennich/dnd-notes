@@ -1,8 +1,6 @@
-Wondrous Item, uncommon (requires attunement)
+**Date**: 2023-02-19
 
-While wearing this hat, you can cast the [Disguise Self](https://www.dndbeyond.com/spells/2619102-disguise-self) spell. The spell ends if the hat is removed.
-
-Notes: Deception, Headwear> [!Summary] Current quests
+> [!Summary] Current quests
 > - [[Main quest]]
 > - [[Find the magical storm]]
 > - [[Find Griphon egg poachers]]

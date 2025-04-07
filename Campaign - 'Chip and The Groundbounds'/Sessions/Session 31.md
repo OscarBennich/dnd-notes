@@ -1,3 +1,5 @@
+**Date**: 2024-06-29 (Norrfjärd)
+
 > [!Summary] Current quests
 > - [[Main quest]]
 > - [[Find the magical storm]]

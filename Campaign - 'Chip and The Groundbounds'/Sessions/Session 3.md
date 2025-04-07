@@ -1,3 +1,5 @@
+**Date**: 2022-10-16
+
 > [!Summary] Current quests
 > - [[Main quest]]
 > - [[Clear the north road from monsters]]
