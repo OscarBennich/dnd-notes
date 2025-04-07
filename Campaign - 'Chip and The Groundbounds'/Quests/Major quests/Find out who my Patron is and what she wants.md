@@ -42,5 +42,6 @@
 - I go to the [[Cobalt Reserve]] and read about Fey
 - Roll DC6 = 5 + 3
 - I find out about 2 more [[Archfey]]:
-	- ...
-	- Titania
+	- [[Lady Elmenore the Unforgiving]]
+	- [[Queen Titania]]
+- Queen Titania sounds very familiar...
