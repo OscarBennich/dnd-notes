@@ -1,12 +1,12 @@
 **Date**: 2025-03-16
 
 > [!Summary] Current quests
-> - [[Main quest]]
+> - [[Main quest (speculation)]]
 > - [[Find the magical storm]]
 > - [[Narissa is wanted for murder in Westruun]]
 > - [[Investigate Ryzzix]]
 > - [[Find out who my Patron is and what she wants]]
-> - [[Find connection between The League of Miracles and the Clasp]]
+> - [[Find a connection between The League of Miracles and The Clasp]]
 > - [[Go to House Austan and speak to Buddleah]] 🆕
 > - [[Investigate the ominous speech from the Matron of Ravens priestesses]] 🆕
 

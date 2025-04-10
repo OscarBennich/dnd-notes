@@ -1,4 +1,4 @@
-- *Sevil Howthess*
+- AKA *Baron Howthess*
 - Old baron from [[Westruun]]
 - He was obsessed with history
 - Rich but foolish with money

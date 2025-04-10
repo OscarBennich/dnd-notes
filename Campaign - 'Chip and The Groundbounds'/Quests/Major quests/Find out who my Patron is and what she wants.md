@@ -39,9 +39,9 @@
 	- See: [[Investigate the Dragon attack at the Big Ball]]
 
 [[Session 44]]
-- I go to the [[Cobalt Reserve]] and read about Fey
+- I go to the [[Cobalt Reserve]] and read more about Archfey
 - Roll DC6 = 5 + 3
 - I find out about 2 more [[Archfey]]:
 	- [[Lady Elmenore the Unforgiving]]
 	- [[Queen Titania]]
-- Queen Titania sounds very familiar...
+- The description of Queen Titania sounds a lot like my Patron...

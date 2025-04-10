@@ -1,7 +1,7 @@
 **Date**: 2023-09-23
 
 > [!Summary] Current quests
-> - [[Main quest]]
+> - [[Main quest (speculation)]]
 > - [[Find the magical storm]]
 > - [[Narissa is wanted for murder in Westruun]]
 > - [[Investigate Ryzzix]]

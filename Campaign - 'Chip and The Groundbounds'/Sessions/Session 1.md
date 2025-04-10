@@ -1,7 +1,7 @@
 **Date**: 2022-09-24
 
 > [!Summary] Current quests
-> - [[Main quest]]
+> - [[Main quest (speculation)]]
 
 ---
 - We are now level 2! 🎉

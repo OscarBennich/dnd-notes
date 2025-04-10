@@ -12,3 +12,5 @@ General ideas:
 	- (also connected to [[Find the magical storm]])
 - Something related to [[Ryzzix]]?
 	- [[Investigate Ryzzix]]
+---
+- 🔀 Merged into [[Main Quest - Investigate Shadebarrow]]

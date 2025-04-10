@@ -1,3 +1,3 @@
-- Descendent of [[Baron Howthess]]
+- Descendent of [[Sevil Howthess]]
 - Is in [[Lyrengorn]]?
 - Cousin of [[Buddleah Austan]]

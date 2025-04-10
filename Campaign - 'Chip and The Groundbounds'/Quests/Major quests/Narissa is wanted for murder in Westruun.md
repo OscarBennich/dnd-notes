@@ -138,7 +138,7 @@
 	2. The whole party leave and go to the [[Hall of Reason]] with 4th level *Invisibility* from Ossian, and *Pass without Trace* from Mads
 	3. Gets inside (??)
 	4. Dispel the alarm spell on the door
-	5. Look fort he documents about the [[Herbalist shop]]
+	5. Look for he documents about the [[Herbalist shop]]
 - We start the heist plan
 - Chip summons a *Giant Elk* from the [[Gray Bag of Tricks]] as a distraction
 - We get into the main hall through lockpicking the main door

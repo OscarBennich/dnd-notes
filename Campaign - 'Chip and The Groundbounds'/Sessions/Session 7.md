@@ -1,7 +1,7 @@
 **Date**: 2022-12-17
 
 > [!Summary] Current quests
-> - [[Main quest]]
+> - [[Main quest (speculation)]]
 > - [[Clear the north road from monsters]]
 > - [[Find the magical storm]]
 > - ~~[[Find a way to resurrect Dain]]~~ ✅

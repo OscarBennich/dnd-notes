@@ -5,5 +5,6 @@
 - Subclass: Phantom
 - Full name:  *Narissa Cross*
 - Sister to [[Evan]]
+- Daughter to [[Evans mother]] and [[Evans father]]
 - Played by Milena
 ---

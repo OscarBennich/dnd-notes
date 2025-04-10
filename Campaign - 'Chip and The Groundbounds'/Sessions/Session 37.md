@@ -1,12 +1,12 @@
 **Date**: 2024-10-26
 
 > [!Summary] Current quests
-> - [[Main quest]]
+> - [[Main quest (speculation)]]
 > - [[Find the magical storm]]
 > - [[Narissa is wanted for murder in Westruun]]
 > - [[Investigate Ryzzix]]
 > - [[Find out who my Patron is and what she wants]]
-> - [[Find connection between The League of Miracles and the Clasp]]
+> - [[Find a connection between The League of Miracles and The Clasp]]
 > - ~~[[Investigate Bramblewood woman wandering outside of town]]~~ ✅
 > - [[Friends of the Minack want people to join their cult]]
 
@@ -34,7 +34,7 @@
 	- *My power is not my own*
 		- Quest: [[Find out who my Patron is and what she wants]]
 	- *Many threads connected to a greater picture*
-		- Quest: [[Main quest]]
+		- Quest: [[Main quest (speculation)]]
 	- *My sister is being hunted and the longer we wait, the worse it will become*
 		- Quest: [[Narissa is wanted for murder in Westruun]]
 - [[Mads]] asks around [[Westhall Academy]] about Jude

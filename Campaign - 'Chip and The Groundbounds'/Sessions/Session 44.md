@@ -1,12 +1,12 @@
 **Date**: 2025-04-06
 
 > [!Summary] Current quests
-> - [[Main quest]]
+> - [[Main quest (speculation)]]
 > - [[Find the magical storm]]
 > - [[Narissa is wanted for murder in Westruun]]
 > - [[Investigate Ryzzix]]
 > - [[Find out who my Patron is and what she wants]]
-> - [[Find connection between The League of Miracles and the Clasp]]
+> - [[Find a connection between The League of Miracles and The Clasp]]
 > - [[Go to House Austan and speak to Buddleah]]
 > - [[Investigate the ominous speech from the Matron of Ravens priestesses]]
 > - [[Investigate the Dragon attack at the Big Ball]] 🆕
@@ -32,11 +32,11 @@
 - *Mads new armor is ready to be picked up*
 - The party reconvenes and we go find something to eat from one of the festival stalls
 - Next steps:
-	- Head to [[Lyrengorn]] to gather forces for attacking [[Shadebarrow]]?
+	- Head to [[Lyrengorn]] to find answers?
 		- See [[Investigate the ominous speech from the Matron of Ravens priestesses]]
 	- Go to the [[Herbalist shop]] and try to figure out what exactly happened
 	- Go to the [[The Offices of The League of Miracles]] and investigate [[Dragomir Lunthak]] and the rest of the League
-		- Quest: [[Find connection between The League of Miracles and the Clasp]]
+		- Quest: [[Find a connection between The League of Miracles and The Clasp]]
 	- Go to the [[Cobalt Reserve]] and investigate my [[Patron]]
 		- Quest: [[Find out who my Patron is and what she wants]]
 - [[Dain]] casts *Locate Creature* to see if he can find [[Lila Lunthak]]

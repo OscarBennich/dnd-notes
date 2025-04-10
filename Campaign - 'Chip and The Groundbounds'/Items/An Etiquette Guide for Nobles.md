@@ -1,4 +1,4 @@
-By Baron Sevil Howthess (published 50 years ago) 
+By Baron [[Sevil Howthess]] (published 50 years ago) 
 
 #### Introduction
 

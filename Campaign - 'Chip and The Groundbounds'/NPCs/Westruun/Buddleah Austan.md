@@ -1,4 +1,4 @@
-- Descendent of [[Baron Howthess]]
+- Descendent of [[Sevil Howthess]]
 - Cousin of [[Camilla Tenver]]
 - Remains in [[Westruun]]
 - Used to be married to [[Hugh Austan]]

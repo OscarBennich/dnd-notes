@@ -1,7 +1,7 @@
 **Date**: 2024-01-21
 
 > [!Summary] Current quests
-> - [[Main quest]]
+> - [[Main quest (speculation)]]
 > - [[Find the magical storm]]
 > - [[Narissa is wanted for murder in Westruun]]
 > - [[Investigate Ryzzix]]

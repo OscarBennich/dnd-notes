@@ -5,8 +5,7 @@
 - Subclass: The Archfey
 - Full name: *Evan Cross*
 - Brother to [[Narissa]]
-- Father: [[Evans father]]
-- Mother: [[Evans mother]]
+- Son to [[Evans mother]] and [[Evans father]]
 - Played by me (Oscar)
 ---
 **Backstory**

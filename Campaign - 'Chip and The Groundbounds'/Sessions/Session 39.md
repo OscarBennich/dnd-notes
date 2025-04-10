@@ -1,12 +1,12 @@
 **Date**: 2024-11-30
 
 > [!Summary] Current quests
-> - [[Main quest]]
+> - [[Main quest (speculation)]]
 > - [[Find the magical storm]]
 > - [[Narissa is wanted for murder in Westruun]]
 > - [[Investigate Ryzzix]]
 > - [[Find out who my Patron is and what she wants]]
-> - [[Find connection between The League of Miracles and the Clasp]]
+> - [[Find a connection between The League of Miracles and The Clasp]]
 
 ---
 - The [[Big Ball]] is in 4 days

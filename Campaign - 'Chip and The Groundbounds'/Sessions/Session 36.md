@@ -1,12 +1,12 @@
 **Date**: 2024-10-13
 
 > [!Summary] Current quests
-> - [[Main quest]]
+> - [[Main quest (speculation)]]
 > - [[Find the magical storm]]
 > - [[Narissa is wanted for murder in Westruun]]
 > - [[Investigate Ryzzix]]
 > - [[Find out who my Patron is and what she wants]]
-> - [[Find connection between The League of Miracles and the Clasp]]
+> - [[Find a connection between The League of Miracles and The Clasp]]
 > - ~~[[Maximo Briggs needs adventurers to find dangerous beasts]]~~ ✅
 > - [[Investigate Bramblewood woman wandering outside of town]]
 > - [[Friends of the Minack want people to join their cult]]

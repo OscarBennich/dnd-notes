@@ -1,7 +1,7 @@
 **Date**: 2023-03-26
 
 > [!Summary] Current quests
-> - [[Main quest]]
+> - [[Main quest (speculation)]]
 > - [[Find the magical storm]]
 > - [[Find Griphon egg poachers]]
 > - [[Narissa is wanted for murder in Westruun]]

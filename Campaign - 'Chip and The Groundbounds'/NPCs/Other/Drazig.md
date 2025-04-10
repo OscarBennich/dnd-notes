@@ -1,1 +1,0 @@
-- Former evil ruler of the land

@@ -1,7 +1,7 @@
 **Date**: 2024-06-29 (Norrfjärd)
 
 > [!Summary] Current quests
-> - [[Main quest]]
+> - [[Main quest (speculation)]]
 > - [[Find the magical storm]]
 > - [[Narissa is wanted for murder in Westruun]]
 > - [[Investigate Ryzzix]]
@@ -91,7 +91,7 @@
 	- We head over there
 - We meet up with Levi and he introduces us to the rest of [[Billiam Christ]]'s "sons"
 - Billiam has heard a rumor that someone high up in [[The League of Miracles]] is working with [[The Clasp]]
-	- Can we find evidence of the direct link of this? ➡ [[Find connection between The League of Miracles and the Clasp|new quest]]!
+	- Can we find evidence of the direct link of this? ➡ [[Find a connection between The League of Miracles and The Clasp|new quest]]!
 - Debt is used as leverage from the league against the council
 - This would be evidence that the league is a criminal organization
 - Billiam wants this for the good of [[Westruun]] (...?)

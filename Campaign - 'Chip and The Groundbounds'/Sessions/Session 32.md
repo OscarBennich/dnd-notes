@@ -1,12 +1,12 @@
 **Date**: 2024-06-30 (Norrfjärd)
 
 > [!Summary] Current quests
-> - [[Main quest]]
+> - [[Main quest (speculation)]]
 > - [[Find the magical storm]]
 > - [[Narissa is wanted for murder in Westruun]]
 > - [[Investigate Ryzzix]]
 > - [[Find out who my Patron is and what she wants]]
-> - [[Find connection between The League of Miracles and the Clasp]] 🆕
+> - [[Find a connection between The League of Miracles and The Clasp]] 🆕
 
 ---
 - We go back to the tavern to sleep
@@ -17,7 +17,7 @@
 - My [[Patron]] speaks to me - *"Be seeing me soon"*
 - We decide to head to the [[Cobalt Reserve]] to do research
 	- The monster in the bank
-	- [[Baron Howthess]]
+	- [[Sevil Howthess]]
 	- My [[Patron]]
 	- [[Matron of Ravens]]
 - We find a cheat-sheet for how to talk to nobles (outdated though)

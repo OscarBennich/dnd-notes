@@ -1,7 +1,7 @@
 **Date**: 2022-12-04
 
 > [!Summary] Current quests
-> - [[Main quest]]
+> - [[Main quest (speculation)]]
 > - [[Clear the north road from monsters]]
 > - ~~[[Transport cart to Stilben]]~~ ✅ 
 > - [[Find the magical storm]]

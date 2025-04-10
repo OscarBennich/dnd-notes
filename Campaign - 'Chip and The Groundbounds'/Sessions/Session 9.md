@@ -1,7 +1,7 @@
 **Date**: 2023-01-28
 
 > [!Summary] Current quests
-> - [[Main quest]]
+> - [[Main quest (speculation)]]
 > - ~~[[Clear the north road from monsters]]~~ ✅
 > - [[Find the magical storm]]
 > - [[Find Griphon egg poachers]]

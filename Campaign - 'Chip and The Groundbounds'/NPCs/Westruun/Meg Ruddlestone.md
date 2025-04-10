@@ -1,4 +1,4 @@
 - Found in [[Westruun]]
 - Related to [[Teath Ruddlestone]]
 - From [[Drynna]]
-- Turned undead in [[Shadebarrow]]?
+- Turned undead in [[Shadebarrow]]? 

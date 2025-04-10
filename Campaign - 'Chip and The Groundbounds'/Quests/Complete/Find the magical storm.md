@@ -30,7 +30,7 @@
 	- Druids of the Dawncircle
 	- There was an old king - [[Trist Drassig]]
 	- Shadebarrow become a burial ground for the druids
-	- It was later owned by trade unions before being purchased by [[Baron Howthess]] at great cost
+	- It was later owned by trade unions before being purchased by [[Sevil Howthess]] at great cost
 	- He outfitted his tomb with riches
 	- Now, no one knows where the tomb is
 	- Adventuring parties sometimes look for it
@@ -55,6 +55,8 @@
 - Chip asks [[Mother Veyra]] in the [[Westruun - Temple of Matron of Ravens]] about the storm
 - She also thinks that it could **refer to an army of undead**
 - Chip: *Thank you, I love you.*
-- - I ask her about people being turned undead ([[Meg Ruddlestone]])
+- I ask her about people being turned undead ([[Meg Ruddlestone]])
 - She tells us of her brother who was turned undead, but he seems to have been more of a zombie
 - She says that if someone was turned undead but kept their "soul", the Matron might have a reason for it
+- I think the "storm" is whatever is happening at [[Shadebarrow]]
+- Merged into [[Main Quest - Investigate Shadebarrow]] 🔀

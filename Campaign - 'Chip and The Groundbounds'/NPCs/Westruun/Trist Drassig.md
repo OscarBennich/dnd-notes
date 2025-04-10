@@ -1,0 +1,3 @@
+- King Trist Drassig, second-born son of the despotic Warren Drassig
+- Former evil ruler of the land
+- See [[A History of Tal’Dorei]]

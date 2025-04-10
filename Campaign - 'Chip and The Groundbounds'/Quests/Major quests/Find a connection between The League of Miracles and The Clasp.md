@@ -30,6 +30,17 @@
 - She doesn't want to discuss it during the party but we're welcome to come by [[House Austan]] and speak to her
 - Next steps:
 	- [[Go to House Austan and speak to Buddleah]] 🆕
-	- Go to the offices of [[The League of Miracles]] in [[Westruun]] and see what we can find there'
+	- Go to the offices of [[The League of Miracles]] in [[Westruun]] and see what we can find there
 	- Go back to the grave of the [[Investigate Bramblewood woman wandering outside of town|woman in the woods]] and use *Speak with Dead* to figure out more info about Lunthak
 		- Her body has probably been taken by [[The Shields]] though...
+
+[[Session 43]]
+- We found out that the tracks leading from the summoning of the dragon that attacked the [[Big Ball]] lead directly to the [[The Offices of The League of Miracles]]
+
+[[Session 44]]
+- [[Buddleah Austan]] told us she believed [[Dragomir Lunthak]] killed his servant [[Janet]] (even though she doesn't have proof) because Janet found something she shouldn't have and he tried to cover it up
+- She also showed us a letter from [[Lila Lunthak]] to [[Hugh Austan]] in which she says she chose to leave Dragomir because he prioritized his "disgusting experiments" and that he is to blame for their daughters "fate"
+	- Meaning he is to blame for [[Mads]] becoming a Tiefling?
+- Were these experiments what [[Janet]] stumbled across?
+- (see [[Go to House Austan and speak to Buddleah]])
+- If Dragomir has hidden any evidence of these experiments in his office, we could use them to expose him and that might lead us to a connection between The League and The Clasp.
