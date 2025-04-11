@@ -64,7 +64,7 @@
 	- She sees [[Steppen Wolfe]]
 		- What was he trying to steal? Why?
 	- She goes further back, back to our cottage as a child
-	- She sees our [[Evans mother|mother]], [[Evans father|father]], and me
+	- She sees our [[Dahlia Cross|mother]], [[Elluin Valfir|father]], and me
 	- Father is worried as he looks at our mother
 	- The nature of father's magic seems unclear. A bit like Narissa's magic?
 	- She sees father's face between two peaks ([[Lyrengorn]]), and blood rain falls

@@ -1,0 +1,4 @@
+- Mother to [[Evan]] and [[Narissa]]
+- A human woman with tan skin, dark brown hair and brown eyes. 
+- Worked as a healer and midwife on the outskirts of [[Turst Fields]]. 
+- Died of disease.

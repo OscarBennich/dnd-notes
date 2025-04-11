@@ -1,0 +1,5 @@
+- Father to [[Evan]] and [[Narissa]]
+- A tall elven man with pale skin, emerald green eyes, and long blonde hair. 
+- Originally from Uthodurn in [[Wildemount]].
+- Potentially part of the [[Claret Orders]]
+- Potentially located in [[Lyrengorn]]

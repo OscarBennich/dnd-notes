@@ -4,7 +4,7 @@
 - Narissa also told [[Mother Veyra]] about her vision and she thinks we (specifically) have been chosen by the [[Matron of Ravens]] to be her champions. She thinks there might be something waiting for us in Lyrengorn.
 - She also told us about the fact that the blood rain has been seen before by the members of the [[Claret Orders]].
 - She says these visions have been seen before times of great calamity, blood falling from the sky often heralds times of life and un-life.
-- She also asked if mine and Narissa's father could perhaps be part of the [[Claret Orders]]?
+- She also asked if [[Elluin Valfir|mine and Narissa's father]] could perhaps be part of the [[Claret Orders]]?
 	- [[Perron]] that we met in [[Drynna]] might also be part of the Claret Orders as she seemed to be a [[Blood Hunter]].
 - We also have reason to believe that [[Camilla Tenver]], one of two living descendent of [[Sevil Howthess]] together with [[Buddleah Austan]], might be in Lyrengorn after reading about it in a book from the [[Cobalt Reserve]]
 ---

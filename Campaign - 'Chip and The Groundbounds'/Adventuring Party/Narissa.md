@@ -3,8 +3,8 @@
 - Race: Half-elf
 - Class: Rogue
 - Subclass: Phantom
-- Full name:  *Narissa Cross*
+- Full name: *Narissa Cross*
 - Sister to [[Evan]]
-- Daughter to [[Evans mother]] and [[Evans father]]
+- Daughter of [[Dahlia Cross]] and [[Elluin Valfir]]
 - Played by Milena
 ---

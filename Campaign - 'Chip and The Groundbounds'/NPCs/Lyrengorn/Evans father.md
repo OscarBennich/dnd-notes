@@ -1,3 +1,0 @@
-- Father to [[Evan]] and [[Narissa]]
-- Potentially part of the [[Claret Orders]]
-- Potentially located in [[Lyrengorn]]
