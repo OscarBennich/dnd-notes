@@ -1,0 +1,2 @@
+- 5th edition, 2014 ruleset
+- https://www.dndbeyond.com/sources/dnd/basic-rules-2014?srsltid=AfmBOopK5OOFKXecfFWkLyB9esDMWh1C6E6GSF4VgmgaeyORlOvPs9Oz
