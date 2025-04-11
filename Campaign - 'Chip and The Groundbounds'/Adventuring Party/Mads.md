@@ -6,5 +6,5 @@
 - Full name: *Madelen 'Mads' Hexel*
 - Played by Mikaela
 ---
-- Right hand "man" to [[Madame Saunton]]
-- Raised by [[Madame Saunton]]
+- Raised by [[Madame Saunton]] and her right-hand "man"
+- Daughter of [[Dragomir Lunthak]] and [[Lila Lunthak]] (we found out in [[Session 44]])
