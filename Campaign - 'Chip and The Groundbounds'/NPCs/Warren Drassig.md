@@ -1,0 +1,2 @@
+- Cunning Oligarch that seized power over [[Emon]], transforming the realm into the Kingdom of Drassig (somewhere in the mid-to-late 400s P.D.)
+- Died during the Scattered War

@@ -1,1 +1,1 @@
-- Template to [[The Lawbearer]] in [[Westruun]]
+- Template to [[Erathis the Lawbearer]] in [[Westruun]]

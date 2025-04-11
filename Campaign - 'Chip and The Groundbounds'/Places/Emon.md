@@ -1,0 +1,1 @@
+- Capital city of [[Tal'Dorei]]

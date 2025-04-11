@@ -27,7 +27,7 @@
 [[Session 31]]
 - Chip, [[Dain]], and [[Evan|me]] head to the Temple of Melora
 - We talk to someone at the temple and ask about [[Shadebarrow]]
-	- Druids of the Dawncircle
+	- [[Druids of the Dawn Circle]]
 	- There was an old king - [[Trist Drassig]]
 	- Shadebarrow become a burial ground for the druids
 	- It was later owned by trade unions before being purchased by [[Sevil Howthess]] at great cost

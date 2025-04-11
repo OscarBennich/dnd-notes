@@ -1,1 +1,1 @@
-- Elves stem from here
+The Feywild has been described as a plane of primordial beauty where elven legend says the Arch Heart lovingly fashioned their people before placing them upon the face of Exandria.

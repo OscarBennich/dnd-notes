@@ -34,7 +34,7 @@
 - Their clothes start breaking down
 - It's time for the [[Lysandra Kalloss]]' speech
 - [[Simon Cloudfang]] say a blessing
-- [[Horatio Clearwater]] (high priest of [[The Lawbearer]]) say a blessing
+- [[Horatio Clearwater]] (high priest of [[Erathis the Lawbearer]]) say a blessing
 - [[Simar]] (cleric of [[Bahamut]]) say a blessing
 - These are the 3 main temples of [[Westruun]]
 - Suddenly a trio of [[Matron of Ravens]] priestesses appear

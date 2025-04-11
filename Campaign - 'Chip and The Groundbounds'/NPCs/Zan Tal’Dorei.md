@@ -1,0 +1,1 @@
+- A human from the harried streets of [[Syngorn]] who quickly showed her talent as both a warrior and an inspiring leader.

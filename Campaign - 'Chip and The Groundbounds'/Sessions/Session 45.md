@@ -25,4 +25,3 @@
 	4. Head to [[Lyrengorn]] ([[Find answers in Lyrengorn]]), north of Westruun
 	5. Find [[Shadebarrow]] ([[Main Quest - Investigate Shadebarrow]])
 		- Find [[Meg Ruddlestone]] and talk to her
-- 

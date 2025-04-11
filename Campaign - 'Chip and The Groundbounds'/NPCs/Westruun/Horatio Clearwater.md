@@ -1,2 +1,2 @@
 - From [[Westruun]]
-- High priest of [[The Lawbearer]]
+- High priest of [[Erathis the Lawbearer]]

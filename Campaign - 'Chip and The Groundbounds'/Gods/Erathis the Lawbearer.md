@@ -1,0 +1,1 @@
+- There's a template to this God in [[Westruun]]: [[The Bastion]]
