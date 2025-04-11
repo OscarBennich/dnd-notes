@@ -8,6 +8,13 @@
 - Son of [[Dahlia Cross]] and [[Elluin Valfir]]
 - Played by me (Oscar)
 ---
+- Gender: Male  
+- Height: 5'7" (170 cm)  
+- Weight: 160 lbs (73 kg)  
+- Size: Medium  
+- Age: 30 years of age (half-elves reach adulthood at 20, but can live until 180).
+
+---
 **Backstory**
 For several years, at bedtime, the story you requested from your mother the most often was the story of how she and your father met. When she was in her 30s she lived on the outskirts of [[Turst Fields]]. In her relatively remote cottage she worked as a herbalist and midwife. People from the village came to her when they required her services, but otherwise she mostly kept to herself. One sunny spring morning when the dew was still clinging on to the blades of grass in her garden, a tall elven man with pale skin, emerald green eyes, and long blonde hair appeared on her doorstep. He was an arcane practitioner looking for a rare herb needed for one of his spells. Impressed by her extensive knowledge of herbs, he asked her to accompany him into the mountains to find this specific flower. She did so, and after they returned from their journey he found an excuse to stay a little longer. Over the course of the summer they fell in love and a couple of years later she gave birth to a little baby boy who they named [[Evan]]. Five years after that, a little girl was born - [[Narissa]]. For a while, the four of them lived a happy life.
 
