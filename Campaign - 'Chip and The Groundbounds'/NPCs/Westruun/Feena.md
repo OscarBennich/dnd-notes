@@ -6,4 +6,4 @@
 	- She was killed quietly in their home in [[Westruun]]
 	- Some people came around wanting to buy the shop before she was killed
 	- There were two of them, wearing cloaks
-- Owned [[Herbalist shop]]
+- Owned [[Herbalist shop (now leatherworking store)]]

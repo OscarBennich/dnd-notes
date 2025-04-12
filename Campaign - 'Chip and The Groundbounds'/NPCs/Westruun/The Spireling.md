@@ -1,1 +1,2 @@
 - From [[Westruun]]
+- Leader (?) of [[The Clasp]]

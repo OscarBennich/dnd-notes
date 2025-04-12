@@ -6,7 +6,7 @@
 - She says these visions have been seen before times of great calamity, blood falling from the sky often heralds times of life and un-life.
 - She also asked if [[Elluin Valfir|mine and Narissa's father]] could perhaps be part of the [[Claret Orders]]?
 	- [[Perron]] that we met in [[Drynna]] might also be part of the Claret Orders as she seemed to be a [[Blood Hunter]].
-- We also have reason to believe that [[Camilla Tenver]], one of two living descendent of [[Sevil Howthess]] together with [[Buddleah Austan]], might be in Lyrengorn after reading about it in a book from the [[Cobalt Reserve]]
+- We also know [[Camilla Tenver]], one of two living descendent of [[Sevil Howthess]] together with [[Buddleah Austan]], might be in Lyrengorn after reading about it in a book from the [[Cobalt Reserve]]
 ---
 - Go to [[Lyrengorn]]
 - Find our father

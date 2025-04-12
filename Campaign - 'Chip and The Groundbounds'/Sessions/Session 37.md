@@ -12,7 +12,7 @@
 
 ---
 - We head to [[Bessie's Best]]
-- [[Bessie]] is not there yet
+- [[Bess]] is not there yet
 - We head to [[Bäkerz Bakery]] instead to see if we can talk to [[Ansel]]
 - We find out about [[Realmseer Eskil Ryndarien]]
 - We to talk to [[Billiam Christ]]
@@ -110,7 +110,7 @@
 - He is wearing black eyeliner etc.
 - We ask him about [[Steppen Wolfe]] and [[Jack Shepherd]]
 - [[Billiam Christ]] doesn't know that Jude dropped out of college
-- We head to [[Bessie's Best]] in the Underwalk to talk to [[Bessie]] about "J"
+- We head to [[Bessie's Best]] in the Underwalk to talk to [[Bess]] about "J"
 - A man in brown robes approaches us
 - He's from the [[Friends of the Minack]]
 - [[Minack]] is apparently a God that they worship

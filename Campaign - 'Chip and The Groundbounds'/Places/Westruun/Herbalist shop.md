@@ -1,3 +1,0 @@
-- In [[Westruun]]
-- Owned by [[Feena]]
-- Later bought (or taken over) by someone else and turned into a leatherworking store

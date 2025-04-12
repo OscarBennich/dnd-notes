@@ -3,6 +3,7 @@
 - We've run into them in both [[Stilben]] & [[Westruun]]
 - Been at war with [[The Myriad]] for many years
 - The Myriad has the upper hand in the conflict
+- Leader (?): [[The Spireling]]
 ---
 - Big event 30 years ago ([[Chroma Crisis]])
 - Contributed positively to society

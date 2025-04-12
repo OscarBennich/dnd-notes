@@ -45,3 +45,30 @@
 	- [[Lady Elmenore the Unforgiving]]
 	- [[Queen Titania]]
 - The description of Queen Titania sounds a lot like my Patron...
+
+[[Session 45]]
+- "So how do you pronounce it, *Titania* or *Titania*?"
+- "Why must you always rush? Relax a little. Good things come to those who wait"
+- Will I be able to see your real form?
+- "If you're lucky"
+- "I have a use for you, I will tell you when we meet" (during the week)
+- She has one more Archfey decision left
+- "Cause chaos, charm a few people, be a little bit more in my image"
+- If I do this, she'll give me a reward 🤑
+- "I'll show you chaos 😈" I say in my head
+	- I look for some people from [[Friends of the Minack]] in the Underwalk
+	- Investigation check, Nat 20!
+	- I find one of them sitting in [[Bessie's Best]]
+	- I disguise myself as a guard from [[The Shields]] using *Disguise Self*
+	- Deception check, Nat 20!
+	- [[Bess]] talks to me
+	- I try to bribe her by flipping a platinum coin in her direction, but it ends up on the floor
+	- Me and the Minack guy head out of the bar
+	- "Karl Waters" - 52 years old
+	- Turns out the [[Friends of the Minack]] don't have a HQ
+	- My plan was for him to take me to their HQ, then cast *Seeming* on all of them to create some chaos, but without causing any actual harm
+	- But that plan is now ruined...
+	- I panic and just end up casting *Sleep* on him
+	- I then transform to "Pile Duncan" again (that I did [[Session 40|before]]) so I don't draw attention to myself as a Shield guard
+	- Another person sees him sleeping in the alley and asks me if he had too much to drink, I answer "Yes" and clear the Deception check (12)
+	- I then run away from the Underwalk

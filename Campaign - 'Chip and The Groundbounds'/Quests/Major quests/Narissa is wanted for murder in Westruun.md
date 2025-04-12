@@ -37,10 +37,10 @@
 - More info about [[Steppen Wolfe]]
 - [[Jack Shepherd]] has tried to find Narissa to resolve the situation for two reasons:
 	- He was close to Steppen 
-	- He is also a companion to [[Bessie]], whose employee was driven out of the city because she looked like Narissa
+	- He is also a companion to [[Bess]], whose employee was driven out of the city because she looked like Narissa
 
 [[Session 35]]
-- [[Narissa]] gets a letter from [[Bessie]] as we enter [[Doom Bar]]
+- [[Narissa]] gets a letter from [[Bess]] as we enter [[Doom Bar]]
 
 [[Session 36]]
 - We head to [[Bessie's Best]]
@@ -64,7 +64,7 @@
 - John tells us that [[Jude Christ]] can sometimes be found drinking at [[The Cleric's Finger]]
 - We head there instead
 - We ask him about [[Steppen Wolfe]] and [[Jack Shepherd]]
-- We head to [[Bessie's Best]] in the Underwalk to talk to [[Bessie]] about "J"
+- We head to [[Bessie's Best]] in the Underwalk to talk to [[Bess]] about "J"
 - [[Ofelia]] tell us that "J" is actually [[John Christ]]
 - John was lying about the diamond thing!
 
@@ -82,7 +82,7 @@
 - John was Steppen's handler, so he is also from [[The Myriad]]
 - "The Clasp is getting sloppy"
 - [[Jack Shepherd]] was not part of [[The Myriad]]
-- ~ 9 months ago Steppen talked about a [[Herbalist shop]] in [[Westruun]]
+- ~ 9 months ago Steppen talked about a [[Herbalist shop (now leatherworking store)]] in [[Westruun]]
 - Who bought the shop?
 - He was sharing info until a point
 - Steppen thought he would come into money?
@@ -92,7 +92,7 @@
 	- Who owned it after?
 - John doesn't know how [[Narissa]] got involved
 - He doesn't know if [[The Myriad]] was involved in pinning it on her
-- **We should investigate the [[Herbalist shop]]**
+- **We should investigate the [[Herbalist shop (now leatherworking store)]]**
 - John doesn't know how Steppen got killed either
 - He tells us the diamond (that we used to resurrect [[Dain]] in [[Stilben]]) was supposed to go to [[Lustran Zeth]]
 - John had asked The Myriad to get him out of the city and was lying low (in the sewers)
@@ -101,7 +101,7 @@
 - We come to an agreement with John that we won't tell Billiam if he doesn't tell The Myriad about us
 
 [[Session 39]]
-- Was [[Steppen Wolfe]] killed to protect the identity of whoever owned/owns the [[Herbalist shop]] (took it over after [[Feena]])
+- Was [[Steppen Wolfe]] killed to protect the identity of whoever owned/owns the [[Herbalist shop (now leatherworking store)]] (took it over after [[Feena]])
 - Could this member be part of [[The League of Miracles]]
 - We go to parlay in the Market Ward after getting a note in [[Doom Bar]]
 - Eventually we find the parlay symbol on a warehouse
@@ -118,7 +118,7 @@
 - 6 more heavily-armed guards appear out of the shadows
 - **We promise him to drop the matter - otherwise he would kill us**
 - *[[Patron]] decision #1*
-	- Go to the [[Hall of Reason]] and get the records for the [[Herbalist shop]] as soon as possible
+	- Go to the [[Hall of Reason]] and get the records for the [[Herbalist shop (now leatherworking store)]] as soon as possible
 	- Buy the [[Hat of Disguise]] from  [[Gilmore's Glorious Goods]]
 
 [[Session 40]]
@@ -138,16 +138,54 @@
 	2. The whole party leave and go to the [[Hall of Reason]] with 4th level *Invisibility* from Ossian, and *Pass without Trace* from Mads
 	3. Gets inside (??)
 	4. Dispel the alarm spell on the door
-	5. Look for he documents about the [[Herbalist shop]]
+	5. Look for he documents about the [[Herbalist shop (now leatherworking store)]]
 - We start the heist plan
 - Chip summons a *Giant Elk* from the [[Gray Bag of Tricks]] as a distraction
 - We get into the main hall through lockpicking the main door
 - I dispel the *Alarm* spell and we get inside the records room
-- [[Chip]] keeps a lookout at the door and we search for the [[Herbalist shop]] documents
+- [[Chip]] keeps a lookout at the door and we search for the [[Herbalist shop (now leatherworking store)]] documents
 - Eventually we find the correct drawer **but the documents aren't there**
 - Any owner after [[Feena]] is gone!
 - We hear voices outside the door
 - We bar the door, break the window and escape
-- We also manage to steal another document from the record room to make it seem like we weren't there for the [[Herbalist shop]]
+- We also manage to steal another document from the record room to make it seem like we weren't there for the [[Herbalist shop (now leatherworking store)]]
 - Next steps:
 	- Break into the leatherworker shop that the Herbalist shop became to see if there's more info there?
+
+[[Session 45]]
+- Narissa, Chip, and I scout out the Leatherworking store during the day
+- We plan to break into the leatherworking store during the night
+- I cast *Seeming* on the group (we all look like our IRL selves)
+- We wait another hour so I get my spell slot back
+- Mads casts *Pass without Trace* on us
+- We go to the [[Herbalist shop (now leatherworking store)]]
+- I cast *Detect Magic* (10 min)
+- Chip makes a perception check (29) - he sees through a small gap in the curtain on the second floor, a flicker of light and a shadow passing by
+- I sense magic on the first floor, where I saw the magic when we were inside the building during the day and one more spot (Tristan's medallion probably). But none for the door to the second story
+- We move to lockpick the door to the first floor
+- Narissa rolls a 42 (!!) on Stealth 🐱‍👤
+- Narissa picks the lock to the first floor (check = 25)
+- We go inside
+- [[Ossian]] casts *Invisibility* on himself
+- Chip makes a *Perception* check (18)
+- I see some papers on the work bench, *Investigation* check, they turn out to be nothing, but I also see a locked drawer
+- Narissa picks the lock
+- She finds a "Ledger of Transactions" in the drawer
+- There is one item in the ledger that occurs regularly, ~ once per month, called "Additional shop loan payments", on top of his normal loan payments
+- If Tristan was paying this type of money, he should have less money total, it doesn't add up. But the money he gets is also paid out again...
+	- *Money laundering*?
+- We go into the living quarters behind the work bench
+- It is a room in front of Tristan's bedroom
+- We smell a dank smell of earth and decay. *A basement?*
+- The magical signature is pointing to a painting on the wall
+	- The picture is of [[Feena]]
+- There is also a very feint magical signature is also coming from a half-dead plant in the corner
+	- Some kind of residue of magic - difficult to place
+	- It's leaves have turned an unnatural black
+- Chip makes a WIS saving throw - his hand is drawn forward to the plant, he pricks his finger and blood is drawn
+- Everyone in the room hears the same vision:
+	- "I told you girl, you should have sold."
+	- "Do it! [[The Spireling]] says no loose ends."
+	- "As you wish."
+	- The slash of steel, a cry of pain - [[Feena]]'s
+- An aural vision of Feena's murder it seems, somehow triggered by touching the thorny plant in the room

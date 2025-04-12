@@ -1,5 +1,7 @@
 - Leatherworker in [[Westruun]]
 - Human
+- Middle-age
 - Long-braided red hair
 - Brown eyes
+- Square beard
 - Wearing a medallion

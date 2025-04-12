@@ -34,7 +34,7 @@
 - Next steps:
 	- Head to [[Lyrengorn]] to find answers?
 		- See [[Investigate the ominous speech from the Matron of Ravens priestesses]]
-	- Go to the [[Herbalist shop]] and try to figure out what exactly happened
+	- Go to the [[Herbalist shop (now leatherworking store)]] and try to figure out what exactly happened
 	- Go to the [[The Offices of The League of Miracles]] and investigate [[Dragomir Lunthak]] and the rest of the League
 		- Quest: [[Find a connection between The League of Miracles and The Clasp]]
 	- Go to the [[Cobalt Reserve]] and investigate my [[Patron]]

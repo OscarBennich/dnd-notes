@@ -1,1 +1,1 @@
-- Tavern in [[Westruun]]
+- A nice tavern in [[Westruun]]

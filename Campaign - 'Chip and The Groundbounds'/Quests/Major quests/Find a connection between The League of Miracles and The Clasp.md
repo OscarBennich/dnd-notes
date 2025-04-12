@@ -44,3 +44,10 @@
 - Were these experiments what [[Janet]] stumbled across?
 - (see [[Go to House Austan and speak to Buddleah]])
 - If Dragomir has hidden any evidence of these experiments in his office, we could use them to expose him and that might lead us to a connection between The League and The Clasp.
+
+[[Session 45]]
+- Different ways to infiltrate the [[The Offices of The League of Miracles]]
+	- Speak to [[Honor Kinnabari]]
+	- Utilize the fact that [[Mads]] is [[Dragomir Lunthak]]'s daughter
+	- Go into the offices during the day and then break in during the night
+	- Utilize *Seeming* in some way

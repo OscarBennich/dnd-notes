@@ -80,5 +80,5 @@
 		- 1x Topaz
 		- 2x Diamond
 - We head back to [[Westruun]] and go to find [[Maximo Briggs]] and complete the quest
-- [[Narissa]] gets a letter from [[Bessie]] as we enter [[Doom Bar]]
+- [[Narissa]] gets a letter from [[Bess]] as we enter [[Doom Bar]]
 - The session ends...
