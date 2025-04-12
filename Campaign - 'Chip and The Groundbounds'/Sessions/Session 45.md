@@ -95,7 +95,7 @@
 - We discuss what to do next
 - **Patron decision** (3/3): "I think we should *all* do the plans together"
 - We decide to start with looking into the [[Herbalist shop (now leatherworking store)]] ([[Narissa is wanted for murder in Westruun]])
-- First, we go to [[Gilmore's Glorious Goods]] and pick up Mads new armor - [[Dragon Scale Mail]]
+- First, we go to [[Gilmore's Glorious Goods]] and pick up Mads new armor - [[Mads' Black Dragon Scale Mail]]
 - Narissa, Chip, and I will go scout during the day and then we will all try to break in during the night
 - I cast *Seeming* on the three of us
 - Chip and me are disguised as two 50-something female, human, twins:

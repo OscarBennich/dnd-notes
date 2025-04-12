@@ -12,7 +12,7 @@
 - We head to [[Gilmore's Glorious Goods]]
 - We buy/pay for:
 	- [[Dain]]'s armor (*Hydra Scale Mail*): 250g
-	- [[Mads]]' armor ([[Dragon Scale Mail]]): 2500g 
+	- [[Mads]]' armor ([[Mads' Black Dragon Scale Mail]]): 2500g 
 	- [[Hat of Disguise]]: 5000g
 	- [[Gloves of Thievery]]: 4500g
 	- *Dread Helm*: 250g

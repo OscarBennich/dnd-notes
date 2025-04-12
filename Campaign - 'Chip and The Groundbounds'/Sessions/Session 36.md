@@ -18,7 +18,7 @@
 - [[Ladril Maerethar]]
 - She wants to make an armor out of the dragon scales we found in the [[Grick Alpha]] cave
 - It will cost 150g
-- [[Dragon Scale Mail]]
+- [[Mads' Black Dragon Scale Mail]]
 - We still owe 925g for [[Dain]]'s armor we ordered before
 - Mads pays to get the armor made
 - It will take 1 week to craft
