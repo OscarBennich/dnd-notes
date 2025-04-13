@@ -13,6 +13,18 @@
 - Weight: 160 lbs (73 kg)  
 - Size: Medium  
 - Age: 30 years of age (half-elves reach adulthood at 20, but can live until 180).
+---
+**Personality Traits**
+Driven, stubborn, curious, ambitious, diplomatic. I always try to reason my way out of a tough situation first.
+
+**Ideals**
+I value knowledge and logic highly, and resort only to force if necessary (but then I unleash all my magical power and skill).
+
+**Bonds**
+I'm dedicated to my lifelong dream of joining the Arcana Pansophical.
+
+**Flaws**
+Obsessed with knowledge. I can be occasionally blinded in my quest for power.
 
 ---
 **Backstory**
