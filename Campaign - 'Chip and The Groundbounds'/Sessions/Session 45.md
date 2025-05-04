@@ -5,21 +5,21 @@
 > - [[Find answers in Lyrengorn]] 🆕
 > - [[Find out who my Patron is and what she wants]]
 > - [[Narissa is wanted for murder in Westruun]]
-> - [[Find a connection between The League of Miracles and The Clasp]]
+> - [[Find evidence of collusion between The League of Miracles and The Clasp]]
 > - ~~[[Find the magical storm]]~~
 > 	- Merged into [[Main Quest - Investigate Shadebarrow]] 🔀
 > - ~~[[Investigate Ryzzix]]~~ 🗑
 > - ~~[[Go to House Austan and speak to Buddleah]]~~ ✅
 > - ~~[[Investigate the ominous speech from the Matron of Ravens priestesses]]~~ ✅
 > - ~~[[Investigate the Dragon attack at the Big Ball]]~~
-> 	- Merged into [[Find a connection between The League of Miracles and The Clasp]] 🔀
+> 	- Merged into [[Find evidence of collusion between The League of Miracles and The Clasp]] 🔀
 
 ---
 - We are now level 9! 🎉
 	- I now have *Seeming*, *Hold Monster*, and *Gift of the Protectors*
 **Potential next steps**
 1. Go to the [[Herbalist shop (now leatherworking store)]] in [[Westruun]] to investigate ([[Narissa is wanted for murder in Westruun]])
-2. Infiltrate the [[The Offices of The League of Miracles]] ([[Find a connection between The League of Miracles and The Clasp]]) and see if we can find evidence of [[Dragomir Lunthak]]'s "disgusting experiments"
+2. Infiltrate the [[The Offices of The League of Miracles]] ([[Find evidence of collusion between The League of Miracles and The Clasp]]) and see if we can find evidence of [[Dragomir Lunthak]]'s "disgusting experiments"
 	- We now also know that [[Mads]] is the long-lost daughter of [[Dragomir Lunthak]] & [[Lila Lunthak]] ([[Session 44]]), so maybe we can use that angle?
 	- If these experiments are directly to blame for Mads becoming a Tiefling, what could that be? A deal with a devil? Is this somehow connected to [[Ryzzix]] as well?
 3. Try to talk to my Patron and see if I can confirm that she is actually [[Queen Titania]] and what she wants from me ([[Find out who my Patron is and what she wants]])

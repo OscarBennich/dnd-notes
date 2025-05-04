@@ -59,3 +59,30 @@
 	- We think Honor would be interested in uncovering the truth, even if she works for The League
 - We now *know* there is a connection between The Clasp and The League but we need some hard evidence to give to [[Billiam Christ]]
 - The best thing would be if we could find the deed that was stolen from the [[Hall of Reason]], then that would have the signature of the guarantor from [[The League of Miracles]] which would prove the connection
+---
+**What do we know so far?**
+- [[The League of Miracles]] has made a lot of money helping rebuild [[Westruun]] after the [[Chroma Crisis]].
+	- Westruun still owes a considerable amount of money to The League for this. This debt is being used as leverage against the council.
+- They have made an offer to the [[Council of Westruun]] to give Westruun additional protection (*see [[Session 43]]*). Apparently it is very expensive and the council has been reluctant to accept this offer.
+	- This gives The League a clear incentive to intimidate Westruun and the Council into accepting this contact.
+	- This is what they tried to do with the Dragon attack at the [[Big Ball]] (we know this was The League's doing because the magical traces lead back to [[The Offices of The League of Miracles]]).
+	- We also know that The League was involved in some way with the [[Nullifier]] in the [[Chianfanelli Bank]] as we found a note that said:
+  
+	  *"To be delivered to Cianfanelli Bank in Westruun and await collection by [[Dragomir Lunthak]]"*
+  
+	  (see [[Session 31]])
+	- The Cianfanelli Bank also manages the debt that Westruun owes the League.
+	- We also know there was an attack by Magma Landsharks in the Market Ward (*see [[Session 41]]*) but we don't have any evidence that The League where behind that (yet).
+- After investigating the [[Herbalist shop (now leatherworking store)]] (*see [[Session 46]] / [[Narissa is wanted for murder in Westruun]]*) and interrogating [[Tristan Stonesworn]], he confirmed multiple things:
+	- [[The Clasp]] are behind the murder of [[Feena]] and did this because she refused to sell the shop to them.
+	- Tristan was told through a letter to purchase the store after Feena was murdered. He didn't have the money so he had a guarantor who co-signed the deed. This person was from The League.
+		- This is the deed that [[Steppen Wolfe]] broke in to the [[Hall of Reason]] to find (together with [[Narissa]]) and probably why he was murdered - to cover it up.
+			- This is the murder Narissa was then blamed for by The Clasp.
+		- We also tried to find these documents later on (*see [[Session 40]]*) but they were gone.
+	- We also found evidence of something marked as "additional shop loan payments" in Tristan's ledger of transactions. When asked about this, Tristan confirmed that he gets money that he then sends "upstairs" to The Clasp. Presumably monthly payments coming from The League.
+	- **This confirms a clear connection between The League and The Clasp!**
+- So other than securing hard evidence, the final question is the motivation, the *why*. Why are The League colluding with The Clasp?
+	- One theory that connects all of this is that The Clasp are the ones that procure the different magical beasts *for* The League, and that's what The League are paying them for.
+	- The League then uses these beasts to intimidate The Council and get them to agree to the costly protection contract.
+- But one thing I still don't get is why did someone from The League co-sign the deed for the store with Tristan? That would leave a paper trail, which seems like a big risk. Couldn't they just have given him money to pay for it himself, without leaving any evidence?
+---

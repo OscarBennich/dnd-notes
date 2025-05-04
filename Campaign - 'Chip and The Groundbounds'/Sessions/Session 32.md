@@ -6,7 +6,7 @@
 > - [[Narissa is wanted for murder in Westruun]]
 > - [[Investigate Ryzzix]]
 > - [[Find out who my Patron is and what she wants]]
-> - [[Find a connection between The League of Miracles and The Clasp]] 🆕
+> - [[Find evidence of collusion between The League of Miracles and The Clasp]] 🆕
 
 ---
 - We go back to the tavern to sleep

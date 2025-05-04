@@ -6,7 +6,7 @@
 > - [[Narissa is wanted for murder in Westruun]]
 > - [[Investigate Ryzzix]]
 > - [[Find out who my Patron is and what she wants]]
-> - [[Find a connection between The League of Miracles and The Clasp]]
+> - [[Find evidence of collusion between The League of Miracles and The Clasp]]
 > - [[Go to House Austan and speak to Buddleah]]
 > - [[Investigate the ominous speech from the Matron of Ravens priestesses]]
 > - [[Investigate the Dragon attack at the Big Ball]] 🆕
@@ -36,7 +36,7 @@
 		- See [[Investigate the ominous speech from the Matron of Ravens priestesses]]
 	- Go to the [[Herbalist shop (now leatherworking store)]] and try to figure out what exactly happened
 	- Go to the [[The Offices of The League of Miracles]] and investigate [[Dragomir Lunthak]] and the rest of the League
-		- Quest: [[Find a connection between The League of Miracles and The Clasp]]
+		- Quest: [[Find evidence of collusion between The League of Miracles and The Clasp]]
 	- Go to the [[Cobalt Reserve]] and investigate my [[Patron]]
 		- Quest: [[Find out who my Patron is and what she wants]]
 - [[Dain]] casts *Locate Creature* to see if he can find [[Lila Lunthak]]

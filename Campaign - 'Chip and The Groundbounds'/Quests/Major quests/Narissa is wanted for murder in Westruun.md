@@ -182,6 +182,7 @@
 - There is also a very feint magical signature is also coming from a half-dead plant in the corner
 	- Some kind of residue of magic - difficult to place
 	- It's leaves have turned an unnatural black
+- The smell was coming from this plant
 - Chip makes a WIS saving throw - his hand is drawn forward to the plant, he pricks his finger and blood is drawn
 - Everyone in the room hears the same vision:
 	- "I told you girl, you should have sold."
@@ -299,4 +300,4 @@
 * Our apparitions have disappeared (after 1 hour)
 	* After thinking about it (INT check) we don't think it makes sense that the decoding would occur "upstairs" so there's no point in going back there
 	* We should look in the [[The Offices of The League of Miracles]] instead
-* Merged into [[Find a connection between The League of Miracles and The Clasp]] 🔀
+* Merged into [[Find evidence of collusion between The League of Miracles and The Clasp]] 🔀
