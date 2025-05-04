@@ -1,0 +1,2 @@
+- Big, winged, feline construct in purple energy
+- Conjured by [[Spellwright]]'s from [[The League of Miracles]]

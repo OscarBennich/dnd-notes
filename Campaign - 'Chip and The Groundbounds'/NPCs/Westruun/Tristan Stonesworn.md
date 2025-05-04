@@ -1,4 +1,5 @@
 - Leatherworker in [[Westruun]]
+- Current shopkeep of [[Herbalist shop (now leatherworking store)]]
 - Human
 - Middle-age
 - Long-braided red hair

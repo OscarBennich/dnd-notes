@@ -50,4 +50,12 @@
 	- Speak to [[Honor Kinnabari]]
 	- Utilize the fact that [[Mads]] is [[Dragomir Lunthak]]'s daughter
 	- Go into the offices during the day and then break in during the night
-	- Utilize *Seeming* in some way
+		- Utilize *Seeming* in some way?
+
+[[Session 46]]
+- See [[Narissa is wanted for murder in Westruun]]
+	- [[Tristan Stonesworn]] told us that he was asked to purchase the [[Herbalist shop (now leatherworking store)]] from a letter that apparently came from [[The League of Miracles]]
+- We should talk to [[Honor Kinnabari]] about what we found out about the [[Herbalist shop (now leatherworking store)]] and the connection to The League as well as the connection to the dragon attack (see [[Investigate the Dragon attack at the Big Ball]])
+	- We think Honor would be interested in uncovering the truth, even if she works for The League
+- We now *know* there is a connection between The Clasp and The League but we need some hard evidence to give to [[Billiam Christ]]
+- The best thing would be if we could find the deed that was stolen from the [[Hall of Reason]], then that would have the signature of the guarantor from [[The League of Miracles]] which would prove the connection

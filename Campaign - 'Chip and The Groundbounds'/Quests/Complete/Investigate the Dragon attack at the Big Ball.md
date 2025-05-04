@@ -6,7 +6,7 @@
 - Who conjured it?
 - And why?
 - Research in the [[Cobalt Reserve]]?
-- [[The Grand Thaumaturge]] has the ability to conjure [[Adronach]]s, is that a lead?
+- [[The Grand Thaumaturge]] has the ability to conjure [[Atronach]]s, is that a lead?
 	- We also had the attack from the [[Nullifier]] in the [[Chianfanelli Bank]] vault
 	- Are both of these attacks connected to [[The League of Miracles]]?
 - [[Chip]], [[Mads]], [[Narissa]] investigate the area around [[Margrave's Keep]] for clues, any traces of components

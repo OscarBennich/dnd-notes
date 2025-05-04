@@ -1,2 +1,3 @@
 - [[Duchess Bianca Caliban]] house in [[Westruun]]
 - Also known as "Caliban House"
+- Beautifully decorated, but weird

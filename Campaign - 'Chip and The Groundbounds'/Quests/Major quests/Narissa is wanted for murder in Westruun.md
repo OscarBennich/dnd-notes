@@ -117,7 +117,7 @@
 - We talk to him and try to convince him we/Narissa didn't kill Steppen
 - 6 more heavily-armed guards appear out of the shadows
 - **We promise him to drop the matter - otherwise he would kill us**
-- *[[Patron]] decision #1*
+- [[Patron]] decision 1/3: 
 	- Go to the [[Hall of Reason]] and get the records for the [[Herbalist shop (now leatherworking store)]] as soon as possible
 	- Buy the [[Hat of Disguise]] from  [[Gilmore's Glorious Goods]]
 
@@ -163,7 +163,7 @@
 - Chip makes a perception check (29) - he sees through a small gap in the curtain on the second floor, a flicker of light and a shadow passing by
 - I sense magic on the first floor, where I saw the magic when we were inside the building during the day and one more spot (Tristan's medallion probably). But none for the door to the second story
 - We move to lockpick the door to the first floor
-- Narissa rolls a 42 (!!) on Stealth 🐱‍👤
+- Narissa rolls a 42 (!!) on Stealth 🥷
 - Narissa picks the lock to the first floor (check = 25)
 - We go inside
 - [[Ossian]] casts *Invisibility* on himself
@@ -178,14 +178,125 @@
 - It is a room in front of Tristan's bedroom
 - We smell a dank smell of earth and decay. *A basement?*
 - The magical signature is pointing to a painting on the wall
-	- The picture is of [[Feena]]
+	- The painting is of a seascape - it reminds Mads of [[Feena]]
 - There is also a very feint magical signature is also coming from a half-dead plant in the corner
 	- Some kind of residue of magic - difficult to place
 	- It's leaves have turned an unnatural black
 - Chip makes a WIS saving throw - his hand is drawn forward to the plant, he pricks his finger and blood is drawn
 - Everyone in the room hears the same vision:
 	- "I told you girl, you should have sold."
+	- The scent of earth and damp air fills the room
 	- "Do it! [[The Spireling]] says no loose ends."
 	- "As you wish."
 	- The slash of steel, a cry of pain - [[Feena]]'s
 - An aural vision of Feena's murder it seems, somehow triggered by touching the thorny plant in the room
+- After the vision, the plant crumbles into dust except one thorn - it now bears the mark of [[The Clasp]]
+
+[[Session 46]]
+- Mads reaches out and touches the painting, it swings open and behind it is a hatch. Like a safe?
+- Mads tries to open the hatch and triggers the *Glyph of Warding*
+- We all make an INT saving throw
+	- *Psychic* and *Abjuration* magic
+- We all suffer from *Psychic Overload*
+- We all take 23 damage and are stunned for the next minute
+- Me, Chip, and Mads all hear whispers and we see 3 ghostly apparitions (basically dementors) that lean over us. Only we see these, not everyone.
+	- *We failed the INT saving throw by more than 5*
+- [[Tristan Stonesworn]] runs out of his bedroom and sees us
+- He runs towards the hatch and opens the safe (we're all stunned)
+	- Inside it seems to be some kind of pulley system
+- He sticks his head inside and shouts "Help!"
+- We roll another INT saving throw
+	- Me, Mads, and Chip fail
+	- Ossian, Dain, and Narissa succeed
+- We roll initiative!
+- Combat over...
+- Mads pulls the unconscious Tristan away
+- Chip tries to attack the apparition but it goes right through and hits me instead
+	- 15 damage
+- I make an Arcana check
+- I cast *Detect Magic* on [[Mads]] and the apparition disappears on her
+	- Chip and I still see ours
+- I make an investigation check while looking up the chute
+- There's something like a dumbwaiter in the chute with a button to call it down
+	- It can move between the store and upstairs
+- Egged on by my [[Patron]] (and a self-imposed D20 roll) I press the button to call down the dumbwaiter
+- I see no light in the chute, this probably means that the top "door" isn't open
+- It comes down and inside is a folded up piece of parchment
+- I pick it up and look at it but the text seems to just be gibberish
+- [[Narissa]] looks at it and with an INT check she can tell it's some kind of code
+	- We need the cipher to decipher the text
+- Mads walks into Tristan's bedroom and looks around (Nat 20 investigation roll)
+- There's a children's book on his bedside table and one hidden away (*"Tusk Love"*)
+- Narissa makes an INT roll to figure out if *Tusk Love* contains the cipher but fails
+- Mads throws a glass of water in Tristan's face and he wakes up
+- Chip and Narissa start doing a "good cop, bad cop" routine
+- Dain casts *Major Illusion* to summon a vision of [[The Spireling]]
+	- Tristan doesn't seem to recognize him...
+- Narissa asks him about the people upstairs and his transactions in the ledger
+- Tristan: "Money goes in and out, I send it up"
+- Insight check:
+	- He doesn't seem to know more than he is telling
+	- He seems to just be a middle-man
+	- But he knows he is part of something criminal in one way or another
+- Tristan: "I was told to purchase the premises. I got a letter one day. I didn't have the money so I had a guarantor."
+	- The guarantor apparently came from the [[The League of Miracles]]
+	- The League of Miracles were the one's who told him to purchase the shop
+- He got the letter shortly after [[Feena]] was murdered
+- We put the gag back on him and Narissa knocks him out again
+- Narissa makes another INT roll to figure out if *Tusk Love* contains the cipher
+	- It is not the right book
+- Is [[The League of Miracles]] paying [[The Clasp]] money through the shop?
+	- Why? What are they paying for?
+	- And also, why did they need *this* shop specifically? Why did they kill [[Feena]] for it?
+		- Maybe The Clasp already owned the location upstairs?
+- We should go upstairs and look for:
+	- A potential cipher to decode the letter
+		- We suspect that it makes the most sense that [[Tristan Stonesworn]] wouldn't be involved in reading the letters, but just shuttle them back and forth through the dumbwaiter
+	- Any information about why [[The Clasp]] are interested in the specific store
+	- Any information binding The Clasp and [[The League of Miracles]]
+- We start heading towards the staircase to go upstairs
+- Narissa makes a history check, Nat 20!
+	- She remembers hearing about "going upstairs" in shady dealings
+	- Like having a huge debt etc., someone who is in trouble
+	- Is "upstairs" like an info desk for [[The Clasp]] where you can make deals?
+	  
+> "Being Shrek'd"
+
+* If we could find the deed that was stolen from the [[Hall of Reason]], then that would have the signature of the guarantor from [[The League of Miracles]] which would prove the connection
+	* ✅ Find proof that the store is connected to [[The Clasp]]
+	* ❌ Find proof that the store is connected to [[The League of Miracles]]
+		* Decode the letter?
+* We see a person going up and knocking on the door and then go inside, after a few minutes, the same person comes out again
+* Narissa, Mads, and I go upstairs
+	* We can use our [[Sending Stones]]
+* Mads knocks on the door
+* The room inside is dimly lit
+* A heavy wooden table dominates the left side of the room. There are people playing cards around it. 3 people + the dealer. The dealer is facing us
+	* We do not recognize anyone
+* In front of us is a corridor that leads to a single black door, blocked by a screen door
+* On the right side of the corridor is a door
+	* Based on what we know of the layout, inside this room is where the dumbwaiter from downstairs should lead
+* Near the threshold to the black door is what looks like an old blood stain on the floor
+* Immediately to our right as we enter, is a desk with a half-orc woman
+* She asks us "Are you expected, or are you looking for an introduction?"
+* She closes a big book, a ledger of sorts?
+* There's also a lithe Drow here, golden eyes that stare at us coldly
+	* He seems to be a security guard of some kind
+* The half-orc woman signs to the Drow and leads us down the corridor and to the black door
+* Behind the black door is a room that is stained with more blood - interrogation room?
+* We keep our eyes out for anything that could be used as a cipher
+* The half-orc's name is [[Matga The Hammer]]
+* We tell her we owe 1000g
+	* She tells us we can either make a deal or play cards for it
+* We tell her we'd prefer a deal, she temporarily leaves and comes back with the ledger
+* She tells us they're looking for [[Jack Shepherd]] and they'll pay us 1000g (500g if he's dead)
+* She asks us to sign, we sign as:
+	* "*Pile Duncan*"
+	* "*Noelle Duncan*"
+	* "*Emma Fleetfoot*"
+* On our way out, Matga talks to the Drow (calling him [[Varys]]). We all recognize his voice - it's the same voice that killed [[Feena]] in the vision we had downstairs
+* We leave, meet up with the rest of the party and go back to [[Doom Bar]]
+* Our apparitions have disappeared (after 1 hour)
+	* After thinking about it (INT check) we don't think it makes sense that the decoding would occur "upstairs" so there's no point in going back there
+	* We should look in the [[The Offices of The League of Miracles]] instead
+* Merged into [[Find a connection between The League of Miracles and The Clasp]] 🔀

@@ -35,7 +35,7 @@
 - Me and Narissa (using a disguise kit) head to the [[Hall of Reason]]
 	- See: [[Narissa is wanted for murder in Westruun]]
 - We start heading back to [[Doom Bar]]
-- *[[Patron]] decision #2*
+- [[Patron]] decision 2/3
 	- My hat looks like the the pointed hat that the students from Harry Potter wear
 - We plan out how to heist the [[Hall of Reason]]
 	- See: [[Narissa is wanted for murder in Westruun]]
