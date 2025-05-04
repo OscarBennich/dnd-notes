@@ -35,8 +35,25 @@
 
 - The next morning, one of the employees hand [[Mads]] a letter
 	- It's from [[Duchess Bianca Caliban]]
-	- An invitation
-- [INSERT LETTER CONTENT HERE...]
+	- An invitation 👇
+
+```
+My dearest dazzling adventurers,
+
+It has come to my attention that you have caused quite a ruckus in this fair city during the past fortnight. I do admire a bit of boldness, especially when laced with a touch of ruin and a dash of mystery.
+
+I am therefore absolutely delighted to formally and personally invite you to stay at my humble lodgings here in Westruun, Caliban House. We are overdue a proper conversation, and I would love you to regale me with all your stories. 
+
+I must apologise profusely for the delay in sending off this invitation; it has been some time since I last had guests and it has taken a while to prepare the house. I’ve had the west wing aired and the mirrors turned inward, the better to see yourselves, naturally. The gardens are in bloom and the dining room is terribly dramatic this time of year.
+
+I have a few amusements prepared. A puzzle or two. A conversation or three. A little truth. A little art. Perhaps even a favour, if one of you impresses me.
+
+You are welcome to stay as long as you like. A house is so very empty without guests, and I suspect you are all growing a little tired of secrets whispered through doors and behind veils.
+
+Looking forward to blinding you with my beauty once more,
+Duchess Bianca Caliban
+```
+
 - We send a letter to [[Honor Kinnabari]], inviting her to join us in [[Bäkerz Bakery]] and talk
 	- See [[Find a connection between The League of Miracles and The Clasp]]
 - We head to [[Caliban Manor]] and knock on the door
