@@ -18,3 +18,5 @@
 - (2) Find the deed that is missing from the [[Hall of Reason]] - hopefully confirming that The League are co-signers with [[Tristan Stonesworn]]
 	- This together with the ledger and the dumbwaiter leading to the Clasp facility "upstairs" should be enough evidence of their collusion
 - (3) Find a way to decipher the letter we found in the [[Herbalist shop (now leatherworking store)]]
+---
+- ❗ **Reminder** ❗ Remember to use my "Gift of the Protectors" invocation by writing 4 names in my tome
