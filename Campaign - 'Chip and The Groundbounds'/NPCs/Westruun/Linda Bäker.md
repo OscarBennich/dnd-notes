@@ -1,0 +1,2 @@
+- Mother of [[Ansel Bäker]]
+- Works at [[Bäkerz Bakery]] in [[Westruun]]

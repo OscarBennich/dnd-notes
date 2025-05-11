@@ -1,1 +1,1 @@
-- Supervisor at [[Chianfanelli Bank]]
+- Supervisor at [[Chianfanelli Bank]] in [[Westruun]]

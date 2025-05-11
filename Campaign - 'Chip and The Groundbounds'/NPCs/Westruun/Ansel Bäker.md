@@ -1,0 +1,2 @@
+- Works at [[Bäkerz Bakery]] in [[Westruun]]
+- [[Narissa]]'s best friend

@@ -1,6 +1,9 @@
 - Albino Tiefling
+- Red eyes
+- White and red staff, red robes
 - Lives in [[Westruun]]
-- From the [[Alabaster Sierras]]
+- From the [[Alabaster Sierras]], born of Dwarven parents
 - [[Spellwright]] for [[The League of Miracles]]
 - She joined the League because there was an attack on the Market Ward when she was a child and the League defended the city
+	- She wanted to be able to help people in the same way
 - She helped defeat the Magma Landsharks in an attack on the Market Ward when she was an adult

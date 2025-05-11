@@ -13,7 +13,7 @@
 ---
 - We head to [[Bessie's Best]]
 - [[Bess]] is not there yet
-- We head to [[Bäkerz Bakery]] instead to see if we can talk to [[Ansel]]
+- We head to [[Bäkerz Bakery]] instead to see if we can talk to [[Ansel Bäker]]
 - We find out about [[Realmseer Eskil Ryndarien]]
 - We to talk to [[Billiam Christ]]
 - I investigate the statue of [[Palest Westruun]] (on a black horse) in the Opal Ward

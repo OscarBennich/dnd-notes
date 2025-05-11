@@ -25,7 +25,7 @@
 - [[Steppen Wolfe]] - The guy [[Narissa]] is suspected of murdering
 
 [[Session 31]]
-- Someone called [[Jack Shepherd]] came looking for Narissa at a [[Bäkerz Bakery|bakery]] with her friend [[Ansel]]
+- Someone called [[Jack Shepherd]] came looking for Narissa at a [[Bäkerz Bakery|bakery]] with her friend [[Ansel Bäker]]
 - Shepherd can be found in [[Bessie's Best]] in Westruun
 
 [[Session 33]]

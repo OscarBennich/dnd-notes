@@ -1,6 +1,14 @@
 - In [[Westruun]]
 - Headquarters of [[The League of Miracles]]
+- Between the Opal Ward & The Market Ward
 ---
-- It is a free-standing dark gray building with alleys on either side and a tall spike-tip iron fence that surrounds the building
+- Looks like a manor house
+- It is a free-standing, three-story, dark gray building with alleys on either side and a tall spike-tip iron fence that surrounds the building
 - With only one gate at the front
 - The bars on the windows has warding runes etched into them
+- Fresco of a phoenix rising from the ashes of Westruun
+- Sconces, dark mahogany, marble
+- Everything is branded with the symbol of The League
+- Black / Gold / Purple theme
+- Red marble floors
+- Mads: "Seems like a gaudy strip club"
