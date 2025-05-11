@@ -73,7 +73,7 @@
 	  (see [[Session 31]])
 	- The Cianfanelli Bank also manages the debt that Westruun owes the League.
 	- We also know there was an attack by Magma Landsharks in the Market Ward (*see [[Session 41]]*) but we don't have any evidence that The League where behind that (yet).
-	- And the Night Hag (Luella the Dawnstealer) also mentioned knowing [[Mads]]' father ([[Dragomir Lunthak]]). What could that mean?
+	- And the Night Hag ([[Luella the Dawnstealer]]) also mentioned knowing [[Mads]]' father (that we now know is [[Dragomir Lunthak]]). What does that mean?
 - After investigating the [[Herbalist shop (now leatherworking store)]] (*see [[Session 46]] / [[Narissa is wanted for murder in Westruun]]*) and interrogating [[Tristan Stonesworn]], he confirmed multiple things:
 	- [[The Clasp]] are behind the murder of [[Feena]] and did this because she refused to sell the shop to them.
 	- Tristan was told through a letter to purchase the store after Feena was murdered. He didn't have the money so he had a guarantor who co-signed the deed. This person was from The League.
@@ -204,7 +204,7 @@
 - Chip notices that one of the main work benches looks like where Dragomir keeps all his notes - he finds another button like the one in Dragomir's office
 	- He presses it
 - It contains a small vial with some red liquid that looks like blood
-- He also finds a leatherbound journal
+- He also finds a leather-bound journal
 	- There are entries that detail shipments
 	- Mentions of Aeorian artifacts
 - We also find a locket with a picture inside

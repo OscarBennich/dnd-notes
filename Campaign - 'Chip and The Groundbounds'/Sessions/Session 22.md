@@ -54,7 +54,7 @@
 - I cast *Detect Magic* - the fog itself is not magic
 - We walk through the marsh for a day
 - We make camp in a "bowl"
-- *[[Moon Mistress]]* / *Moon Mistress*
+- *[[Luella the Dawnstealer]]* / *Moon Mistress*
 	- A being that grants wishes and causes dreams?
 	- Someone [[Perron]] knows had these dreams which is why she wants to hunt it down
 - Perron was in [[Kymal]]

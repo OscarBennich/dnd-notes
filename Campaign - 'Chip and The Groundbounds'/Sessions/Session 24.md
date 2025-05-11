@@ -14,7 +14,7 @@
 - I investigate [[Hareth Valbardo]]'s body and find a Lodge pin
 - We decide to head back to our boat and go back to [[Drynna]]
 - We reach our boat and sail back
-- The atmosphere in Drynna seems better than before now that the [[Moon Mistress]]' influence is gone
+- The atmosphere in Drynna seems better than before now that the [[Luella the Dawnstealer]]' influence is gone
 - We pick up [[Narissa]]'s +1 Crossbow from the League's stall
 - We head to the [[Sunrise Lodge]] to tell them about Hareth
 - Dain uses *Major Illusion* to show the lodge our fight w/ Hareth

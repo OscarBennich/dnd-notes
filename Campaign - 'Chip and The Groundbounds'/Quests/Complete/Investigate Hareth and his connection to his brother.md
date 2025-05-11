@@ -14,7 +14,7 @@
 - Hareth has his own boat ready to sail across the lake
 - Perron has her own boat, we can join her
 - We cross the lake and reach the [[Rootgarden Marsh]]
-- We get more information about the [[Moon Mistress]] from Perron
+- We get more information about the [[Luella the Dawnstealer]] from Perron
 - We go after Hareth and seem to be catching up
 
 [[Session 23]]

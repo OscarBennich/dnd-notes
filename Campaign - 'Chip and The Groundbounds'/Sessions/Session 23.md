@@ -11,7 +11,7 @@
 ---
 - We start tracking [[Hareth Valbardo]] again
 - My [[Patron]] talks to me in my head
-	- Is *she* the [[Moon Mistress]]?
+	- Is *she* [[Luella the Dawnstealer|The Moon Mistress]]?
 - She opens up a corridor through the mist but then disappears
 - Maybe it is an illusion / fake / a dream?
 - All of a sudden Hareth comes out of the mist and talks to us
@@ -82,7 +82,7 @@
 
 ---
 - "*Fondness for undeath and alliances with interesting allies*"
-- The [[Moon Mistress]] is familiar with [[Mads]] father?
+- The [[Luella the Dawnstealer]] is familiar with [[Mads]] father?
 - [[Perron]] kills the Hag, takes the soul bag and walks off
 - She opens the bag and releases the souls...
 - On the Hag's body we find:
