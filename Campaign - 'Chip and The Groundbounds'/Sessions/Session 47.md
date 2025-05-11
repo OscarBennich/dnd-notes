@@ -31,8 +31,8 @@
 ---
 **Combat ⚔️**
 
-**Flesh Golem #1**
-- >= 13 AC
+**[[Flesh Golem]] #1**
+- \>= 13 AC
 - ~ 90 HP
 
 | Attacker | Defender    | Action                 | Attack roll / Saving throw | Damage / Healing / Outcome | Total damage / Status |
@@ -52,7 +52,7 @@
 ---
 
 **Flesh Golem #2**
-- >= 13 AC
+- \>= 13 AC
 - ~ 90 HP
 
 | Attacker | Defender    | Action                             | Attack roll / Saving throw | Damage / Healing / Outcome       | Total damage / Status                 |
@@ -82,7 +82,7 @@
 ---
 
 **Flesh Golem #3**
-- >= 13 AC
+- \>= 13 AC
 - ~ 90 HP
 
 | Attacker | Defender    | Action                 | Attack roll / Saving throw | Damage / Healing / Outcome | Total damage / Status  |
