@@ -141,8 +141,7 @@
 - Chip: *"Ouchie, ouchie, ow, ow. I don't feel so good...*
 - We open the door and see a large sturdy desk in the middle of the room, a crystal chandelier in the ceiling. Shelves line the room.
 - We enter the office and start investigating
-- We find a letter from [[Bognor Regis]] that is complaining about the destruction wrought by the *creature from Aeor* (the [[Nullifier]] from the bank)
-	- Aeor: see [[A History of Tal’Dorei]]
+- We find a letter from [[Bognor Regis]] that is complaining about the destruction wrought by the *creature from [[Aeor]]* (the [[Nullifier]] from the bank)
 - We also find a letter from [[Walter Leyton-Beasly]] informing [[Dragomir Lunthak]] about delays to the [[Residuum]] shipments
 - Narissa finds a latch in one of the drawers
 	- We find the deed to the [[Herbalist shop (now leatherworking store)]]!
@@ -206,7 +205,8 @@
 - It contains a small vial with some red liquid that looks like blood
 - He also finds a leather-bound journal
 	- There are entries that detail shipments
-	- Mentions of Aeorian artifacts
+	- Mentions of [[Aeor]]ian artifacts
+	- "*I believe the excavation team in [[Aeor]] is close to finding the Planar Scythe. The time has almost come to make use of the bargain with [[Luella the Dawnstealer|Luella]] and release the Shadow That Was.*"
 - We also find a locket with a picture inside
 	- An inscription - "To eternity, as one" and the initials *M.L.* (Mads' mother?)
 	- Mads makes a WIS check - 12... 

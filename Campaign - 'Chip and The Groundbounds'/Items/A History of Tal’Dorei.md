@@ -32,7 +32,7 @@ As the clash between gods and Primordials spiraled out of control, the desperate
 What followed was the first idyllic peace since the Creation, which in turn allowed for the first enduring mortal civilization to be established, headquartered so to speak in Vasselheim, and the world was named [[Exandria]].
 
 ## Chapter 3: The Age of Arcanum
-Ages past, society flourished, great kingdoms sprung up and castles were built in a day - all facilitated by the mortal arcanists’ newfound power. Whole cities rose from the ground and soared the skies across the magical ley lines of the world. One such city is Aeor, the ruins of which can now be found scattered across Eiselcross, a frigid wasteland to the north of [[Wildemount]].
+Ages past, society flourished, great kingdoms sprung up and castles were built in a day - all facilitated by the mortal arcanists’ newfound power. Whole cities rose from the ground and soared the skies across the magical ley lines of the world. One such city is [[Aeor]], the ruins of which can now be found scattered across Eiselcross, a frigid wasteland to the north of [[Wildemount]].
 
 Yet, perhaps with the benefit of hindsight, the very magic which allowed mortalkind to prosper also instilled a deep rot within their civilizations. The arcanists grew arrogant. They came to see their arcane gifts as proof that neither the gods, nor nature itself, held any sway over their fate, and with a sophisticated enough command of magic they could become as powerful as the gods themselves.
 

@@ -1,0 +1,1 @@
+Aeor, founded during the early Age of Arcanum, was a floating city that crashed in Eiselcross during [[the Calamity]].
