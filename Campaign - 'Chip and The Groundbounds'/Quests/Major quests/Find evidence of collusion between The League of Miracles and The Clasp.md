@@ -116,13 +116,13 @@
 - We take a short rest (let me reset my spell slots) and start heading to the offices
 - We enter the offices and are greeted by [[Cecilia Brightwater]]
 	- [[Honor Kinnabari]] hates her
-- She asks for our names
-	- Jarnathan
-	- Chris Pine
-	- Holga Kilgore
-	- Doric
-	- Xenk Yendar
-	- Bradley Cooper
+- She asks for our names:
+	- *Jarnathan*
+	- *Chris Pine*
+	- *Holga Kilgore*
+	- *Doric*
+	- *Xenk Yendar*
+	- *Bradley Cooper*
 - We call our party "Deeanddeemoviegang" (D&D Movie Gang)
 - [[Chip]] asks Cecilia about the interior of the building and fills out a complaint form
 - Honor leads us down a corridor

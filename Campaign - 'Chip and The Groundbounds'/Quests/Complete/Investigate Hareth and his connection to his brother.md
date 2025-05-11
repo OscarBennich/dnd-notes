@@ -18,7 +18,7 @@
 - We go after Hareth and seem to be catching up
 
 [[Session 23]]
-- We find Hareth and the Hag *Luella the Dawn-Stealer* in the marsh
+- We find Hareth and the Hag ([[Luella the Dawnstealer]]) in the marsh
 - Hareth has been turned into a *Ghast*
 - We kill both him and the Hag
 

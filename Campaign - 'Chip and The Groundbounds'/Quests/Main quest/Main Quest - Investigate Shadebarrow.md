@@ -23,7 +23,8 @@ Related quests:
 	- She says there was "undead stuff" happening on the plains and she knows she was east of [[Gatshadow]] and south of the road.
 	- She was seemingly turned undead in Shadebarrow. But she seems to have retained her sanity for some unknown reason.
 	- When I asked [[Mother Veyra]] about Meg, she said that if someone was turned undead but kept their "soul", the [[Matron of Ravens]] might have a reason for it.
-
+- In [[Session 47]] (see [[Find evidence of collusion between The League of Miracles and The Clasp]] we found a note that said: "*I believe the excavation team in [[Aeor]] is close to finding the Planar Scythe. The time has almost come to make use of the bargain with [[Luella the Dawnstealer|Luella]] and release the Shadow That Was.*"
+	- Releasing the "Shadow that Was" - could that be referring to Neminar Drassig?
 ### Location
 
 - Buddleah then decided to tell us how to find Shadebarrow. She told us that mists surround the place and that we need to be able to navigate dense forests.
