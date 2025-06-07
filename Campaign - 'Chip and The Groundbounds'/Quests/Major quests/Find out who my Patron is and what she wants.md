@@ -43,7 +43,7 @@
 - Roll DC6 = 5 + 3
 - I find out about 2 more [[Archfey]]:
 	- [[Lady Elmenore the Unforgiving]]
-	- [[Queen Titania]]
+	- [[Queen Titania of the Summer Court]]
 - The description of Queen Titania sounds a lot like my Patron...
 
 [[Session 45]]
@@ -77,3 +77,19 @@
 - I talk to my [[Patron]] after seeing my room at [[Caliban House]]
 	- "I guess you're rubbing off on me" (there's lots of Fey-inspired details)
 - I ask her when I get to see her - "Patience" she says
+- During that night, I am visited by [[Queen Titania of the Summer Court]] in a vision
+- From the garden of [[Caliban House]] she leads me to her Summer Court where she conjures a throne made of vines, looking almost like a sleeping dragon
+- There's a silver pool of water in front of me with a stepped waterfall
+- In the center of the pool and directly in front of the pool is a larger lily pad
+- I successfully jump across and soon stand before her - "You wanted to meet me, here I am..."
+- Titania has taken many forms during our adventure:
+	- [[Portia]] from [[Stilben]]
+	- [[Juliette]] from [[Drynna]]
+	- Miranda from [[Turst Fields]]
+	- [[Desdemona]] from [[Westruun]]
+	- [[Madame Maab]] from [[Westruun]]
+	- Rosalind from [[Westhall Academy]] in [[Westruun]]
+- She tells me what she wants from me is to stop [[Dragomir Lunthak]] from releasing [[Orcus the Demon Prince of Undeath]], or kill Orcus, or both. I'm not quite sure.
+- The reason is because one of the [[Druids of the Dawn Circle]] that Orcus killed in [[Shadebarrow]] "belonged" to her
+- So I know now *who* my patron is ➡ [[Queen Titania of the Summer Court]]
+- And I know *what she wants* ➡ Stop [[Dragomir Lunthak]] from releasing [[Orcus the Demon Prince of Undeath]]

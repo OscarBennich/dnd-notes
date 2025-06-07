@@ -22,7 +22,7 @@
 2. Infiltrate the [[The Offices of The League of Miracles]] ([[Find evidence of collusion between The League of Miracles and The Clasp]]) and see if we can find evidence of [[Dragomir Lunthak]]'s "disgusting experiments"
 	- We now also know that [[Mads]] is the long-lost daughter of [[Dragomir Lunthak]] & [[Lila Lunthak]] ([[Session 44]]), so maybe we can use that angle?
 	- If these experiments are directly to blame for Mads becoming a Tiefling, what could that be? A deal with a devil? Is this somehow connected to [[Ryzzix]] as well?
-3. Try to talk to my Patron and see if I can confirm that she is actually [[Queen Titania]] and what she wants from me ([[Find out who my Patron is and what she wants]])
+3. Try to talk to my Patron and see if I can confirm that she is actually [[Queen Titania of the Summer Court]] and what she wants from me ([[Find out who my Patron is and what she wants]])
 4. Head to [[Lyrengorn]] ([[Find answers in Lyrengorn]]), north of Westruun
 5. Find [[Shadebarrow]] ([[Main Quest - Investigate Shadebarrow]])
 	- Find [[Meg Ruddlestone]] and talk to her
@@ -86,7 +86,7 @@
 - They ask me what I've been up to
 - I try to lie but it doesn't go well
 - I end up telling them everything
-- [[Queen Titania]] speak to me in my head: "Good plan, bad execution"
+- [[Queen Titania of the Summer Court]] speak to me in my head: "Good plan, bad execution"
 - Mads crash on our bed
 - [[Ossian]] casts *Bigby's Hand* to float Mads to her own bed
 - Everyone goes to bed, long rest 😴

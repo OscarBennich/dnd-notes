@@ -115,7 +115,7 @@ Outraged by this vile act, Zan Tal’Dorei led a righteously invigorated force t
 
 They spilled onto the battlefield like a river of nightmares and in minutes the surrounding hills ran dark with rivers of blood and ichor, with the bodies of humans and demons alike littering the battlefield. Yet, despite all odds, Zan defeated King Trist, ending the Drassig bloodline, and with it the demonic pact that the Drassigs had made. It is said that the grass and flowers of the Umbra Hills grow black and burnt as an echo of this battle, their sap coursing with fiendish blood that was spilled that day. 
 
-It has also been noted by prominent abyssal researchers that the use of demons by King Trist in the Battle of the Umbra Hills caused such a stir in the depths of the Abyss that it subsequently drew the attention of several demon princes to this region of Tal’Dorei, among them Graz’zt the Demon Prince of Pleasure and Orcus the Demon Prince of Undeath.
+It has also been noted by prominent abyssal researchers that the use of demons by King Trist in the Battle of the Umbra Hills caused such a stir in the depths of the Abyss that it subsequently drew the attention of several demon princes to this region of Tal’Dorei, among them [[Graz’zt the Demon Prince of Pleasure ]]and [[Orcus the Demon Prince of Undeath]].
 
 # Part 4: Tal’Dorei Ascendant
 

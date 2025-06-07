@@ -25,6 +25,9 @@ Related quests:
 	- When I asked [[Mother Veyra]] about Meg, she said that if someone was turned undead but kept their "soul", the [[Matron of Ravens]] might have a reason for it.
 - In [[Session 47]] (see [[Find evidence of collusion between The League of Miracles and The Clasp]] we found a note that said: "*I believe the excavation team in [[Aeor]] is close to finding the Planar Scythe. The time has almost come to make use of the bargain with [[Luella the Dawnstealer|Luella]] and release the Shadow That Was.*"
 	- Releasing the "Shadow that Was" - could that be referring to Neminar Drassig?
+- In [[Session 48]] we found a bunch of books in the secret lab of [[Dragomir Lunthak]] regarding Necromancy, Druids, and The Abyss
+- In [[Session 48]] I find out that my [[Patron]] is interested in killing [[Orcus the Demon Prince of Undeath]] because one of the Druids he killed in [[Shadebarrow]] "belonged" to her. Apparently [[Dragomir Lunthak]] is trying to release Orcus.
+	- Release him from where?
 ### Location
 
 - Buddleah then decided to tell us how to find Shadebarrow. She told us that mists surround the place and that we need to be able to navigate dense forests.

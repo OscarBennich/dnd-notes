@@ -46,7 +46,7 @@
 	- Nature check - around 30 years old
 	- Almost definitely related to [[Chroma Crisis]]
 - It's the skull of a *Behir* hatchling
-- Evan, Arcana check: 13
+- Evan, Arcana check ➡ 13
 	- It looks like all of this are spell components
 - Chip sees something sparkling in a crate on the other side of the room
 	- It's a diamond worth 500g! 💎
@@ -85,7 +85,7 @@
 - [[Cecilia Brightwater]] greets us
 - We finally leave [[The Offices of The League of Miracles]]!
 - We decide to head back to [[Caliban House]]
-- Summary of what items we found:
+- Summary of what items we found in Dragomir's lab and [[The Offices of The League of Miracles]]:
 	- A book called "*The Craftsmanship of an Agreement*" by [[Donaldus Trumpus]]
 	- The deed to the [[Herbalist shop (now leatherworking store)]] in Westruun
 	- A silver ritual knife that radiates a faint necrotic energy
@@ -119,6 +119,7 @@
 - I start identifying some of the items we found
 	- The silver ritual knife that radiates a faint necrotic energy:
 		- It's not a magical item *per se* but I know its something you would use for necromantic rituals
+		- I add it to my backpack
 	- A large pearl, shimmering unusually:
 		- It's a [[Pearl of Power]]!
 		- I take this, equip it and attune to it
@@ -133,7 +134,8 @@
 - The chef is carrying in plates - he's called [[Usko]]
 - We sit down
 - There's a huge, delicious feast on the table
-- Bianca proposes a toast but is suddenly interrupted by the voice of my [[Patron]] ([[Queen Titania]])!
+---
+- Bianca proposes a toast but is suddenly interrupted by the voice of my [[Patron]] ([[Queen Titania of the Summer Court]])!
 	- "*To forms truer than flesh, to the instincts we hide behind silk and silver. Let me see you dance without your disguises dears.*"
 - Our vision turns multi-colored - like looking through a soap bubble
 - We feel sick, and suddenly we wake up in a maze in the garden outside (there wasn't a maze there before?)
@@ -155,7 +157,7 @@
 - We encounter a gecko - I give him my glasses
 - We find another mask with flickering green flames - Mine?
 - We come upon another pig with a beret who is painting
-	- He's painting a scene from [[Queen Titania]]'s court, the summer court
+	- He's painting a scene from [[Queen Titania of the Summer Court]]'s court, the summer court
 - We find another mask, covered in vines
 - We find the pillar in the middle, a key, and another mask
 - We let Pig-Bianca out of her cage but there's no mask for her
@@ -168,11 +170,12 @@
 - She tells us she will get help from [[Gilmore]] in the morning and hopefully he'll be able to help
 - I try to help by casting *Dispel Magic* (5th level) on her, but it does nothing
 - With nothing left to do for now, we head to bed
+---
 - During the night, I hear a soft voice: "Evan..."
 	- I make a WIS saving throw (16)
 - The voice seems to be coming from downstairs, I'm drawn to it
 - I head back to the dining room and out to the terrace
-- In the garden I see a elvish (?) woman with pointed ears and sharp angular features
+- In the garden I see a elvish-like woman with pointed ears and sharp angular features
 - She's wearing a gown of green and gold
 - Long curls of copper hair cascading down
 - Eyes that shine through the night with golden light
@@ -185,7 +188,7 @@
 - There's a silver pool of water in front of me with a stepped waterfall
 - There's a tree to the right with dark emerald leaves
 - The woman leaps from lily pad to lily pad
-- She conjures a thrown made of vines, seemingly looking almost like a sleeping dragon
+- She conjures a throne made of vines, looking almost like a sleeping dragon
 - In the center of the pool and directly in front of the pool is a larger lily pad
 - She tells me that if I want to speak to her I need to "take the stage"
 - There's strange birds in the trees and other strange critters
@@ -202,14 +205,15 @@
 - "The main problem with the mortal world is the lack of spontaneity"
 - "There's someone I don't like very much"
 	- [[Dragomir Lunthak]] is the one whose trying to release this entity
-	- It's [[Orcus the Demon Prince of Undeath]]??
+	- Apparently she's speaking of [[Orcus the Demon Prince of Undeath]] (that I read about in [[A History of Tal’Dorei]])
 	- "He took someone who belonged to me"
 	- A well-endowed druid, killed in [[Shadebarrow]]
 	- "I don't like when my belongings are tampered with."
 - She snaps her fingers and the lily pad I was standing on collapses
-- She asks me to choose:
+- She asks me to make a choice:
 	- ...
 	- ...
 	- ...
-- As a gift from my [[Patron]], my *Tome of Shadow* is transformed into xxx
+- [FILL THIS OUT]
+- As a gift from my [[Patron]], my *Book of Shadows* is now empowered into xxx
 - The session ends...
