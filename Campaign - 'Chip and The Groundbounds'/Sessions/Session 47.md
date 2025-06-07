@@ -27,7 +27,110 @@
 	- Ossian
 	- Mads
 	- Chip
-- Continuation, see [[Find evidence of collusion between The League of Miracles and The Clasp]]
+- We start heading to [[Bäkerz Bakery]]
+- [[Honor Kinnabari]] is standing outside the bakery
+- [[Ansel Bäker]]'s mother is manning the counter - [[Linda Bäker]]
+- We grab something to eat and head to a park to be able to speak more privately
+- I insist on paying even though Linda wanted to give it to us for free (Persuasion check ➡ 28)
+- We start explaining the situation to [[Honor Kinnabari]]
+- Persuasion check from Narissa ➡ 16
+- Honor: Dragomir takes all kinds of strange shipments for the League
+- Honor wanted to be able to give out spells for free but someone in [[The League of Miracles]] insisted on taking money for it
+- Skyport contract?
+- Honor: Lots of people are in the league for their own reasons, [[Dragomir Lunthak]] seems to be in it to gain access to things he otherwise wouldn't have
+- Dragomir's assistant: [[Ashcombe Paltimore]] 
+- People usually contact Dragomir for high-price contracts - we wouldn't really be able to get into contact with him without rousing suspicion
+- The Magma Landshark attacks where a few months ago
+	- So this could also have been staged like the other attacks...
+- Increased attacks and crime rates in and around the city
+	- The Clasp is probably behind this (together with The League)
+- It's not uncommon for The League to back deals like the one to buy the [[Herbalist shop (now leatherworking store)]], so leaving that paper trail wouldn't necessarily be strange
+- Honor can get us into [[The Offices of The League of Miracles]] and we should do it right away because [[Dragomir Lunthak]] and [[Ashcombe Paltimore]] are both out for the day
+- I cast *Seeming* and we all look like the characters from the D&D Movie
+- We take a short rest (let me reset my spell slots) and start heading to the offices
+- We enter the offices and are greeted by [[Cecilia Brightwater]]
+	- [[Honor Kinnabari]] hates her
+- She asks for our names:
+	- *Jarnathan*
+	- *Chris Pine*
+	- *Holga Kilgore*
+	- *Doric*
+	- *Xenk Yendar*
+	- *Bradley Cooper*
+- We call our party "Deeanddeemoviegang" (D&D Movie Gang)
+- [[Chip]] asks Cecilia about the interior of the building and fills out a complaint form
+- Honor leads us down a corridor
+- Along it are paintings detailing the destruction and reconstruction of Westruun
+- We reach the end of the corridor
+- The door on the left is [[Dragomir Lunthak]]'s, the one on the right is [[Ashcombe Paltimore]]'s
+	- They're supposed to be gone for the rest of the afternoon (3 hours)
+- Mads casts *Pass without Trace*
+- [[Dain]] casts *Major Image* to make the corridor look empty (think Road Runner, Looney Tunes) while we wait for 10min for me to cast *Detect Magic* as a ritual
+- Someone walks past but doesn't notice us
+- After casting *Detect Magic* I don't sense magic on either of the doors, nor any magic behind them - lead doors?
+- [[Narissa]] picks the door to Dragomir's office
+	- As she turns the knob, spores explode in our face
+	- We all need to make a CON saving throw
+		- Chip and Narissa are *poisoned* for the next hour
+- Chip: *"Ouchie, ouchie, ow, ow. I don't feel so good...*
+- We open the door and see a large sturdy desk in the middle of the room, a crystal chandelier in the ceiling. Shelves line the room.
+- We enter the office and start investigating
+- We find a letter from [[Bognor Regis]] that is complaining about the destruction wrought by the *creature from [[Aeor]]* (the [[Nullifier]] from the bank)
+- We also find a letter from [[Walter Leyton-Beasly]] informing [[Dragomir Lunthak]] about delays to the [[Residuum]] shipments
+- Narissa finds a latch in one of the drawers
+	- We find the deed to the [[Herbalist shop (now leatherworking store)]]!
+	- It's signed by Dragomir Lunthak
+	- The smoking gun!! 🔥🔥
+	- We put it in our [[Bag of Holding]]
+- Narissa also finds a book called "*The Craftsmanship of an Agreement*" by [[Donaldus Trumpus]] in one of the book shelves
+	- It's slightly tilted
+	- Can this be used to decipher the letter we found?
+	- We also take it and put it in our [[Bag of Holding]]
+- Chip comes up with the idea to shift *all* books so Dragomir doesn't know what we stole
+- There's a painting on the that depicts a halfling that is sitting on an alcove, reading a book called "*The Escapades of Hilora Bramblesong*"
+	- She's called [[Hilora Bramblesong]] (history check) - known for her riddles
+	- It is magic - *conjuration*
+	- Is it like the living mirror in Snow White?
+	- [[Dain]] makes a perception check - 21
+	- Looking closer - we see one of the pages of the book she's reading, on it we see: 
+		- "*The beginning of eternity, the end of time and place. Either side of every eve, the edge of every face.*"
+	- It looks like the painting is following us with her eyes
+	- Dain does a INT check - Nat 20!
+		- The wording of the riddle is very specific, we need to pay attention to the words.
+	- Beginning of eternity ➡️ e
+	- End of time and place ➡️ e
+	- Either side of every eve ➡️ e
+	- The edge of every face ➡️ e
+- Dain touches the "E" in the title of the book, he vanishes!
+	- We all end up touching the "E". We all vanish...
+- Dain arrives at the top of a staircase, behind him is a stone wall, a staircase leading down. Sconces burning with blue and green light.
+- Chip appears. Then Mads. Then Ossian. Then Narissa and I.
+- We follow the staircase.
+	- A large room. Workbenches. Loads of bookshelves with materials and reagents. 
+	- No windows. 
+	- Is this where [[Dragomir Lunthak]] does his experiments?
+	- We notice a *hum* of arcane energy and the stench of decay
+	- On a large stone table in the center of the room are 3 massive humanoid figures...
+	- A heavy necrotic presence is coming from them
+- Chip feels sick - something isn't right here
+- Narissa hears angry, discordant whispers
+- I hear my patron, she disapproves
+- Chip looks at some of the books, they seem to be books on a few of the things we've encountered:
+	- Undead, Demons, Raven Queen, Druids, Rituals
+	- And a discarded book on [[The Whispered One]] (*hint hint* 😉) 
+- One of the creatures on the table have a contraption over it's head which lightning crackling
+- Narissa and Ossian are looking around
+	- Empty crates with the [[The League of Miracles]] symbol on them
+	- An eyeball encased in a gem
+	- A glass jar of black pearls
+	- Various spell components
+	- A silver ritual knife that radiates a faint necrotic energy (150g)
+	- As Ossian reaches for the eyeball - him and Narissa need to make a CON save
+		- Ossian saves but Narissa is now poisoned for 2 hours and takes 34 points of damage
+- Chip walks on a pressure plate and as he does the lightning in the machine crackles even more and a *Lightning Bolt* is cast on him
+	- DEX save, 20, saved!
+	- With *Evasion*, Chip takes no damage
+- As that happens, the three creatures wake up..
 ---
 **Combat ⚔️**
 
@@ -98,5 +201,20 @@
 
 ---
 - We did it! And the golems never got to attack 😈
-- Continuation, see [[Find evidence of collusion between The League of Miracles and The Clasp]]
+- The flesh golems lie wasted on the floor... They are no longer a threat to us and we are free to investigate
+- Narissa finds a note on the bench in the middle with information about the constructs
+	- "*Use for protection force?*"
+- Chip notices that one of the main work benches looks like where Dragomir keeps all his notes - he finds another button like the one in Dragomir's office
+	- He presses it
+- It contains a large pearl, shimmering unusually
+- He also finds a leather-bound journal
+	- There are entries that detail shipments
+	- Mentions of [[Aeor]]ian artifacts
+	- "*I believe the excavation team in [[Aeor]] is close to finding the Planar Scythe. The time has almost come to make use of the bargain with [[Luella the Dawnstealer|Luella]] and release the Shadow That Was.*"
+- We also find a locket with a picture of a woman inside
+	- An faded inscription - "To eternity, as one" and a soft blue cloth with the initials *M.L.* (Mads'?)
+	- Mads makes a WIS check - 12...
+	- She doesn't remember her mother or know if the picture is of her or not
+- We also find a book called "The Codex of the Unspoken", it lies open
+	- It seems to be about drawing energy from the Abyss to cast necromantic spells
 - The session ends...
