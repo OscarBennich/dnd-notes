@@ -1,4 +1,4 @@
-**Date**: ???
+**Date**: 2025-06-07
 
 > [!Summary] Current quests
 > - [[Main Quest - Investigate Shadebarrow]]
@@ -11,7 +11,7 @@
 - (1) Find a way to get out of [[Dragomir Lunthak]]'s magical lab
 - (2) Try to decipher the letter using the "*The Craftsmanship of an Agreement*" book we found
 - (3) Find [[Honor Kinnabari]] again and tell her what we've found
-- (4) Go back to [[Caliban Manor]] and eat together with [[Duchess Bianca Caliban]]
+- (4) Go back to [[Caliban House]] and eat together with [[Duchess Bianca Caliban]]
 - (5) Go back to [[Billiam Christ]] with evidence of the collusion between The League and The Clasp:
 	- The deed for the Leatherworking store that's been signed by Dragomir Lunthak
 	- The story from [[Tristan Stonesworn]] about what goes on at the store
@@ -26,4 +26,185 @@
 	- Maybe we could find out more at the [[Cobalt Reserve]]
 - (7) Try to confront Dragomir?
 ---
-- ...
+- We continue where we left off, in [[Dragomir Lunthak]]'s secret lab...
+- Mads makes another WIS check for the soft blue cloth with the initials - 15
+	- The texture feels familiar
+	- It *could* be hers from her childhood
+- We find a bunch of different things:
+	- A jar of blood
+	- A jar of dust
+	- The skull of a lizard
+	- A box with an eyeball encased in a gem
+	- A jar of small black pearls
+	- A broken bone
+	- A small square of black silk
+- [[Theo]] smells the skull of the lizard
+	- "*We share a family*"
+	- "*Share lineage*"
+	- "*From baby, serves black dragons*"
+- It's been dead many years
+	- Nature check - around 30 years old
+	- Almost definitely related to [[Chroma Crisis]]
+- It's the skull of a *Behir* hatchling
+- Evan, Arcana check: 13
+	- It looks like all of this are spell components
+- Chip sees something sparkling in a crate on the other side of the room
+	- It's a diamond worth 500g! 💎
+- Narissa and I, look through the books that are on a shelf above one the desk
+	- [INSERT BOOK NAMES AND DESCRIPTIONS HERE]
+		- All of these books seem very connected to [[Shadebarrow]] (necromancy, druids, The Abyss)
+		- This confirms (ish) that [[Dragomir Lunthak]] is connected to more than just what's happening in [[Westruun]]...
+	- Including one book regarding what's basically cryogenic freezing
+- I put all books of interest in our *Bag of Holding* to research at a later date
+- We try to touch an "E" in one of the books - nothing happens
+- I start saying the inscription from the locket: *To eternity...* while holding the book, and I vanish
+- Everyone else does the same thing, holding the book and saying "Eternity"
+- We all appear back in Dragomir's office, behind his desk
+- Chip listens for people outside in the corridor, it's silent
+- [[Dain]] does the *Major Image* trick in the corridor again
+- We want to try to break into [[Ashcombe Paltimore]]'s office as well
+- Narissa lockpicks the door and we walk inside
+- We look for any information about deliveries of creatures
+- We find:
+	- An invitation to the ball
+	- A timetable for the events at the ball (excluding the speech from the Matron of Raven's priestesses and the dragon attack)
+	- A map of Westruun
+	- A list of spell components
+	- Incomplete spell scrolls in his trash
+- Chip hears someone coming in the corridor
+- We all run out of the room, hide in a little alcove between the doors, put the *Major Image* in front of us, and try to quietly hide (stealth check)
+- We hear someone coming, knocking, opening the door and walking into [[Ashcombe Paltimore]]'s office (we do not recognize the voice), scribbling something and then leaving
+- I pop back in to the office and check what he wrote:
+	- "*Come find me when you're back, I've got a question for you Lunthak about some of [[Honor Kinnabari]]'s work. Seems to be free of charge?*" - [[Tarron Sarastina]]
+- We leave the offices and go back through the corridor and down the stairs
+- [[Cecilia Brightwater]] greets us
+- We finally leave [[The Offices of The League of Miracles]]!
+- We decide to head back to [[Caliban House]]
+- Summary of what items we found:
+	- A book called "*The Craftsmanship of an Agreement*" by [[Donaldus Trumpus]]
+	- The deed to the [[Herbalist shop (now leatherworking store)]] in Westruun
+	- A silver ritual knife that radiates a faint necrotic energy
+	- A locket with a picture of a woman inside
+	- A large pearl, shimmering unusually
+	- A note with information about the constructs
+		- "*Use for protection force?*"
+	- A leather-bound journal
+		- "*I believe the excavation team in [[Aeor]] is close to finding the Planar Scythe. The time has almost come to make use of the bargain with [[Luella the Dawnstealer|Luella]] and release the Shadow That Was.*"
+	- A book called "*The Codex of the Unspoken*"
+		- It seems to be about drawing energy from the Abyss to cast necromantic spells
+	- A diamond worth 500g 💎 (Chip took this)
+	- A skull of a *Behir* hatchling
+	- Unfinished scrolls from [[Ashcombe Paltimore]]'s office
+	- A bunch of books related to Necromancy, Druids, and the Abyss
+	- A book about the [[Matron of Ravens]]
+	- A smut book
+- We arrive back at [[Caliban House]]
+- [[Perdita Thimblegrin Quickgleem]] greets us - "You're back!"
+- She leads us to our rooms on the upper floor
+- Two corridors lined with doors to our rooms, one for each of us. We get to construct our own rooms 😍 (out-of-character)
+- Corridor #1:
+	- [[Chip]]
+	- [[Evan]]
+- Corridor #2:
+	- [[Dain]]
+	- [[Ossian]]
+	- [[Mads]]
+	- [[Narissa]]
+- The party reconvenes in my room
+- I start identifying some of the items we found
+	- The silver ritual knife that radiates a faint necrotic energy:
+		- It's not a magical item *per se* but I know its something you would use for necromantic rituals
+	- A large pearl, shimmering unusually:
+		- It's a [[Pearl of Power]]!
+		- I take this, equip it and attune to it
+- I investigate the scrolls from [[Ashcombe Paltimore]]'s office (Arcana check, 14)
+	- All I get is the type of magic - transmutation / conjuration
+- We decide to send a note to [[Billiam Christ]] that we would like to speak to him tomorrow
+	- Tell him about all we've found regarding the [[Find evidence of collusion between The League of Miracles and The Clasp|collusion]]
+	- Tell him about [[Honor Kinnabari]] and that she helped us, we need to make sure she is not in danger
+	- Ask him about [[Aeor]], the Planar Scythe, and the *Shadow That Was*
+	- Ask him about confronting [[Dragomir Lunthak]]
+- We finish our conversation and head downstairs to eat dinner with [[Duchess Bianca Caliban]]
+- The chef is carrying in plates - he's called [[Usko]]
+- We sit down
+- There's a huge, delicious feast on the table
+- Bianca proposes a toast but is suddenly interrupted by the voice of my [[Patron]] ([[Queen Titania]])!
+	- "*To forms truer than flesh, to the instincts we hide behind silk and silver. Let me see you dance without your disguises dears.*"
+- Our vision turns multi-colored - like looking through a soap bubble
+- We feel sick, and suddenly we wake up in a maze in the garden outside (there wasn't a maze there before?)
+- We look around and realize *we've all been transformed into pigs*
+	- We can cast spells but if it takes an Action they take 1 minute to cast instead
+	- We have 12 AC and 4 HP
+	- 30 feet movement
+- A Bianca-themed pig is trapped in a cage on a pillar in the middle of the maze
+- We go right and reach a dead-end with a wolf
+- We go back and find a mask with raven feathers on the ground
+	- Narissa puts it on
+	- She vanishes
+- We find a sheep with golden wool that's flipped over
+	- We help it get up
+- We find another mask that glows with the light of the moon
+	- Instead of putting it on, Dain puts in his mouth to carry it with us
+- We encounter a pond with a bunch of frogs
+- We find another mask, shadow and starlight - Mads'?
+- We encounter a gecko - I give him my glasses
+- We find another mask with flickering green flames - Mine?
+- We come upon another pig with a beret who is painting
+	- He's painting a scene from [[Queen Titania]]'s court, the summer court
+- We find another mask, covered in vines
+- We find the pillar in the middle, a key, and another mask
+- We let Pig-Bianca out of her cage but there's no mask for her
+- She wants us to put on our masks anyway, she says that letting her out of the cage might be "the end" of the maze
+- We put on our masks and vanish and each of us hear a voice in our heads
+	- I hear: "*Stop being such an ass, charm the people you need, and be mischievous with those that you don't. Not the other way around!*"
+- The 6 of us are transported back to the dinner table again
+- But Bianca is still a pig...
+- We follow Bianca to the garden and she writes a message in the dirt with her snout
+- She tells us she will get help from [[Gilmore]] in the morning and hopefully he'll be able to help
+- I try to help by casting *Dispel Magic* (5th level) on her, but it does nothing
+- With nothing left to do for now, we head to bed
+- During the night, I hear a soft voice: "Evan..."
+	- I make a WIS saving throw (16)
+- The voice seems to be coming from downstairs, I'm drawn to it
+- I head back to the dining room and out to the terrace
+- In the garden I see a elvish (?) woman with pointed ears and sharp angular features
+- She's wearing a gown of green and gold
+- Long curls of copper hair cascading down
+- Eyes that shine through the night with golden light
+- As her eyes meet mine, my vision narrows to only her face
+- She puts her finger to her lips and gestures for me to follow her and walks away slowly
+- I feel a tugging motion and follow her
+- As I turn the corner I'm suddenly in a forest clearing
+- From when we first met, but slightly different
+- There's bright orange flowers, and I could *swear* I hear snoring coming from them
+- There's a silver pool of water in front of me with a stepped waterfall
+- There's a tree to the right with dark emerald leaves
+- The woman leaps from lily pad to lily pad
+- She conjures a thrown made of vines, seemingly looking almost like a sleeping dragon
+- In the center of the pool and directly in front of the pool is a larger lily pad
+- She tells me that if I want to speak to her I need to "take the stage"
+- There's strange birds in the trees and other strange critters
+- The only way to get to the big lily bad is to leap across the water
+	- Acrobatics check ➡️ 16
+- I successfully jump across and soon stand before her - "You wanted to meet me, here I am..."
+- I see visions of different people:
+	- [[Portia]]
+	- [[Juliette]]
+	- Miranda from [[Turst Fields]]
+	- [[Desdemona]]
+	- [[Madame Maab]]
+	- Rosalind from [[Westhall Academy]] in [[Westruun]]
+- "The main problem with the mortal world is the lack of spontaneity"
+- "There's someone I don't like very much"
+	- [[Dragomir Lunthak]] is the one whose trying to release this entity
+	- It's [[Orcus the Demon Prince of Undeath]]??
+	- "He took someone who belonged to me"
+	- A well-endowed druid, killed in [[Shadebarrow]]
+	- "I don't like when my belongings are tampered with."
+- She snaps her fingers and the lily pad I was standing on collapses
+- She asks me to choose:
+	- ...
+	- ...
+	- ...
+- As a gift from my [[Patron]], my *Tome of Shadow* is transformed into xxx
+- The session ends...

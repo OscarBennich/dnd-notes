@@ -72,3 +72,8 @@
 	- I then transform to "Pile Duncan" again (that I did [[Session 40|before]]) so I don't draw attention to myself as a Shield guard
 	- Another person sees him sleeping in the alley and asks me if he had too much to drink, I answer "Yes" and clear the Deception check (12)
 	- I then run away from the Underwalk
+
+[[Session 48]]
+- I talk to my [[Patron]] after seeing my room at [[Caliban House]]
+	- "I guess you're rubbing off on me" (there's lots of Fey-inspired details)
+- I ask her when I get to see her - "Patience" she says

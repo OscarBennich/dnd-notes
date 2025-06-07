@@ -24,7 +24,7 @@
 - We have now pre-paid for Mads' armor
 - The Duchess invite us to stay with her
 - She will also be at the [[Big Ball]]
-- She lives in [[Caliban Manor]]
+- She lives in [[Caliban House]]
 - We leave [[Gilmore's Glorious Goods]]
 - Meanwhile, [[Narissa]] is investigating the [[Hall of Reason]] and the [[The League of Miracles]] HQ
 	- [[The Offices of The League of Miracles]]

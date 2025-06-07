@@ -56,7 +56,7 @@ Duchess Bianca Caliban
 
 - We send a letter to [[Honor Kinnabari]], inviting her to join us in [[Bäkerz Bakery]] and talk
 	- See [[Find evidence of collusion between The League of Miracles and The Clasp]]
-- We head to [[Caliban Manor]] and knock on the door
+- We head to [[Caliban House]] and knock on the door
 - [[Stefano]] greets us and ushers us in
 - We enter into the hallway, stone tile floor, wooden walls, almost a mosaic on the floors
 - The undersides of the steps are visible

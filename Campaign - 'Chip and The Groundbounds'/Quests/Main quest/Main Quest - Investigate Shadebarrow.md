@@ -10,7 +10,7 @@ Related quests:
 - We also from "[[A History of Tal’Dorei]]" that [[Neminar Drassig]], brother of [[Trist Drassig]], was an infamous necromancer
 	- Neminar also made a pact with [[Bane the Strife Emperor]] to bless his troops.
 	- Trist then used the same connection to Bane to get a legion of demons to join his forces.
-	- This drew the attention of 2 Demon princes:
+	- This drew the attention of two Demon princes:
 		- [[Orcus the Demon Prince of Undeath]]
 		- [[Graz’zt the Demon Prince of Pleasure]]
 	- Could this connect back to [[Ryzzix]]?

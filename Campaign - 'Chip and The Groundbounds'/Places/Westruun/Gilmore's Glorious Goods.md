@@ -35,7 +35,7 @@
 		- Takes ~ 24 weeks to make
 	- *Wand of the Warmage + 2* - 4800g
 	- *Wand of the Warmage + 3* - 19200g
-	- *Pearl of Power* - 6000g
+	- [[Pearl of Power]] - 6000g
 		- Regain 1 expended spell slot (max 3rd level)
 		- 1 use / day
 

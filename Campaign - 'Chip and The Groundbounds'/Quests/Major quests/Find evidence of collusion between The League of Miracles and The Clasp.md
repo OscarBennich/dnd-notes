@@ -158,7 +158,8 @@
 	- It is magic - *conjuration*
 	- Is it like the living mirror in Snow White?
 	- [[Dain]] makes a perception check - 21
-	- Looking closer - we see one of the pages of the book she's reading, on it we see: "The beginning of eternity, the end of time and place. Either side of every eve, the edge of every face."
+	- Looking closer - we see one of the pages of the book she's reading, on it we see: 
+		- "*The beginning of eternity, the end of time and place. Either side of every eve, the edge of every face.*"
 	- It looks like the painting is following us with her eyes
 	- Dain does a INT check - Nat 20!
 		- The wording of the riddle is very specific, we need to pay attention to the words.
@@ -189,7 +190,7 @@
 	- An eyeball encased in a gem
 	- A glass jar of black pearls
 	- Various spell components
-	- A silver ritual knife that radiates a faint necrotic energy
+	- A silver ritual knife that radiates a faint necrotic energy (150g)
 	- As Ossian reaches for the eyeball - him and Narissa need to make a CON save
 		- Ossian saves but Narissa is now poisoned for 2 hours and takes 34 points of damage
 - Chip walks on a pressure plate and as he does the lightning in the machine crackles even more and a *Lightning Bolt* is cast on him
@@ -202,14 +203,33 @@
 	- "*Use for protection force?*"
 - Chip notices that one of the main work benches looks like where Dragomir keeps all his notes - he finds another button like the one in Dragomir's office
 	- He presses it
-- It contains a small vial with some red liquid that looks like blood
+- It contains a large pearl, shimmering unusually
 - He also finds a leather-bound journal
 	- There are entries that detail shipments
 	- Mentions of [[Aeor]]ian artifacts
 	- "*I believe the excavation team in [[Aeor]] is close to finding the Planar Scythe. The time has almost come to make use of the bargain with [[Luella the Dawnstealer|Luella]] and release the Shadow That Was.*"
-- We also find a locket with a picture inside
-	- An inscription - "To eternity, as one" and the initials *M.L.* (Mads' mother?)
-	- Mads makes a WIS check - 12... 
-	- She doesn't remember her mother or know if the picture if of her or not
+- We also find a locket with a picture of a woman inside
+	- An faded inscription - "To eternity, as one" and a soft blue cloth with the initials *M.L.* (Mads'?)
+	- Mads makes a WIS check - 12...
+	- She doesn't remember her mother or know if the picture is of her or not
 - We also find a book called "The Codex of the Unspoken", it lies open
-	- It seems to be about drawing energy from the Abyss to create constructs
+	- It seems to be about drawing energy from the Abyss to cast necromantic spells'
+
+[[Session 48]]
+- Narissa tries to use "*The Craftsmanship of an Agreement*" book to decipher the note from the dumbwaiter - INT check (21)
+	- "*Nice trick with the dragon. I'll ask my people to make their killings a tad bit more public than usual. That should more than guarantee the contract you're looking for. I trust you will keep up your side of the bargain regarding our cut of that money.*" - [[Gholesh]]
+		- Who is Gholesh?
+- We feel ready to go back to [[Billiam Christ]] and tell him all we've found regarding the collusion between [[The League of Miracles]] & [[The Clasp]]:
+	- **Motive**
+		- The League are colluding with The Clasp to create enough danger for the [[Council of Westruun]] to agree to an expensive contract where The League would offer additional protection of Westruun
+		- This would be mutually beneficial for both parties:
+			- The League gets payment from Westruun and more power
+			- The Clasp gets to do whatever they want once The League has taken over defense of the city
+	- **Hard evidence**
+		- The deed for the Leatherworking store that's been signed by Dragomir Lunthak
+		- The deciphered note from the dumbwaiter, written by [[Gholesh]]
+	- **Circumstantial evidence**
+		- The story from [[Tristan Stonesworn]] about what goes on at the store
+		- The dumbwaiter leading to [[The Clasp]] hideout, "Upstairs" from the store (connecting the store to The Clasp)
+		- Information from the ledger we found, i.e. "Additional shop loan payments"
+		- Other information about The Dragon attack, The [[Nullifier]], and The Magma Landshark attacks
