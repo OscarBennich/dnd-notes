@@ -27,7 +27,7 @@
 - (7) Try to confront Dragomir?
 ---
 - We continue where we left off, in [[Dragomir Lunthak]]'s secret lab...
-- Mads makes another WIS check for the soft blue cloth with the initials - 15
+- Mads makes another WIS check for the soft blue cloth with the initials ➡ 15
 	- The texture feels familiar
 	- It *could* be hers from her childhood
 - We find a bunch of different things:
@@ -51,10 +51,15 @@
 - Chip sees something sparkling in a crate on the other side of the room
 	- It's a diamond worth 500g! 💎
 - Narissa and I, look through the books that are on a shelf above one the desk
-	- [INSERT BOOK NAMES AND DESCRIPTIONS HERE]
-		- All of these books seem very connected to [[Shadebarrow]] (necromancy, druids, The Abyss)
-		- This confirms (ish) that [[Dragomir Lunthak]] is connected to more than just what's happening in [[Westruun]]...
-	- Including one book regarding what's basically cryogenic freezing
+	- *Codex of the Unspoken* - A book on drawing energy from the Abyss to cast necromantic spells
+	- *Of Teeth and Tongues: A Linguistic Guide to Abyssal*
+	- *Decay as Design: A Structural View of Necromancy*
+	- *A History of the Druids of Tal’dorei*
+	- *Hierarchies of the Abyss*
+	- *Barter in Blood: Interplanar Exchanges and their Patrons* - A text on pacts with various entities.
+	- *Threads of the Pale Loom* - A religious text describing the Raven Queen and her teachings (as interpreted by a renowned cleric and scholar of the Raven Queen Lieve'tel Toluse, one of the High Wardens of the Duskmeadow in Vasselheim).
+- All of these books seem connected to [[Shadebarrow]] (necromancy, druids, The Abyss)
+- This confirms (ish) that [[Dragomir Lunthak]] is connected to more than just what's happening in [[Westruun]]...
 - I put all books of interest in our *Bag of Holding* to research at a later date
 - We try to touch an "E" in one of the books - nothing happens
 - I start saying the inscription from the locket: *To eternity...* while holding the book, and I vanish
