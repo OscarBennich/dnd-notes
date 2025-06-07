@@ -120,3 +120,4 @@
 		- Information from the ledger we found, i.e. "Additional shop loan payments"
 		- Other information about The Dragon attack, The [[Nullifier]], and The Magma Landshark attacks
 			- We also found additional evidence about the involvement of the League regarding the Dragon attack in [[Ashcombe Paltimore]]'s office
+			- If we need to we could ask [[Honor Kinnabari]] to try to find out more information about the spell scroll fragments

@@ -50,7 +50,7 @@
 	- It looks like all of this are spell components
 - Chip sees something sparkling in a crate on the other side of the room
 	- It's a diamond worth 500g! 💎
-- Narissa and I, look through the books that are on a shelf above one the desk
+- Narissa and I look through the books that are on a shelf above one the desk
 	- *Codex of the Unspoken* - A book on drawing energy from the Abyss to cast necromantic spells
 	- *Of Teeth and Tongues: A Linguistic Guide to Abyssal*
 	- *Decay as Design: A Structural View of Necromancy*
@@ -122,7 +122,7 @@
 		- I add it to my backpack
 	- A large pearl, shimmering unusually:
 		- It's a [[Pearl of Power]]!
-		- I take this, equip it and attune to it
+		- I take it for myself, equip it and attune to it
 - I investigate the scrolls from [[Ashcombe Paltimore]]'s office (Arcana check, 14)
 	- All I get is the type of magic - transmutation / conjuration
 - We decide to send a note to [[Billiam Christ]] that we would like to speak to him tomorrow
