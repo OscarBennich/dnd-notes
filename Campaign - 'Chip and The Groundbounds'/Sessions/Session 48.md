@@ -107,6 +107,7 @@
 - [[Perdita Thimblegrin Quickgleem]] greets us - "You're back!"
 - She leads us to our rooms on the upper floor
 - Two corridors lined with doors to our rooms, one for each of us. We get to construct our own rooms 😍 (out-of-character)
+- [FILL THIS OUT (DESCRIPTION OF ROOMS)]
 - Corridor #1:
 	- [[Chip]]
 	- [[Evan]]
