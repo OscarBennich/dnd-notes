@@ -26,10 +26,9 @@ Related quests:
 - In [[Session 47]] (see [[Find evidence of collusion between The League of Miracles and The Clasp]] we found a note that said: "*I believe the excavation team in [[Aeor]] is close to finding the Planar Scythe. The time has almost come to make use of the bargain with [[Luella the Dawnstealer|Luella]] and release the Shadow That Was.*"
 	- Releasing the "Shadow that Was" - could that be referring to Neminar Drassig?
 - In [[Session 48]] we found a bunch of books in the secret lab of [[Dragomir Lunthak]] regarding Necromancy, Druids, and The Abyss
-- In [[Session 48]] I find out that my [[Patron]] is interested in killing [[Orcus the Demon Prince of Undeath]] because one of the Druids he killed in [[Shadebarrow]] "belonged" to her. Apparently [[Dragomir Lunthak]] is trying to release Orcus.
+- In [[Session 48]] I found out that my [[Patron]] is interested in killing [[Orcus the Demon Prince of Undeath]] because one of the Druids he killed in [[Shadebarrow]] "belonged" to her. Apparently [[Dragomir Lunthak]] is trying to release Orcus.
 	- Release him from where?
 ### Location
-
 - Buddleah then decided to tell us how to find Shadebarrow. She told us that mists surround the place and that we need to be able to navigate dense forests.
 - It is east of [[Westruun]] and south of the road from [[Westruun]] to [[Turst Fields]] but there's not a lot of visible markers.
 - We need to travel down the *Silvercut Roadway* south for 5 days, and then east for 5 days.
@@ -38,5 +37,5 @@ Related quests:
 
 ### Objectives
 - What or _who_ is creating this undead force in Shadebarrow? We need to stop it.
-	- Could [[Dragomir Lunthak]] and his experiments be related to this?
+	- It seems that [[Dragomir Lunthak]] is trying to "release" [[Orcus the Demon Prince of Undeath]]. This is definitely related to Shadebarrow in one way or another (although it's still unclear exactly how).
 - We need to watch out for any potential protections guarding the tomb of [[Sevil Howthess]].
