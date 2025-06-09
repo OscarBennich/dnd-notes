@@ -1,0 +1,2 @@
+- The Scattered War lasted for 32 years (beginning somewhere between 479 and 504 P.D. and ending between 511 and 536 P.D.) and is recalled in bardsong in The Time of Shrouds. It spanned across the Cliffkeep Mountains and parts of the Verdant Expanse, with the human colonies spread throughout the warring territories. [[Warren Drassig|King Drassig]] encountered little resistance as he conquered each village, town and city in turn, giving these isolated settlements no way of warning one another of his advance
+- See [[A History of Tal’Dorei#Chapter 8 The Scattered War]]

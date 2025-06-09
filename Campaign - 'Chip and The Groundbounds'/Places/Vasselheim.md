@@ -1,0 +1,3 @@
+- A city in Issylra
+- Also known as "Dawn City"
+- To the best of our knowledge, this is where civilization as we currently know it began. It houses the earliest known records of history and the earliest known temples to the gods.

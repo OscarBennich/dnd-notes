@@ -1,1 +1,6 @@
 - Queen of the Summer Court. A powerful [[Archfey]] who sets traps in the Feywild for outsiders. She is said to have auburn hair and eyes that change colours with the seasons while she is on the Material Plane. A figure of fear as well as desire, some texts portray her as merely flirtatious and impulsive, however, others state that underneath this there is a strategic and formidable power to be reckoned with. Although she enjoys toying with mortals, she sees this as harmless fun and despises those who prey on the weak. Her symbol is a white diamond with a blue star.
+---
+- Queen Titania has made a pact with [[Evan]] and thus have become his [[Patron]]
+- An elvish-like woman with pointed ears and sharp angular features
+- Wears a gown of green and gold
+- Long curls of copper hair that cascade down her face

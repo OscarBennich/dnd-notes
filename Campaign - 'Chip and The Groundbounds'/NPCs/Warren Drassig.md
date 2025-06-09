@@ -1,2 +1,4 @@
 - Cunning Oligarch that seized power over [[Emon]], transforming the realm into the Kingdom of Drassig (somewhere in the mid-to-late 400s P.D.)
-- Died during the Scattered War
+- Drassig was no common warmonger; he was a cunning, heartless master of psychological warfare.
+- See [[A History of Tal’Dorei#Chapter 7 The Iron Rule of Drassig]]
+- Died during [[The Scattered War]]

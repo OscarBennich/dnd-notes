@@ -176,7 +176,7 @@
 	- I make a WIS saving throw (16)
 - The voice seems to be coming from downstairs, I'm drawn to it
 - I head back to the dining room and out to the terrace
-- In the garden I see a elvish-like woman with pointed ears and sharp angular features
+- In the garden I see an elvish-like woman with pointed ears and sharp angular features
 - She's wearing a gown of green and gold
 - Long curls of copper hair cascading down
 - Eyes that shine through the night with golden light
@@ -189,7 +189,7 @@
 - There's a silver pool of water in front of me with a stepped waterfall
 - There's a tree to the right with dark emerald leaves
 - The woman leaps from lily pad to lily pad
-- She conjures a throne made of vines, looking almost like a sleeping dragon
+- She conjures a throne made of vines, it looks almost like a sleeping dragon
 - In the center of the pool and directly in front of the pool is a larger lily pad
 - She tells me that if I want to speak to her I need to "take the stage"
 - There's strange birds in the trees and other strange critters
