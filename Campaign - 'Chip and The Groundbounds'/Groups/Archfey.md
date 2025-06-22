@@ -1,3 +1,5 @@
 - [[Lord Artagan of the Morncrown]]
 - [[Lord Saundor the Forsaken]]
 - [[Potentate Sammanar]]
+- [[Lady Elmenore the Unforgiving]]
+- [[Queen Titania of the Summer Court]]

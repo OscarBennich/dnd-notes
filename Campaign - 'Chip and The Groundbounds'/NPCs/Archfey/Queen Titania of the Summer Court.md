@@ -4,3 +4,11 @@
 - An elvish-like woman with pointed ears and sharp angular features
 - Wears a gown of green and gold
 - Long curls of copper hair that cascade down her face
+- Titania has taken many forms during our adventure:
+	- [[Portia]] from [[Stilben]]
+	- [[Juliette]] from [[Drynna]]
+	- Miranda from [[Turst Fields]]
+	- [[Desdemona]] from [[Westruun]]
+	- [[Madame Maab]] from [[Westruun]]
+	- [[Rosalind]] from [[Westhall Academy]] in [[Westruun]]
+	- [[Duchess Bianca Caliban]] in [[Westruun]]

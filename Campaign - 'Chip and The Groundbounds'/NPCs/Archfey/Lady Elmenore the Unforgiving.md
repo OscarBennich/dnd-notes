@@ -1,2 +1,2 @@
 - And [[Archfey]]
-- Matriarch of the Seelie Court (a political faction in the Feywild which tends to be more benevolent towards mortals) and High Warqueen of the Burning Vale. She is said to be beautiful, with dark skin, burning white eyes and curly hair of orange-hued flaming gold.
+- Matriarch of the Seelie Court (a political faction in the Feywild which tends to be more benevolent towards mortals) and High Warqueen of the [[Burning Vale]]. She is said to be beautiful, with dark skin, burning white eyes and curly hair of orange-hued flaming gold.

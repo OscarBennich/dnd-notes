@@ -1,3 +1,4 @@
 - From [[Westruun]]
 - Part of the [[Council of Westruun]]
 - Gnome
+- Advisor to [[Lysandra Kalloss]]

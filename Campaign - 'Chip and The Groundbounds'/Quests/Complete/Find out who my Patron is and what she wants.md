@@ -78,7 +78,7 @@
 	- "I guess you're rubbing off on me" (there's lots of Fey-inspired details)
 - I ask her when I get to see her - "Patience" she says
 - During that night, I am visited by [[Queen Titania of the Summer Court]] in a vision
-- From the garden of [[Caliban House]] she leads me to her Summer Court where she conjures a throne made of vines, looking almost like a sleeping dragon
+- From the garden of [[Caliban House]] she leads me to her Summer Court where she conjures a throne made of vines, looking almost like a sleeping Fey Dragon
 - There's a silver pool of water in front of me with a stepped waterfall
 - In the center of the pool and directly in front of the pool is a larger lily pad
 - I successfully jump across and soon stand before her - "You wanted to meet me, here I am..."

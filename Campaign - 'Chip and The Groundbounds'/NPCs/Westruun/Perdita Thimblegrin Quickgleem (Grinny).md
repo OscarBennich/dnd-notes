@@ -1,0 +1,5 @@
+- Works for [[Duchess Bianca Caliban]]
+- From [[Westruun]]
+- AKA "Grinny"
+- She has died hair
+- In [[Session 49]] we realize that Grinny is actually a disguised fairy

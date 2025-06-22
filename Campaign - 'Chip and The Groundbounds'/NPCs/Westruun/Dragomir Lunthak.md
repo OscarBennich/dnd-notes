@@ -1,5 +1,6 @@
 - From [[Westruun]]
 - Human male
+- He looks a bit like Doctor Strange
 - Representative / administrator for [[The League of Miracles]]
 - Lesser nobility
 - Has an office in the [[The Offices of The League of Miracles]] in Westruun

@@ -1,3 +1,3 @@
 - [[Evan]] used to work here
-- Located in [[Westruun]]
+- Located in [[Westruun]] (in the Opal Ward)
 - Run by [[Teath Ruddlestone]]

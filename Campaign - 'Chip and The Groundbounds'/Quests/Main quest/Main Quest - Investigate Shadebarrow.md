@@ -2,6 +2,7 @@ Related quests:
 - [[Find the magical storm]]
 - [[Investigate the ominous speech from the Matron of Ravens priestesses]]
 - [[Go to House Austan and speak to Buddleah]]
+- [[Help Titania stop Dragomir from releasing Orcus the Demon Prince of Undeath]]
 ---
 ### Background
 - There has been undead activity reported on the plains between [[Drynna]] & [[Westruun]] (see [[Session 14]], [[Session 15]], [[Session 36]]).

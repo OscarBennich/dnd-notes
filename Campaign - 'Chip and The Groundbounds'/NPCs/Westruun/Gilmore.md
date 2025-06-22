@@ -1,0 +1,2 @@
+- Purveyor of magical goods in [[Westruun]]
+- Owner of [[Gilmore's Glorious Goods]]

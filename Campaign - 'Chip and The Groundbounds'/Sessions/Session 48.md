@@ -104,7 +104,7 @@
 	- A book about the [[Matron of Ravens]]
 	- A smut book
 - We arrive back at [[Caliban House]]
-- [[Perdita Thimblegrin Quickgleem]] greets us - "You're back!"
+- [[Perdita Thimblegrin Quickgleem (Grinny)]] greets us - "You're back!"
 - She leads us to our rooms on the upper floor
 - Two corridors lined with doors to our rooms, one for each of us. We get to construct our own rooms 😍 (out-of-character)
 	- Everyone describes their own rooms
@@ -190,7 +190,7 @@
 - There's a silver pool of water in front of me with a stepped waterfall
 - There's a tree to the right with dark emerald leaves
 - The woman leaps from lily pad to lily pad
-- She conjures a throne made of vines, it looks almost like a sleeping dragon
+- She conjures a throne made of vines, it looks almost like a sleeping Fey Dragon
 - In the center of the pool and directly in front of the pool is a larger lily pad
 - She tells me that if I want to speak to her I need to "take the stage"
 - There's strange birds in the trees and other strange critters
@@ -203,17 +203,19 @@
 	- Miranda from [[Turst Fields]]
 	- [[Desdemona]]
 	- [[Madame Maab]]
-	- Rosalind from [[Westhall Academy]] in [[Westruun]]
+	- [[Rosalind]] from [[Westhall Academy]] in [[Westruun]]
 - "The main problem with the mortal world is the lack of spontaneity"
 - "There's someone I don't like very much"
 	- [[Dragomir Lunthak]] is the one whose trying to release this entity
 	- Apparently she's speaking of [[Orcus the Demon Prince of Undeath]] (that I read about in [[A History of Tal’Dorei]])
 		- She *loathes* him
+		- "He's unfathomably ugly, even for demon standards"
 	- "He took someone who belonged to me"
 	- A well-endowed druid, killed in [[Shadebarrow]]
 	- "I don't like when my belongings are tampered with"
-- She snaps her fingers and the lily pad I was standing on collapses
-- She asks me to make a choice of what item I want (flavor of *Tome of the Pact Keeper*):
+	- "I'm not particularly forgiving"
+- She snaps her fingers and the lily pad I was standing on collapses and I'm plunged into the pool
+- She asks me to make a choice of what I want to be to her (will add a flavor to the *Tome of the Pact Keeper* item):
 	- "*Avenging Angel*"
 		- When you hit a fiend or undead creature that creature takes an extra 2d10 radiant damage (max once per round).
 	- "*Charismatic Champion*"

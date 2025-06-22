@@ -75,7 +75,7 @@ Duchess Bianca Caliban
 		- The music box has an eternal flame burning inside
 	- A single silver-healed shoe & a vase of beautiful red roses
 - A gnome woman walks into the room
-	- [[Perdita Thimblegrin Quickgleem]]
+	- [[Perdita Thimblegrin Quickgleem (Grinny)]]
 - Pair 1: We pick the mirror - Correct ✅
 - Pair 2: We pick the music box - Incorrect ❌
 - Pair 3: We pick the silver-healed shoe - Correct ✅

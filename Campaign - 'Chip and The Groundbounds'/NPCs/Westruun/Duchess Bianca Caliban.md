@@ -2,4 +2,5 @@
 - 2m tall
 - "Thighs that could kill a man"
 - "Dripping with jewelry"
-- She's like one of the big fairies in Zelda 
+- She's like one of the big fairies in Zelda
+- In [[Session 49]] we find out Bianca is just [[Queen Titania of the Summer Court]] in disguise
