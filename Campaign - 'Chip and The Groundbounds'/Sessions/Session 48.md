@@ -223,4 +223,5 @@
 		- You can cast *Otto’s Irresistible Dance* without expending a spell slot. However, each time you cast it there is a chance that it backfires and you cast it upon yourself. This functions similarly to Wild Magic rules, the risk increases each time. Roll a D20, on a 1 this effect triggers. If it does not trigger, the range is extended by 1, e.g. 1-2. This continues until the effect is triggered. It then resets to 1.
 - I choose the *Charismatic Champion* flavor
 - As a gift from my [[Patron]], my *Book of Shadows* is now empowered into [[Tome of the Pact Keeper]], +1 (w/ the *Charismatic Champion* flavor)
+- Titania is standing next to a waterfall and the dream/vision ends with the "camera" zooming out and her casting a charm spell on me and then kissing me (did we have sex? who knows)
 - The session ends...
