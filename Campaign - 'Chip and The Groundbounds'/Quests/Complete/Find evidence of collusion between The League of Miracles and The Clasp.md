@@ -121,3 +121,21 @@
 		- Other information about The Dragon attack, The [[Nullifier]], and The Magma Landshark attacks
 			- We also found additional evidence about the involvement of the League regarding the Dragon attack in [[Ashcombe Paltimore]]'s office
 			- If we need to we could ask [[Honor Kinnabari]] to try to find out more information about the spell scroll fragments
+
+[[Session 49]]
+- We head to [[The Ironhand Trading Company]]
+- We head up to the office and see [[Zenor]]
+- We go into Billiam's office and see him, [[Lysandra Kalloss]] and [[Finley Merrymeat]]
+- We present our evidence to them
+- I lie (by omission) about why we went to the [[Hall of Reason]]
+	- Deception check ➡️ 25
+- [[Zenor]] volunteers to testify in the court case
+- Kalloss: "We don't need to win this, we just need to make it public"
+- [[Billiam Christ]] decides to testify instead and is ready to step down after and make [[Zenor]] the leader afterwards (he's ready to make that sacrifice ✝)
+- We say we will leave in ~ 3 days
+- Midsummer is in 2 days which is the end of the festivities
+- After that, [[Billiam Christ]] will present the evidence to the [[Hall of Reason]]
+- Reward:
+	- The deed (and ownership) of [[Caliban House]]
+	- [[The Ironhand Trading Company]] will keep ownership of it for the sake of keeping our ownership off the record
+- Quest complete ✅
