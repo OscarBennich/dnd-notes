@@ -92,4 +92,5 @@
 - She tells me what she wants from me is to stop [[Dragomir Lunthak]] from releasing [[Orcus the Demon Prince of Undeath]], or kill Orcus, or both. I'm not quite sure.
 - The reason is because one of the [[Druids of the Dawn Circle]] that Orcus killed in [[Shadebarrow]] "belonged" to her
 - So I know now *who* my patron is ➡ [[Queen Titania of the Summer Court]]
-- And I know *what she wants* ➡ Stop [[Dragomir Lunthak]] from releasing [[Orcus the Demon Prince of Undeath]]
+- And I know *what she wants* ➡ Stop [[Dragomir Lunthak]] from releasing [[Orcus the Demon Prince of Undeath]] (and if he succeeds, we need to kill Orcus)
+- Quest complete ✅ (follow-up: [[Help Titania stop Dragomir from releasing Orcus the Demon Prince of Undeath]])
