@@ -17,7 +17,8 @@
 	- What is the bargain they made with Luella?
 	- Releasing the *Shadow That Was* - That is probably referring to [[Orcus the Demon Prince of Undeath]] as my [[Patron]] said that Dragomir is trying to "release" him
 	- Maybe we could find out more at the [[Cobalt Reserve]]
-5. Find out more information about [[Orcus the Demon Prince of Undeath]]  ([[Help Titania stop Dragomir from releasing Orcus the Demon Prince of Undeath]])
+5. Find out more information about [[Orcus the Demon Prince of Undeath]]
+	- See [[Help Titania stop Dragomir from releasing Orcus the Demon Prince of Undeath]]
 ---
 - We start the session by waking up in our beds
 - We head downstairs and see [[Duchess Bianca Caliban]], she has been turned back to her normal form by [[Gilmore]]
