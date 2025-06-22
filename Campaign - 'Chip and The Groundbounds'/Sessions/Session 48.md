@@ -107,7 +107,8 @@
 - [[Perdita Thimblegrin Quickgleem]] greets us - "You're back!"
 - She leads us to our rooms on the upper floor
 - Two corridors lined with doors to our rooms, one for each of us. We get to construct our own rooms 😍 (out-of-character)
-- [FILL THIS OUT (DESCRIPTION OF ROOMS)]
+	- Everyone describes their own rooms
+	- I describe mine as a Fey-flavored magic-inspired library with purple lighting and a painted glass window
 - Corridor #1:
 	- [[Chip]]
 	- [[Evan]]
@@ -207,14 +208,19 @@
 - "There's someone I don't like very much"
 	- [[Dragomir Lunthak]] is the one whose trying to release this entity
 	- Apparently she's speaking of [[Orcus the Demon Prince of Undeath]] (that I read about in [[A History of Tal’Dorei]])
+		- She *loathes* him
 	- "He took someone who belonged to me"
 	- A well-endowed druid, killed in [[Shadebarrow]]
-	- "I don't like when my belongings are tampered with."
+	- "I don't like when my belongings are tampered with"
 - She snaps her fingers and the lily pad I was standing on collapses
-- She asks me to make a choice:
-	- ...
-	- ...
-	- ...
-- [FILL THIS OUT]
-- As a gift from my [[Patron]], my *Book of Shadows* is now empowered into xxx
+- She asks me to make a choice of what item I want (flavor of *Tome of the Pact Keeper*):
+	- "*Avenging Angel*"
+		- When you hit a fiend or undead creature that creature takes an extra 2d10 radiant damage (max once per round).
+	- "*Charismatic Champion*"
+		- You have advantage when making Charisma ability checks.
+		- Additionally, creatures you target with a charm spell have disadvantage on their saving throw.
+	- "*Court Jester*"
+		- You can cast *Otto’s Irresistible Dance* without expending a spell slot. However, each time you cast it there is a chance that it backfires and you cast it upon yourself. This functions similarly to Wild Magic rules, the risk increases each time. Roll a D20, on a 1 this effect triggers. If it does not trigger, the range is extended by 1, e.g. 1-2. This continues until the effect is triggered. It then resets to 1.
+- I choose the *Charismatic Champion* flavor
+- As a gift from my [[Patron]], my *Book of Shadows* is now empowered into [[Tome of the Pact Keeper]], +1 (w/ the *Charismatic Champion* flavor)
 - The session ends...
