@@ -175,13 +175,11 @@
 - We head back to [[Caliban House]] and are greeted by [[Perdita Thimblegrin Quickgleem (Grinny)]]
 - [[Usko]] makes us a meal
 - We start discussing what to do next and how to travel to [[Lyrengorn]]
-	- We can either take the long way around (safer) or the shorter way (more dangerous)
-	- We choose to take the shorter way
-	- The shorter way passes through Umbra Hills and should not take longer than 28 days
-		- We will go north: Jorenn village ➡️ Umbra Hills ➡️ The Grey Valley ➡️ Lyrengorn
-	- Umbra Hills is a valley that lies in perpetual shadow and it's rumoured to be home to demons and undead (see [[A History of Tal’Dorei#Chapter 10 The Battle of the Umbra Hills]])
-- We stock up on rations for the travel ahead
-- We buy healing potions from [[Gilmore's Glorious Goods]]:
+- We can either take the long way around (safer) or the shorter way (more dangerous)
+- Longer way: Go west out of [[Westruun]], past the *Silvercut Crossroads*, then north on the *Wildwood Byway* until we get to [[Kraghammer]]. Then continue north past [[Terrah]] until we get to Lyrengorn.
+- Shorter way: Go north out of [[Westruun]], on the *Blackvalley Path* until we get to [[Jorenn Village]]. We then continue north, passing [[Umbra Hills]], continuing through *The Grey Valley* and the *Cliffkeep Mountains* until we get to Lyrengorn.
+- We choose to take the shorter way, it should take us at most **28 days**
+- We stock up on rations for the travel ahead and buy healing potions from [[Gilmore's Glorious Goods]]:
 	- 3x *Potion of Healing*
 	- 2x *Potion of Healing (Greater)*
 - We send a letter to [[Billiam Christ]] and tell him about what happened with Dragomir
