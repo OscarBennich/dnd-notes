@@ -210,7 +210,7 @@
 - He also finds a leather-bound journal
 	- There are entries that detail shipments
 	- Mentions of [[Aeor]]ian artifacts
-	- "*I believe the excavation team in [[Aeor]] is close to finding the Planar Scythe. The time has almost come to make use of the bargain with [[Luella the Dawnstealer|Luella]] and release the Shadow That Was.*"
+	- "*I believe the excavation team in [[Aeor]] is close to finding the [[Planar Scythe]]. The time has almost come to make use of the bargain with [[Luella the Dawnstealer|Luella]] and release the [[Orcus the Demon Prince of Undeath|Shadow That Was]].*"
 - We also find a locket with a picture of a woman inside
 	- An faded inscription - "To eternity, as one" and a soft blue cloth with the initials *M.L.* (Mads'?)
 	- Mads makes a WIS check - 12...

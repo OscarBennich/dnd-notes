@@ -11,3 +11,4 @@
 - Go to [[Lyrengorn]]
 - Find our father
 - Find out what the [[Matron of Ravens]] wants from us there
+- Gather allies to fight [[Orcus the Demon Prince of Undeath]] and [[Dragomir Lunthak]]

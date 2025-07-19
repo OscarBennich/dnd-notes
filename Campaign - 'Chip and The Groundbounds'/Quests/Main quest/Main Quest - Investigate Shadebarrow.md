@@ -25,12 +25,13 @@ Related quests:
 	- She says there was "undead stuff" happening on the plains and she knows she was east of [[Gatshadow]] and south of the road.
 	- She was seemingly turned undead in Shadebarrow. But she seems to have retained her sanity for some unknown reason.
 	- When I asked [[Mother Veyra]] about Meg, she said that if someone was turned undead but kept their "soul", the [[Matron of Ravens]] might have a reason for it.
-- In [[Session 47]] (see [[Find evidence of collusion between The League of Miracles and The Clasp]]) we found a note that said: "*I believe the excavation team in [[Aeor]] is close to finding the Planar Scythe. The time has almost come to make use of the bargain with [[Luella the Dawnstealer|Luella]] and release the Shadow That Was.*"
+- In [[Session 47]] (see [[Find evidence of collusion between The League of Miracles and The Clasp]]) we found a note that said: "*I believe the excavation team in [[Aeor]] is close to finding the [[Planar Scythe]]. The time has almost come to make use of the bargain with [[Luella the Dawnstealer|Luella]] and release the Shadow That Was.*"
 	- The "Shadow that Was" is 100% referring to [[Orcus the Demon Prince of Undeath]]
 - In [[Session 48]] we found a bunch of books in the secret lab of [[Dragomir Lunthak]] regarding Necromancy, Druids, and The Abyss
 - In [[Session 48]] I found out that my [[Patron]] is interested in killing [[Orcus the Demon Prince of Undeath]] because one of the Druids he killed in [[Shadebarrow]] "belonged" to her. Apparently [[Dragomir Lunthak]] is trying to release Orcus.
 	- Release him from where? ➡ In [[Session 49]] we get information that Orcus is currently imprisoned in a pocket dimension which is where Dragomir is trying to release him from
 	- When was he imprisoned there? And by whom?
+- In [[Session 50]] we 
 - The [[Investigate the ominous speech from the Matron of Ravens priestesses|ominous speech from the Matron of Ravens priestesses]] in [[Session 42]] also seems related to this:
 	- *May the Matron guide us in our time of need,
 	  May she comfort the weary wandering soul,

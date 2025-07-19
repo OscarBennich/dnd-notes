@@ -72,7 +72,7 @@
 - Dragomir: "I could have made you a goddess beside me." (to Mads)
 - "Why should immortality be denied us?"
 - "I wanted to understand what death really was - to master it."
-- Dragomir: "The *Planar Scythe* opens portals to other planes"
+- Dragomir: "The [[Planar Scythe]] opens portals to other planes"
 - Chip: "Do you think everyone deserves to be immortal?"
 	- What would you accomplish with that?
 - Dragomir: "I have dreams, maybe helping others become immortal"
@@ -188,8 +188,8 @@
 - We also send a letter to [[Meg Ruddlestone]] telling her about our plan to go to [[Lyrengorn]] and that we will meet up with her in [[Westruun]] before going to [[Shadebarrow]] (in ~ 2 months time)
 - I go to the [[Cobalt Reserve]] to try to find out more information about:
 	- [[Orcus the Demon Prince of Undeath]]
-	- Aeor and The Planar Scythe
-- I find out more information about Orcus but there's almost nothing about Aeor and nothing about The Planar Scythe
+	- [[Aeor]] and the [[Planar Scythe]]
+- I find out more information about Orcus but there's almost nothing about Aeor and nothing about the Planar Scythe
 - But I'm told I can make a special request to a Cobalt Soul library in [[Wildemount]] and they will send whatever information they have back to the [[Cobalt Reserve]] in [[Westruun]]
 	- I'll read whatever they've sent when we're back in [[Westruun]] later
 - The session ends...

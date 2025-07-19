@@ -4,3 +4,6 @@
 	- [[Session 12]]
 - Came from [[Drynna]]
 - He's a *Quasit*
+
+[[Session 50]]
+- We find out he is the familiar of [[Dragomir Lunthak]]

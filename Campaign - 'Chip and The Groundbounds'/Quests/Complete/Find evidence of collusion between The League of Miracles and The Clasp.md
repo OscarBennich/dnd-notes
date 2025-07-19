@@ -99,7 +99,7 @@
 - Narissa also finds a book called "*The Craftsmanship of an Agreement*" by [[Donaldus Trumpus]] in one of the book shelves. Can this be used to decipher the letter we found?
 - We are teleported to a secret underground laboratory through an enchanted painting in Lunthak's office and fight off three flesh golems
 - We also find a leather-bound journal with entries inside that detail shipments. It mentions [[Aeor]]ian artifacts
-	- "*I believe the excavation team in [[Aeor]] is close to finding the Planar Scythe. The time has almost come to make use of the bargain with [[Luella the Dawnstealer|Luella]] and release the Shadow That Was.*"
+	- "*I believe the excavation team in [[Aeor]] is close to finding the [[Planar Scythe]]. The time has almost come to make use of the bargain with [[Luella the Dawnstealer|Luella]] and release the Shadow That Was.*"
 
 [[Session 48]]
 - Narissa tries to use "*The Craftsmanship of an Agreement*" book to decipher the note from the dumbwaiter - INT check (21)

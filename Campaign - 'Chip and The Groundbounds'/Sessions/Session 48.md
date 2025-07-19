@@ -19,7 +19,7 @@
 	- The dumbwaiter leading to the Clasp hideout, "Upstairs" from the store
 	- Anything we potentially find in the deciphered letter
 	- Other information about The Dragon attack, The [[Nullifier]], and The Magma Landshark attacks
-6. Figure out more about what the exact meaning of the [[Find evidence of collusion between The League of Miracles and The Clasp|text we found]] (written by Dragomir): "*I believe the excavation team in [[Aeor]] is close to finding the Planar Scythe. The time has almost come to make use of the bargain with [[Luella the Dawnstealer|Luella]] and release the Shadow That Was.*"
+6. Figure out more about what the exact meaning of the [[Find evidence of collusion between The League of Miracles and The Clasp|text we found]] (written by Dragomir): "*I believe the excavation team in [[Aeor]] is close to finding the [[Planar Scythe]]. The time has almost come to make use of the bargain with [[Luella the Dawnstealer|Luella]] and release the Shadow That Was.*"
 	- What is "the Planar Scythe"? Is it a weapon?
 	- What is the bargain they made with Luella?
 	- Releasing the *Shadow That Was* - could that be referring to [[Neminar Drassig]]?
