@@ -17,6 +17,7 @@
 ---
 - We are now level 9! 🎉
 	- I now have *Seeming*, *Hold Monster*, and *Gift of the Protectors*
+
 **Potential next steps**
 1. Go to the [[Herbalist shop (now leatherworking store)]] in [[Westruun]] to investigate ([[Narissa is wanted for murder in Westruun]])
 2. Infiltrate the [[The Offices of The League of Miracles]] ([[Find evidence of collusion between The League of Miracles and The Clasp]]) and see if we can find evidence of [[Dragomir Lunthak]]'s "disgusting experiments"
