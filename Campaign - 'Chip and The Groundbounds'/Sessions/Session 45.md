@@ -1,13 +1,13 @@
 **Date**: 2025-04-12
 
 > [!Summary] Current quests
-> - [[Main Quest - Investigate Shadebarrow]] 🆕
+> - [[Main Quest - Investigate Shadebarrow and stop the release of Orcus]] 🆕
 > - [[Find answers and gather allies in Lyrengorn]] 🆕
 > - [[Find out who my Patron is and what she wants]]
 > - [[Narissa is wanted for murder in Westruun]]
 > - [[Find evidence of collusion between The League of Miracles and The Clasp]]
 > - ~~[[Find the magical storm]]~~
-> 	- Merged into [[Main Quest - Investigate Shadebarrow]] 🔀
+> 	- Merged into [[Main Quest - Investigate Shadebarrow and stop the release of Orcus]] 🔀
 > - ~~[[Investigate Ryzzix]]~~ 🗑
 > - ~~[[Go to House Austan and speak to Buddleah]]~~ ✅
 > - ~~[[Investigate the ominous speech from the Matron of Ravens priestesses]]~~ ✅
@@ -24,7 +24,7 @@
 	- If these experiments are directly to blame for Mads becoming a Tiefling, what could that be? A deal with a devil? Is this somehow connected to [[Ryzzix]] as well?
 3. Try to talk to my Patron and see if I can confirm that she is actually [[Queen Titania of the Summer Court]] and what she wants from me ([[Find out who my Patron is and what she wants]])
 4. Head to [[Lyrengorn]] ([[Find answers and gather allies in Lyrengorn]]), north of Westruun
-5. Find [[Shadebarrow]] ([[Main Quest - Investigate Shadebarrow]])
+5. Find [[Shadebarrow]] ([[Main Quest - Investigate Shadebarrow and stop the release of Orcus]])
 	- Find [[Meg Ruddlestone]] and talk to her
 ---
 - We pick back up with [[Dain]] realizing that [[Mads]] is the daughter of the Lunthak's

@@ -13,3 +13,4 @@
 - We fight [[Dragomir Lunthak]] in his house in [[Westruun]]
 - He managed to escape using *Teleport*
 - We don't know where he went
+- Merged into [[Main Quest - Investigate Shadebarrow and stop the release of Orcus]] 🔀

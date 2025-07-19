@@ -17,6 +17,6 @@
 - We also know [[Camilla Tenver]], one of two living descendent of [[Sevil Howthess]] together with [[Buddleah Austan]], might be in Lyrengorn after reading about it in a book from the [[Cobalt Reserve]]
 ---
 - Go to [[Lyrengorn]]
-- Find our father
+- Find our [[Elluin Valfir|father]]
 - Find out what the [[Matron of Ravens]] wants from us there
 - Gather allies to fight [[Orcus the Demon Prince of Undeath]] and [[Dragomir Lunthak]]

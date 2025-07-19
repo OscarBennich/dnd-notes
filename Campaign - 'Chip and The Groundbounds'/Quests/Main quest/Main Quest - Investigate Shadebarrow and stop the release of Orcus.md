@@ -49,6 +49,8 @@ Related quests:
 - Shadebarrow is also roughly marked on an early map we found.
 
 ### Objectives
-- What or _who_ is creating this undead force in Shadebarrow? We need to stop it.
-	- It seems that [[Dragomir Lunthak]] is trying to "release" [[Orcus the Demon Prince of Undeath]]. This is definitely related to Shadebarrow in one way or another (although it's still unclear exactly how).
-- We need to watch out for any potential protections guarding the tomb of [[Sevil Howthess]].
+- We need to stop [[Dragomir Lunthak]] from releasing [[Orcus the Demon Prince of Undeath]] in [[Shadebarrow]]
+	- *If* Dragomir were to succeed, we need to figure out a way to kill and/or stop Orcus instead
+- The creature Dragomir seeks to unleash is a Demon Prince of Undeath, and if we stop him he remains imprisoned. If he succeeds we will be fighting a being that does not call this plane home, and can only be killed on it's own plane.
+- Dragomir is not directly responsible for the undead army around [[Shadebarrow]], but [[Orcus the Demon Prince of Undeath]] is. As Dragomir is trying to free him from the pocket dimension he is currently in, the undead presence is increasing.
+- We also need to watch out for any potential protections guarding the tomb of [[Sevil Howthess]].

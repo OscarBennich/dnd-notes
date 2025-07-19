@@ -13,4 +13,4 @@ General ideas:
 - Something related to [[Ryzzix]]?
 	- [[Investigate Ryzzix]]
 ---
-- 🔀 Merged into [[Main Quest - Investigate Shadebarrow]]
+- 🔀 Merged into [[Main Quest - Investigate Shadebarrow and stop the release of Orcus]]

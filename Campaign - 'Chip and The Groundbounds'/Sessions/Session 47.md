@@ -1,7 +1,7 @@
 **Date**: 2025-05-11
 
 > [!Summary] Current quests
-> - [[Main Quest - Investigate Shadebarrow]]
+> - [[Main Quest - Investigate Shadebarrow and stop the release of Orcus]]
 > - [[Find answers and gather allies in Lyrengorn]]
 > - [[Find out who my Patron is and what she wants]]
 > - ~~[[Narissa is wanted for murder in Westruun]]~~

@@ -8,3 +8,8 @@
 
 [[Session 44]]
 - We find out [[Mads]] is his daughter!
+
+[[Session 50]]
+- We fight [[Dragomir Lunthak]] in his house in [[Westruun]]
+- He managed to escape using *Teleport*
+- We don't know where he went

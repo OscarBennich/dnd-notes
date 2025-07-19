@@ -59,4 +59,4 @@
 - She tells us of her brother who was turned undead, but he seems to have been more of a zombie
 - She says that if someone was turned undead but kept their "soul", the Matron might have a reason for it
 - I think the "storm" is whatever is happening at [[Shadebarrow]]
-- Merged into [[Main Quest - Investigate Shadebarrow]] 🔀
+- Merged into [[Main Quest - Investigate Shadebarrow and stop the release of Orcus]] 🔀
