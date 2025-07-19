@@ -82,7 +82,7 @@
 **Combat** ⚔️
 
 **Dragomir Lunthak**
-- >= 17 AC
+- \>= 17 AC
 - 300+ HP
 
 | Attacker | Defender | Action                              | Attack roll / Saving throw | Damage / Healing / Outcome           | Total damage / Status |
