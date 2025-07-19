@@ -3,3 +3,4 @@
 	- [[Session 11]]
 	- [[Session 12]]
 - Came from [[Drynna]]
+- He's a *Quasit*

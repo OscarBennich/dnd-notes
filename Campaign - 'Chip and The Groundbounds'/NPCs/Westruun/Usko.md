@@ -1,1 +1,2 @@
-- Chef at [[Caliban House]] in [[Westruun]]
+- Dragonborn chef at [[Caliban House]] in [[Westruun]]
+- Former adventurer who was saved by [[Queen Titania of the Summer Court]] in the Feywild and promised to cook for her for 7 years in return

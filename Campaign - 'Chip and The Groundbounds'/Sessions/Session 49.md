@@ -92,7 +92,7 @@
 - Narissa gets a new feat: *Sister of the Pact-Bound*
 	- Narissa has resistance to any spells I cast
 	- Once per day she can disrupt (Counterspell) a spell I'm casting
-	- Each time Narissa lies to me she takes 2d4 damage
+	- Each time Narissa lies to me she takes 2d4+2 damage
 
 **Mad's dream**
 - "Now, what do I do with you?"
@@ -127,13 +127,30 @@
 	- I could find out.
 - Titania floats down to Mads' lily pad
 - Titania: "I could offer you some protection - for a price."
-- She blows a kiss at Mads' and she is granted the feat *Titania's Protection*
+- She blows a kiss at Mads' and she is granted the feat *Summersworn*
 	- Advantage on saving throws against being charmed
+	- Advantage on any attack against [[Dragomir Lunthak]]
 	- If Mads targets an ally with an attack she takes 10d10 unblockable damage
 
 **Chip's dream**
-- ...
-
+- He's in [[Zephrah]], but a Fey version
+- "We spoke once before, youngling." ([[Madame Maab]])
+- "Would you like another reading?"
+- First card: A monastery in the mountains
+- Second card: A wise woman's quest
+- Third card: A band of friends that feel more like family
+- Fourth card: And now you've found it, you've found your storm
+- Chip is swept into the sky together with other Aarakocra
+- He's suddenly in a forest clearing
+- He sits on a giant lily pad, facing a throne that looks like a Fey Dragon
+- (it's the *Summer Court*)
+- "The Matron has a temple in [[Lyrengorn]]. If you choose to seek her temple there, she will grant you a choice."
+	- 1: The world is cruel - and you could be too.
+	- 2: Or you could sacrifice yourself for those you love
+- Both would give you power, but all deals come with a price...
+- Chip: Do I *have* to to make a choice?
+- "[...] my dear little *chocolate chip*"
+- Chip gains *Titania's Pocket of Nonsense* (item)
 ---
 - We all wake back up at [[Caliban House]] and [[Queen Titania of the Summer Court|Titania]] is gone
 - Dain is wearing a dress (from the ball in his dream)
@@ -212,7 +229,7 @@
 - Mads introduces herself as Dragomir's daughter
 - We are let inside
 - There are sheets over the furniture, like the rooms of the house are not often used
-- The vibe of the house is cold, austere, rich, boring, colorless
+- The vibe of the house is cold, austere, rich, boring, colourless
 - [[Dragomir Lunthak]] enters, in a black robe with gold trim
 - [[Mads]] tells him she thinks she's his daughter
 - He asks how she knows, she says "circumstantial evidence"
