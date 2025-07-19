@@ -2,7 +2,7 @@
 
 > [!Summary] Current quests
 > - [[Main Quest - Investigate Shadebarrow]] 🆕
-> - [[Find answers in Lyrengorn]] 🆕
+> - [[Find answers and gather allies in Lyrengorn]] 🆕
 > - [[Find out who my Patron is and what she wants]]
 > - [[Narissa is wanted for murder in Westruun]]
 > - [[Find evidence of collusion between The League of Miracles and The Clasp]]
@@ -23,7 +23,7 @@
 	- We now also know that [[Mads]] is the long-lost daughter of [[Dragomir Lunthak]] & [[Lila Lunthak]] ([[Session 44]]), so maybe we can use that angle?
 	- If these experiments are directly to blame for Mads becoming a Tiefling, what could that be? A deal with a devil? Is this somehow connected to [[Ryzzix]] as well?
 3. Try to talk to my Patron and see if I can confirm that she is actually [[Queen Titania of the Summer Court]] and what she wants from me ([[Find out who my Patron is and what she wants]])
-4. Head to [[Lyrengorn]] ([[Find answers in Lyrengorn]]), north of Westruun
+4. Head to [[Lyrengorn]] ([[Find answers and gather allies in Lyrengorn]]), north of Westruun
 5. Find [[Shadebarrow]] ([[Main Quest - Investigate Shadebarrow]])
 	- Find [[Meg Ruddlestone]] and talk to her
 ---

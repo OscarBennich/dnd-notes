@@ -2,7 +2,7 @@
 
 > [!Summary] Current quests
 > - [[Main Quest - Investigate Shadebarrow]]
-> - [[Find answers in Lyrengorn]]
+> - [[Find answers and gather allies in Lyrengorn]]
 > - [[Help Titania stop Dragomir from releasing Orcus the Demon Prince of Undeath]]
 > - ~~[[Find evidence of collusion between The League of Miracles and The Clasp]]~~ ✅
 
@@ -66,7 +66,7 @@
 - "I do not seek destruction of the planet."
 - Mads: "What happened with [[Janet]]?"
 - Dragomir: "She walked into my lab at a bad time."
-- He didn't kill her but his experiments did...
+- He didn't kill her but his experiments did... (or so he argues at least)
 - Dragomir made a deal with [[Luella the Dawnstealer]] to get more information about [[Shadebarrow]]. This is what lead to [[Mads]] becoming a Tiefling.
 - We continue to argue...
 - Dragomir: "I could have made you a goddess beside me." (to Mads)

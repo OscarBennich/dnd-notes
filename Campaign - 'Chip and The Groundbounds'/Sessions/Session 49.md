@@ -2,7 +2,7 @@
 
 > [!Summary] Current quests
 > - [[Main Quest - Investigate Shadebarrow]]
-> - [[Find answers in Lyrengorn]]
+> - [[Find answers and gather allies in Lyrengorn]]
 > - ~~[[Find out who my Patron is and what she wants]]~~ ✅
 > - [[Help Titania stop Dragomir from releasing Orcus the Demon Prince of Undeath]] 🆕
 > - [[Find evidence of collusion between The League of Miracles and The Clasp]]
