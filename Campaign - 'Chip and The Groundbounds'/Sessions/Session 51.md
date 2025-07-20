@@ -11,5 +11,8 @@
 1. Start travelling to [[Lyrengorn]]
 	- Go north out of [[Westruun]], on the *Blackvalley Path* until we get to [[Jorenn Village]]. We then continue north, passing [[Umbra Hills]], continuing through *The Grey Valley* and the *Cliffkeep Mountains* until we get to Lyrengorn.
 2. On the way there, I should read through the books I took from [[Dragomir Lunthak]]'s secret lab about Necromancy, Druids, and The Abyss for any clues regarding his exact plans or connections to other things going on
+3. Open questions regarding Orcus:
+	- When, where, how, and why was he imprisoned in this pocket dimension? And by whom?
+	- Why exactly is it related to [[Shadebarrow]]?
 ---
 - ...
