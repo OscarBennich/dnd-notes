@@ -153,13 +153,14 @@
 | Evasion               | Your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's lightning breath or a fireball spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Stillness of Mind     | You can use your action to end one effect on yourself that is causing you to be charmed or frightened.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 ### Items
-| Name                          | Description |
-| ----------------------------- | ----------- |
-| [[Wraps of Dyamak]]           |             |
-| [[Bracelet of Calm Emotions]] |             |
-| [[Goggles of Night]]          |             |
-| [[Sending Stones]]            |             |
-| [[Sovereign Glue]]            |             |
+| Name                             | Description |
+| -------------------------------- | ----------- |
+| [[Wraps of Dyamak]]              |             |
+| [[Bracelet of Calm Emotions]]    |             |
+| [[Goggles of Night]]             |             |
+| [[Sending Stones]]               |             |
+| [[Sovereign Glue]]               |             |
+| [[Titania's Pocket of Nonsense]] |             |
 
 ---
 ## [[Narissa]] (Half-Elf Rogue / Phantom)

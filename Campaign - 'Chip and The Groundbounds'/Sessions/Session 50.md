@@ -26,11 +26,11 @@
 4. Find out more information about [[Orcus the Demon Prince of Undeath]]
 	- See [[Help Titania stop Dragomir from releasing Orcus the Demon Prince of Undeath]]
 ---
-- We resume in Dragomir's house...
+- We resume the session in Dragomir's house...
 - Chip makes an insight check ➡️ Nat 20 (+7)
 - Chip feels a breeze pass him, it smells like sulphur
 - Chip hears a quiet "clacking" sound, quickly before it stops
-- Chip uses his *Titania's Pocket of Nonsense* to be able to see invisible creatures
+- Chip uses his [[Titania's Pocket of Nonsense]] to be able to see invisible creatures
 	- He sees a familiar figure - it's [[Ryzzix]]!
 - Chip grapples Ryzzix but he turns in to a centipede and slips away
 - Chip grapples him again and tries to put him/it into his pouch
@@ -85,79 +85,79 @@
 - \>= 17 AC
 - 300+ HP
 
-| Attacker | Defender | Action                              | Attack roll / Saving throw | Damage / Healing / Outcome           | Total damage / Status |
-| -------- | -------- | ----------------------------------- | -------------------------- | ------------------------------------ | --------------------- |
-| Ossian   | Dragomir | Scorching Ray (3rd level)           | 26 + 17 + 11 + 21          | 2d6 x 3 = 22 dmg                     | 22 dmg                |
-| Dragomir | Chip     | Disrupt Life (Legendary Action)     | 17 (CON)                   | Fail! 15 dmg                         |                       |
-|          | Evan     |                                     | 17 (CON)                   | Fail! 15 dmg                         |                       |
-|          | Ossian   |                                     | ?                          | Save! 7 dmg (½)                      |                       |
-|          | Mads     |                                     | ?                          | Fail! 15 dmg                         |                       |
-|          | Dain     |                                     | ?                          | Save! 7 dmg (½)                      |                       |
-|          | Narissa  |                                     | 16 (CON)                   | Fail! 15 dmg                         |                       |
-| Chip     | Dragomir | Melee attack                        | 29                         | 8 dmg                                | 30 dmg                |
-|          |          | Stunning Strike                     | 18 (CON)                   | Save!                                |                       |
-|          |          | Melee attack                        | ?                          | 12 dmg                               | 42 dmg                |
-|          |          | Melee attack (BA)                   | 26                         | 11 dmg                               | 53 dmg                |
-|          |          | Melee attack (Flurry of Blows)      | 28                         | 9 dmg                                | 62 dmg                |
-|          |          | Stunning Strike                     | 25 (CON)                   | Save!                                |                       |
-| Dragomir | Chip     | Circle of Death                     | 18 (CON)                   | Fail! 40 dmg                         |                       |
-|          | Evan     |                                     | 22 (CON)                   | Save! 20 dmg (½)                     |                       |
-|          | Ossian   |                                     | 8 (CON)                    | Fail! 40 dmg                         |                       |
-|          | Mads     |                                     | 18 (CON)                   | Fail! 40 dmg                         |                       |
-|          | Dain     |                                     | 8 (CON)                    | Fail! 40 dmg                         |                       |
-|          | Narissa  |                                     | 5 (CON)                    | Fail! 40 dmg                         |                       |
-| Dain     | Chip     | Mass Cure Wounds (5th level)        |                            | +15 hp                               |                       |
-|          | Evan     |                                     |                            | +15 hp                               |                       |
-|          | Ossian   |                                     |                            | +15 hp                               |                       |
-|          | Mads     |                                     |                            | +15 hp                               |                       |
-|          | Dain     |                                     |                            | +15 hp                               |                       |
-|          | Narissa  |                                     |                            | +15 hp                               |                       |
-| Narissa  | Narissa  | Greater Healing Potion (BA)         | 4d4+4                      | +13 hp                               |                       |
-|          | Dragomir | Ranged attack                       | 21                         | 9 dmg                                | 71 dmg                |
-|          |          | Sneak attack                        |                            | 16 dmg                               | 87 dmg                |
-| Dragomir | Mads     | Paralyzing Touch (Legendary Action) | 30                         | 11 dmg                               |                       |
-|          |          |                                     | 12 (CON)                   | Fail!                                | Paralyzed 😵‍💫       |
-| Mads     |          | Paralyzing Touch                    | 14 (CON)                   | Fail!                                | Paralyzed 😵‍💫       |
-| Dragomir | Chip     | Chill Touch (Legendary Action)      |                            |                                      |                       |
-| Ossian   | Dragomir | Counterspell (3rd level) (R)        |                            | Countered!                           |                       |
-| Evan     | Dragomir | Hold Monster (5th level)            | 21 (WIS)                   |                                      |                       |
-|          |          | Silvery Barbs                       |                            | Reroll save                          |                       |
-|          |          | Hold Monster (5th level)            | 3 (WIS)                    | ~~Fail!~~ Legendary resistance 🛡    |                       |
-| Evan     | Evan     | Greater Healing Potion (BA)         | 4d4+4                      | +16 hp                               |                       |
-| Ossian   | Dragomir | Psychic Lance (BA, Quickened Spell) | ? (INT)                    | Save! 12 dmg (½)                     | 99 dmg                |
-|          |          | Firebolt                            | 19                         | 10 dmg                               | 109 dmg               |
-| Chip     | Dragomir | Melee attack                        | 29                         | 11 dmg                               | 120 dmg               |
-|          |          | Stunning Strike                     | 30 (CON)                   | Save!                                |                       |
-|          |          | Melee attack                        | 25                         | 11 dmg                               | 131 dmg               |
-|          |          | Stunning Strike                     | 18 (CON)                   | Save!                                |                       |
-|          |          | Melee attack (BA)                   | 18                         | 13 dmg                               | 144 dmg               |
-|          |          | Stunning Strike                     | 17 (CON)                   | Save!                                |                       |
-|          |          | Melee attack (Flurry of Blows)      | 30                         | 11 dmg                               | 155 dmg               |
-|          |          | Stunning Strike                     | 15                         | Save!                                |                       |
-|          |          | Open Hand Technique                 |                            | Can't take reactions                 |                       |
-| Dragomir |          | Time Stop (9th level)               |                            |                                      |                       |
-| Ossian   | Dragomir | Counterspell (4th level) (R)        | 20 (DC 19)                 | Counterspelled!                      |                       |
-| Dain     | Dragomir | Opportunity Attack (R)              | 17                         | 4 dmg                                | 159 dmg               |
-| Chip     | Dragomir | Opportunity Attack (R)              | 22                         | 9 dmg                                | 168 dmg               |
-| Dain     | Dragomir | Guiding Bolt (4th level)            | 26                         | 29 dmg                               | 197 dmg               |
-| Narissa  |          | Sneak                               | 26                         |                                      |                       |
-|          | Dragomir | Ranged attack                       | 25                         | 12 dmg                               | 209 dmg               |
-|          |          | Sneak attack                        |                            | 16 dmg                               | 225 dmg               |
-| Dragomir | Ossian   | Chill Touch (Legendary Action)      | 23                         | 17 dmg (can't regain hp for 1 turn)  |                       |
-| Mads     |          | Fire damage (burning couch)         | 2d4                        | 6 dmg                                |                       |
-|          |          | Paralyzing Touch                    | 7 (CON)                    | Fail!                                | Paralyzed 😵‍💫       |
-| Dragomir | Chip     | Chill Touch (Legendary Action)      | 31                         | 18 dmg (can't regain hp for 1 turn)  |                       |
-| Evan     |          | Misty Step (BA)                     |                            |                                      |                       |
-|          | Dragomir | Eldritch Blast                      | 22                         | 7 dmg (+ push 10ft)                  | 232 dmg               |
-|          |          | Eldritch Blast                      | 12                         | Miss!                                |                       |
-| Dragomir | Evan     | Chill Touch (Legendary Action)      | 31                         | 11 dmg                               |                       |
-| Ossian   | Dragomir | Psychic Lance (5th level)           | 23                         | Save! 15 dmg (½)                     | 247 dmg               |
-| Chip     | Dragomir | Melee attack                        | 29                         | 8 dmg                                | 255 dmg               |
-|          |          | Melee attack                        | 28                         | 11 dmg                               | 266 dmg               |
-|          |          | Melee attack (BA)                   | 17                         | 10 dmg                               | 276 dmg               |
-|          |          | Melee attack (Flurry of Blows)      | 19                         | 9 dmg                                | 285 dmg               |
-|          |          | Open Hand Technique                 |                            | Can't take reactions                 |                       |
-| Dragomir |          | Teleport (7th level)                |                            | Dragomir vanishes and combat ends... |                       |
+| Attacker | Defender | Action                               | Attack roll / Saving throw | Damage / Healing / Outcome           | Total damage / Status |
+| -------- | -------- | ------------------------------------ | -------------------------- | ------------------------------------ | --------------------- |
+| Ossian   | Dragomir | Scorching Ray (3rd level)            | 26 + 17 + 11 + 21          | 2d6 x 3 = 22 dmg                     | 22 dmg                |
+| Dragomir | Chip     | Disrupt Life (Legendary Action)      | 17 (CON)                   | Fail! 15 dmg                         |                       |
+|          | Evan     |                                      | 17 (CON)                   | Fail! 15 dmg                         |                       |
+|          | Ossian   |                                      | ?                          | Save! 7 dmg (½)                      |                       |
+|          | Mads     |                                      | ?                          | Fail! 15 dmg                         |                       |
+|          | Dain     |                                      | ?                          | Save! 7 dmg (½)                      |                       |
+|          | Narissa  |                                      | 16 (CON)                   | Fail! 15 dmg                         |                       |
+| Chip     | Dragomir | Melee attack                         | 29                         | 8 dmg                                | 30 dmg                |
+|          |          | Stunning Strike                      | 18 (CON)                   | Save!                                |                       |
+|          |          | Melee attack                         | ?                          | 12 dmg                               | 42 dmg                |
+|          |          | Melee attack (Flurry of Blows ➡ BA)  | 26                         | 11 dmg                               | 53 dmg                |
+|          |          | Melee attack (Flurry of Blows ➡ BA)  | 28                         | 9 dmg                                | 62 dmg                |
+|          |          | Stunning Strike                      | 25 (CON)                   | Save!                                |                       |
+| Dragomir | Chip     | Circle of Death                      | 18 (CON)                   | Fail! 40 dmg                         |                       |
+|          | Evan     |                                      | 22 (CON)                   | Save! 20 dmg (½)                     |                       |
+|          | Ossian   |                                      | 8 (CON)                    | Fail! 40 dmg                         |                       |
+|          | Mads     |                                      | 18 (CON)                   | Fail! 40 dmg                         |                       |
+|          | Dain     |                                      | 8 (CON)                    | Fail! 40 dmg                         |                       |
+|          | Narissa  |                                      | 5 (CON)                    | Fail! 40 dmg                         |                       |
+| Dain     | Chip     | Mass Cure Wounds (5th level)         |                            | +15 hp                               |                       |
+|          | Evan     |                                      |                            | +15 hp                               |                       |
+|          | Ossian   |                                      |                            | +15 hp                               |                       |
+|          | Mads     |                                      |                            | +15 hp                               |                       |
+|          | Dain     |                                      |                            | +15 hp                               |                       |
+|          | Narissa  |                                      |                            | +15 hp                               |                       |
+| Narissa  | Narissa  | Greater Healing Potion (BA)          | 4d4+4                      | +13 hp                               |                       |
+|          | Dragomir | Ranged attack                        | 21                         | 9 dmg                                | 71 dmg                |
+|          |          | Sneak attack                         |                            | 16 dmg                               | 87 dmg                |
+| Dragomir | Mads     | Paralyzing Touch (Legendary Action)  | 30                         | 11 dmg                               |                       |
+|          |          |                                      | 12 (CON)                   | Fail!                                | Paralyzed 😵‍💫       |
+| Mads     |          | Paralyzing Touch                     | 14 (CON)                   | Fail!                                | Paralyzed 😵‍💫       |
+| Dragomir | Chip     | Chill Touch (Legendary Action)       |                            |                                      |                       |
+| Ossian   | Dragomir | Counterspell (3rd level) (R)         |                            | Countered!                           |                       |
+| Evan     | Dragomir | Hold Monster (5th level)             | 21 (WIS)                   |                                      |                       |
+|          |          | Silvery Barbs                        |                            | Reroll save                          |                       |
+|          |          | Hold Monster (5th level)             | 3 (WIS)                    | ~~Fail!~~ Legendary resistance 🛡    |                       |
+| Evan     | Evan     | Greater Healing Potion (BA)          | 4d4+4                      | +16 hp                               |                       |
+| Ossian   | Dragomir | Psychic Lance (Quickened Spell ➡ BA) | ? (INT)                    | Save! 12 dmg (½)                     | 99 dmg                |
+|          |          | Firebolt                             | 19                         | 10 dmg                               | 109 dmg               |
+| Chip     | Dragomir | Melee attack                         | 29                         | 11 dmg                               | 120 dmg               |
+|          |          | Stunning Strike                      | 30 (CON)                   | Save!                                |                       |
+|          |          | Melee attack                         | 25                         | 11 dmg                               | 131 dmg               |
+|          |          | Stunning Strike                      | 18 (CON)                   | Save!                                |                       |
+|          |          | Melee attack (Flurry of Blows ➡ BA)  | 18                         | 13 dmg                               | 144 dmg               |
+|          |          | Stunning Strike                      | 17 (CON)                   | Save!                                |                       |
+|          |          | Melee attack (Flurry of Blows ➡ BA)  | 30                         | 11 dmg                               | 155 dmg               |
+|          |          | Stunning Strike                      | 15                         | Save!                                |                       |
+|          |          | Open Hand Technique                  |                            | Can't take reactions                 |                       |
+| Dragomir |          | Time Stop (9th level)                |                            |                                      |                       |
+| Ossian   | Dragomir | Counterspell (4th level) (R)         | 20 (DC 19)                 | Counterspelled!                      |                       |
+| Dain     | Dragomir | Opportunity Attack (R)               | 17                         | 4 dmg                                | 159 dmg               |
+| Chip     | Dragomir | Opportunity Attack (R)               | 22                         | 9 dmg                                | 168 dmg               |
+| Dain     | Dragomir | Guiding Bolt (4th level)             | 26                         | 29 dmg                               | 197 dmg               |
+| Narissa  |          | Sneak                                | 26                         |                                      |                       |
+|          | Dragomir | Ranged attack                        | 25                         | 12 dmg                               | 209 dmg               |
+|          |          | Sneak attack                         |                            | 16 dmg                               | 225 dmg               |
+| Dragomir | Ossian   | Chill Touch (Legendary Action)       | 23                         | 17 dmg (can't regain hp for 1 turn)  |                       |
+| Mads     |          | Fire damage (burning couch)          | 2d4                        | 6 dmg                                |                       |
+|          |          | Paralyzing Touch                     | 7 (CON)                    | Fail!                                | Paralyzed 😵‍💫       |
+| Dragomir | Chip     | Chill Touch (Legendary Action)       | 31                         | 18 dmg (can't regain hp for 1 turn)  |                       |
+| Evan     |          | Misty Step (BA)                      |                            |                                      |                       |
+|          | Dragomir | Eldritch Blast                       | 22                         | 7 dmg (+ push 10ft)                  | 232 dmg               |
+|          |          | Eldritch Blast                       | 12                         | Miss!                                |                       |
+| Dragomir | Evan     | Chill Touch (Legendary Action)       | 31                         | 11 dmg                               |                       |
+| Ossian   | Dragomir | Psychic Lance (5th level)            | 23                         | Save! 15 dmg (½)                     | 247 dmg               |
+| Chip     | Dragomir | Melee attack                         | 29                         | 8 dmg                                | 255 dmg               |
+|          |          | Melee attack                         | 28                         | 11 dmg                               | 266 dmg               |
+|          |          | Melee attack (Flurry of Blows ➡ BA)  | 17                         | 10 dmg                               | 276 dmg               |
+|          |          | Melee attack (Flurry of Blows ➡ BA)  | 19                         | 9 dmg                                | 285 dmg               |
+|          |          | Open Hand Technique                  |                            | Can't take reactions                 |                       |
+| Dragomir |          | Teleport (7th level)                 |                            | Dragomir vanishes and combat ends... |                       |
 
 ---
 - [[Dain]] casts *Locate Creature* but is unable to locate Dragomir

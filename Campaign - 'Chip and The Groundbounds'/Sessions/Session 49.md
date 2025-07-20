@@ -150,7 +150,7 @@
 - Both would give you power, but all deals come with a price...
 - Chip: Do I *have* to to make a choice?
 - "[...] my dear little *chocolate chip*"
-- Chip gains *Titania's Pocket of Nonsense* (item)
+- Chip gains [[Titania's Pocket of Nonsense]] (item)
 ---
 - We all wake back up at [[Caliban House]] and [[Queen Titania of the Summer Court|Titania]] is gone
 - Dain is wearing a dress (from the ball in his dream)
