@@ -5,7 +5,7 @@ Related quests:
 - [[Help Titania stop Dragomir from releasing Orcus the Demon Prince of Undeath]]
 - [[Find answers and gather allies in Lyrengorn]]
 ---
-### Background
+## Background
 - There has been undead activity reported on the plains between [[Drynna]] & [[Westruun]] (see [[Session 14]], [[Session 15]], [[Session 36]]).
 - We know that [[Shadebarrow]] used to be a sanctuary for sun-worshiping Druids before [[Trist Drassig]] slew everyone there in a rage (see [[A History of Tal’Dorei]]).
 - While visiting the [[Westruun - Temple of Matron of Ravens]] and talking to [[Mother Veyra]], she told us that a slaughter like this will leave a mark - it could attract undead to it, or other magical forces.
@@ -41,14 +41,17 @@ Related quests:
 	- When was he imprisoned there? And by whom?
 - In [[Session 50]] we found out that Dragomir was told about Shadebarrow by [[Luella the Dawnstealer]] and that she convinced him that it was a place of immense power that had been locked away ([[Orcus the Demon Prince of Undeath|Orcus]]). Using this power he would be able to protect those he loved and be granted eternal life
 
-### Location
+## Location
 - Buddleah then decided to tell us how to find Shadebarrow. She told us that mists surround the place and that we need to be able to navigate dense forests.
 - It is east of [[Westruun]] and south of the road from [[Westruun]] to [[Turst Fields]] but there's not a lot of visible markers.
 - We need to travel down the *Silvercut Roadway* south for 5 days, and then east for 5 days.
 - We know we will have found it when we found the standing stones (henge stones).
 - Shadebarrow is also roughly marked on an early map we found.
 
-### Objectives
+## Extra info
+- In [[Session 49]], [[Queen Titania of the Summer Court|Titania]] told us that Orcus is vulnerable to radiant damage and *Holy Water*
+
+## Objectives
 - We need to stop [[Dragomir Lunthak]] from releasing [[Orcus the Demon Prince of Undeath]] in [[Shadebarrow]]
 	- *If* Dragomir were to succeed, we need to figure out a way to kill and/or stop Orcus instead
 - The creature Dragomir seeks to unleash is a Demon Prince of Undeath, and if we stop him he remains imprisoned. If he succeeds we will be fighting a being that does not call this plane home, and can only be killed on it's own plane.
