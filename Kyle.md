@@ -1,0 +1,2 @@
+- A resident of [[Jorenn Village]]
+- Responsible for the *Sanguine Square Skirmish*

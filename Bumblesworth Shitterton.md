@@ -1,0 +1,4 @@
+- Proprietor of [[The Empty Pail]] in [[Jorenn Village]]
+- Formerly a historian writing about the Drassigs ([[Trist Drassig]], [[Warren Drassig]], [[Neminar Drassig]])
+	- He was supposed to visit [[Umbra Hills]]
+- Won the tavern when playing a dice game and now "has" to run it

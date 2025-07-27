@@ -212,6 +212,7 @@
 		- "He's unfathomably ugly, even for demon standards"
 	- "He took someone who belonged to me"
 	- A well-endowed druid, killed in [[Shadebarrow]]
+	- He was part of a Druidic ritual that imprisoned Orcus in a pocket dimension 
 	- "I don't like when my belongings are tampered with"
 	- "I'm not particularly forgiving"
 - She snaps her fingers and the lily pad I was standing on collapses and I'm plunged into the pool

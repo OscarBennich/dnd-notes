@@ -1,0 +1,14 @@
+- A store in [[Jorenn Village]]
+- Sells a bunch of armor and weapons
+- There are also scrolls:
+	- 3x Scroll of Mage Armor - 130g
+	- 1x Scroll of Protection from Fiends - 300g
+- And potions:
+	- 2x Potions of Healing - 55g
+	- 2x Potion of Healing (Greater) - 110g
+	- 1x Potion of Healing (Superior) - 550g
+		- 8d4+8 HP
+	- 1x [[Keoghtom's Ointment]] w/ 4 doses - 130g
+		- 2d8+2 HP
+		- Removes poison
+		- Cures disease

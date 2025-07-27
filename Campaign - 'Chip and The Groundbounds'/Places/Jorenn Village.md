@@ -1,1 +1,14 @@
 - A village in [[Exandria]], north of [[Westruun]]
+- It's quite a large village (~2500 residents)
+- Silver veins were discovered in the nearby hills
+- Far enough from [[Emon]] that the Tal'Dorei council leaves it alone
+	- Allows opportunists and outlaws to do what they want (more or less) - *similar to [[Stilben]] in that way*
+- Slaves were used to mine the nearby mountain of [[Hainburg]] (to the west). You can still hear their screams at night.
+- Older "city centre" with newer buildings further out
+- 30 years ago, vigilante and outlaws became the protectors and call themselves the "[[The Shadewatch]]"
+- There's a central square (*The Sanguine Square*) with buildings around it:
+	- There's a modest inn: [[Quell Souprise]]
+	- A dive bar / tavern: [[The Empty Pail]]
+	- A general store: [[Frontier Provisions]]
+	- Another store: [[Pack N' Whack]]
+- There's also a notice board

@@ -1,0 +1,2 @@
+- A bar in [[Jorenn Village]]
+- Proprietor: [[Bumblesworth Shitterton]]

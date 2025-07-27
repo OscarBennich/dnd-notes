@@ -1,0 +1,1 @@
+- Chef at [[Quell Souprise]] in [[Jorenn Village]]

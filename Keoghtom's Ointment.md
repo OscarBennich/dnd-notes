@@ -1,0 +1,4 @@
+- 4 doses:
+	- 2d8+2 HP
+	- Removes poison
+	- Cures disease

@@ -1,0 +1,2 @@
+- A group of vigilante and outlaws that are the de fact  protectors of [[Jorenn Village]]
+- Every night they come back to the village and people are encouraged to cheer because they've been out in the wilds killing demons

@@ -37,12 +37,15 @@ Related quests:
 	- The "Shadow that Was" is 100% referring to [[Orcus the Demon Prince of Undeath]]
 - In [[Session 48]] we found a bunch of books in the secret lab of [[Dragomir Lunthak]] regarding Necromancy, Druids, and The Abyss
 - In [[Session 48]] I found out that my [[Patron]] is interested in killing [[Orcus the Demon Prince of Undeath]] because one of the Druids he killed in [[Shadebarrow]] "belonged" to her. Apparently [[Dragomir Lunthak]] is trying to release Orcus.
-	- Release him from where? ➡ In [[Session 49]] we get information that Orcus is currently imprisoned in a pocket dimension which is where Dragomir is trying to release him from
+	- Release him from where?
+		- In [[Session 49]] we get information that Orcus is currently imprisoned in a pocket dimension which is where Dragomir is trying to release him from
 	- When was he imprisoned there? And by whom?
+		- Retcon: In [[Session 48]], Titania was supposed to also say that the Druid that "belonged" to her was part of a Druidic ritual that imprisoned Orcus in a pocket dimension
+		- So that answers the *who* question
 - In [[Session 50]] we found out that Dragomir was told about Shadebarrow by [[Luella the Dawnstealer]] and that she convinced him that it was a place of immense power that had been locked away ([[Orcus the Demon Prince of Undeath|Orcus]]). Using this power he would be able to protect those he loved and be granted eternal life
 
 ## Location
-- Buddleah then decided to tell us how to find Shadebarrow. She told us that mists surround the place and that we need to be able to navigate dense forests.
+- [[Buddleah Austan]] then decided to tell us how to find Shadebarrow. She told us that mists surround the place and that we need to be able to navigate dense forests.
 - It is east of [[Westruun]] and south of the road from [[Westruun]] to [[Turst Fields]] but there's not a lot of visible markers.
 - We need to travel down the *Silvercut Roadway* south for 5 days, and then east for 5 days.
 - We know we will have found it when we found the standing stones (henge stones).
@@ -52,8 +55,9 @@ Related quests:
 - In [[Session 49]], [[Queen Titania of the Summer Court|Titania]] told us that Orcus is vulnerable to radiant damage and *Holy Water*
 
 ## Objectives
-- We need to stop [[Dragomir Lunthak]] from releasing [[Orcus the Demon Prince of Undeath]] in [[Shadebarrow]]
+- We need to stop [[Dragomir Lunthak]] from releasing [[Orcus the Demon Prince of Undeath]] from the pocket dimension he is currently in and send him back to the Abyss
+	- In exchange for this, Dragomir has been promised "powers to protect those he loves" and eternal life
 	- *If* Dragomir were to succeed, we need to figure out a way to kill and/or stop Orcus instead
 - The creature Dragomir seeks to unleash is a Demon Prince of Undeath, and if we stop him he remains imprisoned. If he succeeds we will be fighting a being that does not call this plane home, and can only be killed on it's own plane.
-- Dragomir is not directly responsible for the undead army around [[Shadebarrow]], but [[Orcus the Demon Prince of Undeath]] is. As Dragomir is trying to free him from the pocket dimension he is currently in, the undead presence is increasing.
+- Dragomir is not directly responsible for the undead army around [[Shadebarrow]], but [[Orcus the Demon Prince of Undeath]] is. As Dragomir is trying to free him, the undead presence is increasing.
 - We also need to watch out for any potential protections guarding the tomb of [[Sevil Howthess]].

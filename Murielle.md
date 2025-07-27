@@ -1,0 +1,2 @@
+- Proprietor of [[Quell Souprise]] in [[Jorenn Village]]
+- From the [[Menagerie Coast]]

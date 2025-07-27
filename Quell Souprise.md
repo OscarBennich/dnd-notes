@@ -1,0 +1,3 @@
+- Inn in [[Jorenn Village]]
+- Proprietor: [[Murielle]]
+- Chef: [[Hubert]]

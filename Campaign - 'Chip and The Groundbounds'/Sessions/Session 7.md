@@ -33,7 +33,7 @@
 	- He now has the banknote
 - [[Father Mordec Vart]] comes back from the temple...
 - Me and Chip head over to the bar and join the others
-- [[Morris]] is heading to the [[Menagerie Coast]], on [[Wildemount]], east of here
+- [[Morris]] is heading to the [[Campaign - 'Chip and The Groundbounds'/Places/Menagerie Coast]], on [[Wildemount]], east of here
 - His religiosity is suspicious
 	- [[Dain]] knows that the god he follows is evil - [[The Whispered One]]
 - Mads and Narissa head outside to try to see where Morris is heading

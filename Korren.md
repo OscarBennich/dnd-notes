@@ -1,0 +1,1 @@
+- A resident of [[Jorenn Village]]

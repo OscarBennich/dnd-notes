@@ -1,0 +1,1 @@
+- A mountain lodge to the north of [[Jorenn Village]]

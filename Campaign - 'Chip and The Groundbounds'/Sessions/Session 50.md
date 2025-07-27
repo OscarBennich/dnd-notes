@@ -178,7 +178,7 @@
 - We can either take the long way around (safer) or the shorter way (more dangerous)
 - Longer way: Go west out of [[Westruun]], past the *Silvercut Crossroads*, then north on the *Wildwood Byway* until we get to [[Kraghammer]]. Then continue north past [[Terrah]] until we get to Lyrengorn.
 - Shorter way: Go north out of [[Westruun]], on the *Blackvalley Path* until we get to [[Jorenn Village]]. We then continue north, passing [[Umbra Hills]], continuing through *The Grey Valley* and the *Cliffkeep Mountains* until we get to Lyrengorn.
-- We choose to take the shorter way, it should take us at most **28 days**
+- We choose to take the shorter way, it should take us at least 24 days
 - We stock up on rations for the travel ahead and buy healing potions from [[Gilmore's Glorious Goods]]:
 	- 3x *Potion of Healing*
 	- 2x *Potion of Healing (Greater)*

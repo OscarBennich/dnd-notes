@@ -22,3 +22,10 @@
 - She gives us rough instructions...
 - We need to travel down the *Silvercut Roadway* south for 5 days, and then east for 5 days
 - We know we will have found it when we found the standing stones (henge stones)
+
+## Location
+- Buddleah then decided to tell us how to find Shadebarrow. She told us that mists surround the place and that we need to be able to navigate dense forests.
+- It is east of [[Westruun]] and south of the road from [[Westruun]] to [[Turst Fields]] but there's not a lot of visible markers.
+- We need to travel down the *Silvercut Roadway* south for 5 days, and then east for 5 days.
+- We know we will have found it when we found the standing stones (henge stones).
+- Shadebarrow is also roughly marked on an early map we found.

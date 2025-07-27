@@ -1,0 +1,1 @@
+- A mountain close to [[Jorenn Village]]

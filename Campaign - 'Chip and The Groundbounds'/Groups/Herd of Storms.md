@@ -11,3 +11,5 @@
 
 [[Session 27]]
 - *Kevdak*
+
+- Led by [[Thana]]
