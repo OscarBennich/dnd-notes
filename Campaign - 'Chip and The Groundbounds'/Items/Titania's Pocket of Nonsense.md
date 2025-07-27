@@ -4,7 +4,7 @@ As an action Chip (and only Chip) can pull an object from the pouch. The item la
 
 - **Buk Buk Buk Ba-gawk Motherf*cker**: A rubber chicken appears in your hand, ready to attack your enemies (assuming you hit them with it). The rubber chicken is an improvised weapon which does 1d6 bludgeoning damage to the target. On a hit with this weapon the target has disadvantage on its next attack roll.
 
-- **Sparkly Sparkly**: Twinkling lights form in a 15 ft radius centred on you. All creatures you choose make a Wisdom saving throw )DC 15) or are **charmed** until the end of their next turn. As they are charmed they ooh and aah at the pretty lights.
+- **Sparkly Sparkly**: Twinkling lights form in a 15 ft radius centred on you. All creatures you choose make a Wisdom saving throw (DC 15) or are **charmed** until the end of their next turn. As they are charmed they ooh and aah at the pretty lights.
 
 - **Eye Spy**: An eyeball that looks a bit like a stress ball. When squeezed it allows you to see invisible creatures for 1 minute. However, the eyeball screams as you squeeze it.
 
