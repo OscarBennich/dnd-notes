@@ -1,3 +1,3 @@
-- Leader of [[Zephrah]]
-- AKA the "Voice of the Tempest"
-- She has met Gods?
+- Leader of [[Zephrah]] and a very prominent Druid
+- Also known as the "*Voice of the Tempest*"
+- Apparently she has met Gods?
