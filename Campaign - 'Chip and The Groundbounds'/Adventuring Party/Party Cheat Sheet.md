@@ -15,10 +15,29 @@
 | Mads      | Reaction     | Hellish Rebuke     | You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.<br><br>_**At Higher Levels.**_ When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.                                                                                                                                                                                  |
 | Mads      | Reaction     | Protective Wings   | You can manifest protective wings that can shield you or others. When you or another creature you can see within 5 feet of you is hit by an attack roll, you can use your reaction to manifest spectral wings from your back for a moment. You grant a bonus to the target’s AC equal to your proficiency bonus against that attack roll, potentially causing it to miss. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.                                                                           |
 ## Pre-buff rotation
-- **Ossian**: Cast *Mage Armor*, use [[Gray Bag of Tricks]]
-- **Dain**: Cast *Aid* (if prepared), use *Channel Divinity: Blessing of the Full Moon* (potentially x2 depending on timing)
-- **Evan**: Cast *Summon Fey* and *Armor of Agathys* (depending on slots), double-check the names for *Gift of the Protectors*
-- **Mads**: Summon [[Theo]], cast *False Life* and/or *Enhance Ability*
+- **Ossian**: 
+	- Cast *Mage Armor*
+	- Use [[Gray Bag of Tricks]]
+- **Dain**:
+	- Cast *Aid* (if prepared)
+	- Cast *Freedom of Movement* (if prepared)
+	- Cast a longer concentration spell (depending on what's prepared / material / situation / slots)
+		- 1st - *Shield of Faith* (10 min)
+		- 1st - *Protection from Evil and Good* (10 min)
+		- 2nd - Enhance Ability (1 hour)
+		- 3rd - Protection from Energy (1 hour)
+		- 3rd - Spirit Guardians (10 min)
+		- 4th - Aura of Life (10 min)
+		- 4th - Aura of Purity (10 min)
+		- 5th - Summon Celestial (1 hour)
+	- Use *Channel Divinity: Blessing of the Full Moon* (potentially x2 depending on timing)
+	- Potentially cast *Warding Bond* (if prepared and has material)
+- **Evan**:
+	- Cast *Summon Fey* and *Armor of Agathys* (depending on slots)
+	- Double-check the names for *Gift of the Protectors*
+- **Mads**:
+	- Summon [[Theo]]
+	- Cast *False Life* and/or *Enhance Ability*
 ## [[Evan]] (Half-Elf Warlock / The Archfey)
 - [Class](http://dnd5e.wikidot.com/warlock)
 - [Subclass](http://dnd5e.wikidot.com/warlock:archfey)
