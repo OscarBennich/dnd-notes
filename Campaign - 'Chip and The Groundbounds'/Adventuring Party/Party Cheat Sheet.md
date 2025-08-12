@@ -16,7 +16,7 @@
 | Mads      | Reaction     | Protective Wings   | You can manifest protective wings that can shield you or others. When you or another creature you can see within 5 feet of you is hit by an attack roll, you can use your reaction to manifest spectral wings from your back for a moment. You grant a bonus to the target’s AC equal to your proficiency bonus against that attack roll, potentially causing it to miss. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.                                                                           |
 ## Pre-buff rotation
 - **Ossian**: Cast *Mage Armor*, use [[Gray Bag of Tricks]]
-- **Dain**: Use *Channel Divinity: Blessing of the Full Moon* (potentially x2 depending on timing)
+- **Dain**: Cast *Aid* (if prepared), use *Channel Divinity: Blessing of the Full Moon* (potentially x2 depending on timing)
 - **Evan**: Cast *Summon Fey* and *Armor of Agathys* (depending on slots), double-check the names for *Gift of the Protectors*
 - **Mads**: Summon [[Theo]], cast *False Life* and/or *Enhance Ability*
 ## [[Evan]] (Half-Elf Warlock / The Archfey)
