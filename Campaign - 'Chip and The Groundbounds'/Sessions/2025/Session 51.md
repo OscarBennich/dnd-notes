@@ -101,8 +101,8 @@
 	- Narissa finds out that [[Korren]]'s mercenary group is called "*The Reckless Blades*"
 		- Korren
 		- A Rogue
-		- A Wizard
-		- A Druid
+		- A Human Wizard
+		- A Halfling Druid
 	- Narissa rolls a straight CHA roll ➡️ 14 and an Insight check ➡️ Nat 20
 	- They are waiting to head out of town to [[Umbra Hills]] to act as protection for people picking spice
 	- Narissa invites Korren to join her at the inn later that night (*if we survive*)
