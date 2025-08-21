@@ -15,6 +15,7 @@
 	- But the timeline currently doesn't make sense seeing as the druids should have been dead even before the battle of [[Umbra Hills]] drew Orcus' attention? But maybe *other* druids went back there and performed the ritual later?
 	- We could try to ask [[Keyleth]] about [[Shadebarrow]] and Orcus?
 ---
+- We are now level 10! 🎉 
 - We pick back up just as we're about to enter the first round of the [[Sanguine Square Skirmish]]
 - We see two large Barlgura being let out of cages and enter the arena
 - [[Ossian]] uses his [[Gray Bag of Tricks]] to summon a Badger, a Rat, and a Panther
