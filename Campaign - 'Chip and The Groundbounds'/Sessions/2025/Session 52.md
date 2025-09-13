@@ -180,18 +180,4 @@
 - I use my [[Pearl of Power]] to restore one 3rd level spell slot
 - [[Dain]] prepares a cast of *Greater Invisibility* on [[Chip]] for the start of the last round
 - I remove Narissa's name from my *Gift of the Protectors* and add Chip's name instead
----
-
-**Combat ⚔️** (Round 3)
-
-**Enemy**
-- ??? AC
-- ~ ??? HP
-
-| Attacker | Defender | Action | Attack roll / Saving throw | Damage / Healing / Outcome | Total damage / Status |
-| -------- | -------- | ------ | -------------------------- | -------------------------- | --------------------- |
-|          |          |        |                            |                            |                       |
-|          |          |        |                            |                            |                       |
-|          |          |        |                            |                            |                       |
-
----
+- The session ends
