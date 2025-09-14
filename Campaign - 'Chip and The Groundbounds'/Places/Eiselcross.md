@@ -1,1 +1,5 @@
 - A frigid wasteland to the north of [[Wildemount]]
+- Hard to traverse
+- Magic doesn't work the way you expect it to
+- Contains the remains of the crashed city of [[Aeor]]. This is what caused the disruption of magic.
+- Has a lot of ancient artifacts from Aeor

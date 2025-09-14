@@ -6,7 +6,7 @@
 - Trist's final battle came at the base of the Cliffkeep Mountains
 - On the verge of what seemed like certain victory, [[Zan Tal’Dorei]] and her rebels, along with the allied elves of Syngorn, pursued Drassig to this valley but were met with fiends amidst the ranks of their enemy. King Trist had crafted a secret weapon through his brother’s dealings with [[Bane the Strife Emperor]]: a legion of demons had joined his forces.
 - They spilled onto the battlefield like a river of nightmares and in minutes the surrounding hills ran dark with rivers of blood and ichor, with the bodies of humans and demons alike littering the battlefield. Yet, despite all odds, Zan defeated King Trist, ending the Drassig bloodline, and with it the demonic pact that the Drassigs had made.
-- It has also been noted by prominent abyssal researchers that the use of demons by King Trist in the Battle of the Umbra Hills caused such a stir in the depths of the Abyss that it subsequently drew the attention of several demon princes to this region of Tal’Dorei, among them [[Graz’zt the Demon Prince of Pleasure]] and [[Orcus the Demon Prince of Undeath]].
+- It has also been noted by prominent abyssal researchers that the use of demons by King Trist in the Battle of the Umbra Hills caused such a stir in the depths of [[The Abyss]] that it subsequently drew the attention of several demon princes to this region of Tal’Dorei, among them [[Graz’zt the Demon Prince of Pleasure]] and [[Orcus the Demon Prince of Undeath]].
 - See:
 	- [[A History of Tal’Dorei#Chapter 9 The Druids of the Dawn Circle]]
 	- [[A History of Tal’Dorei#Chapter 10 The Battle of the Umbra Hills]]

@@ -1,1 +1,3 @@
 - A resident of [[Jorenn Village]]
+- Leader of *The Reckless Blades*
+- Comes from [[Wildemount]]

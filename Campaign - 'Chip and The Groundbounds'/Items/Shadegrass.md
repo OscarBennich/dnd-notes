@@ -1,0 +1,6 @@
+- Only grows in [[Umbra Hills]] and has to be picked there (cannot be cultivated)
+- Difficult to collect because of the demons around this area
+- Very valuable
+- Ash gray, white stalks
+- Used as spice in food
+- Picked by patrols (usually from [[Jorenn Village]])

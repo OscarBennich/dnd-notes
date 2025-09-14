@@ -51,14 +51,14 @@
 - Chip sees something sparkling in a crate on the other side of the room
 	- It's a diamond worth 500g! 💎
 - Narissa and I look through the books that are on a shelf above one the desk
-	- *Codex of the Unspoken* - A book on drawing energy from the Abyss to cast necromantic spells
+	- *Codex of the Unspoken* - A book on drawing energy from [[The Abyss]] to cast necromantic spells
 	- *Of Teeth and Tongues: A Linguistic Guide to Abyssal*
 	- *Decay as Design: A Structural View of Necromancy*
 	- *A History of the Druids of Tal’dorei*
-	- *Hierarchies of the Abyss*
+	- *Hierarchies of [[The Abyss]]*
 	- *Barter in Blood: Interplanar Exchanges and their Patrons* - A text on pacts with various entities.
-	- *Threads of the Pale Loom* - A religious text describing the Raven Queen and her teachings (as interpreted by a renowned cleric and scholar of the Raven Queen Lieve'tel Toluse, one of the High Wardens of the Duskmeadow in Vasselheim).
-- All of these books seem connected to [[Shadebarrow]] (necromancy, druids, The Abyss)
+	- *Threads of the Pale Loom* - A religious text describing the Raven Queen and her teachings (as interpreted by a renowned cleric and scholar of the Raven Queen Lieve'tel Toluse, one of the High Wardens of the Duskmeadow in [[Vasselheim]]).
+- All of these books seem connected to [[Shadebarrow]] (necromancy, druids, [[The Abyss]])
 - This confirms (ish) that [[Dragomir Lunthak]] is connected to more than just what's happening in [[Westruun]]...
 - I put all books of interest in our *Bag of Holding* to research at a later date
 - We try to touch an "E" in one of the books - nothing happens
@@ -96,11 +96,11 @@
 	- A leather-bound journal
 		- "*I believe the excavation team in [[Aeor]] is close to finding the Planar Scythe. The time has almost come to make use of the bargain with [[Luella the Dawnstealer|Luella]] and release the Shadow That Was.*"
 	- A book called "*The Codex of the Unspoken*"
-		- It seems to be about drawing energy from the Abyss to cast necromantic spells
+		- It seems to be about drawing energy from [[The Abyss]] to cast necromantic spells
 	- A diamond worth 500g 💎 (Chip took this)
 	- A skull of a *Behir* hatchling
 	- Unfinished scrolls from [[Ashcombe Paltimore]]'s office
-	- A bunch of books related to Necromancy, Druids, and the Abyss
+	- A bunch of books related to Necromancy, Druids, and [[The Abyss]]
 	- A book about the [[Matron of Ravens]]
 	- A smut book
 - We arrive back at [[Caliban House]]

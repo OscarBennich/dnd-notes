@@ -11,7 +11,7 @@
 **Next steps**
 1. Go back to [[Billiam Christ]] with [[Find evidence of collusion between The League of Miracles and The Clasp|evidence of the collusion between The League and The Clasp]]
 2. Find/buy/make a gilded flower (worth at least 300g) for my *Summon Fey* spell
-3. Read through the books I took from [[Dragomir Lunthak]]'s secret lab about Necromancy, Druids, and The Abyss for any clues regarding his exact plans or connections to other things going on
+3. Read through the books I took from [[Dragomir Lunthak]]'s secret lab about Necromancy, Druids, and [[The Abyss]] for any clues regarding his exact plans or connections to other things going on
 4. Figure out more about what the exact meaning of the [[Find evidence of collusion between The League of Miracles and The Clasp|text we found]] (written by Dragomir): "*I believe the excavation team in [[Aeor]] is close to finding the Planar Scythe. The time has almost come to make use of the bargain with [[Luella the Dawnstealer|Luella]] and release the Shadow That Was.*" (dated ~ 2 days ago)
 	- What is "the Planar Scythe"? Is it a weapon?
 	- What is the bargain they made with Luella?

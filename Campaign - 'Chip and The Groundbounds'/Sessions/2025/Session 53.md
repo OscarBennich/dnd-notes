@@ -9,7 +9,7 @@
 1. Participate in the [[Sanguine Square Skirmish]] before leaving [[Jorenn Village]]
 2. Continue travelling to [[Lyrengorn]]
 	- Go north out of [[Westruun]], on the *Blackvalley Path* until we get to [[Jorenn Village]]. We then continue north, passing [[Umbra Hills]], continuing through *The Grey Valley* and the *Cliffkeep Mountains* until we get to Lyrengorn.
-3. On the way there, I should read through the books I took from [[Dragomir Lunthak]]'s secret lab about Necromancy, Druids, and The Abyss for any clues regarding his exact plans or connections to other things going on
+3. On the way there, I should read through the books I took from [[Dragomir Lunthak]]'s secret lab about Necromancy, Druids, and [[The Abyss]] for any clues regarding his exact plans or connections to other things going on
 4. Open questions regarding [[Orcus the Demon Prince of Undeath|Orcus]]:
 	- Apparently Orcus was imprisoned with a druidic ritual in [[Shadebarrow]]
 	- But the timeline currently doesn't make sense seeing as the druids should have been dead even before the battle of [[Umbra Hills]] drew Orcus' attention? But maybe *other* druids went back there and performed the ritual later?
@@ -23,37 +23,37 @@
 **Combat ⚔️** (Round 3)
 
 **Hezrou #1**
-- ??? AC (at most 19)
+- =< 19 AC
 - ~ 135 HP
 
-| Attacker   | Defender | Action                 | Attack roll / Saving throw | Damage / Healing / Outcome | Total damage / Status                                     |
-| ---------- | -------- | ---------------------- | -------------------------- | -------------------------- | --------------------------------------------------------- |
-| Ossian     | Hezrou   | Wall of Fire           | DC 15 (DEX)                | 9 dmg, fire (19 / 2)       | 9 dmg                                                     |
-| Hezrou     | Ossian   | Bite attack            | 22                         | 14 dmg                     |                                                           |
-| Hezrou<br> | Dain     | Claw attack            | ?                          | Miss!                      |                                                           |
-|            |          | Claw attack            | ?                          | Miss!                      |                                                           |
-| Evan       | Hezrou   | Banishment (5th level) | DC 17 (CHA)                | Fail!                      | Banished (*permanently* banished to the Abyss after 1min) |
+| Attacker   | Defender | Action                 | Attack roll / Saving throw | Damage / Healing / Outcome | Total damage / Status                                         |
+| ---------- | -------- | ---------------------- | -------------------------- | -------------------------- | ------------------------------------------------------------- |
+| Ossian     | Hezrou   | Wall of Fire           | DC 15 (DEX)                | 9 dmg, fire (19 / 2)       | 9 dmg                                                         |
+| Hezrou     | Ossian   | Bite attack            | 22                         | 14 dmg                     |                                                               |
+| Hezrou<br> | Dain     | Claw attack            | ?                          | Miss!                      |                                                               |
+|            |          | Claw attack            | ?                          | Miss!                      |                                                               |
+| Evan       | Hezrou   | Banishment (5th level) | DC 17 (CHA)                | Fail!                      | Banished (*permanently* banished to [[The Abyss]] after 1min) |
 
 ---
 
 **Hezrou #2**
-- ??? AC (at most 19)
+- =< 19 AC
 - ~ 135 HP
 
-| Attacker | Defender | Action                 | Attack roll / Saving throw | Damage / Healing / Outcome | Total damage / Status                                     |
-| -------- | -------- | ---------------------- | -------------------------- | -------------------------- | --------------------------------------------------------- |
-| Narissa  | Hezrou   | Wails from the Grave   |                            | 7 dmg                      | 7 dmg                                                     |
-| Ossian   | Hezrou   | Wall of Fire           | DC 15 (DEX)                | Fail! 9 dmg, fire (19 / 2) | 16 dmg                                                    |
-| Hezrou   | Theo     | Bite attack            | 14                         | 13 dmg                     |                                                           |
-|          |          | Claw attack            | 24                         | 6 dmg                      |                                                           |
-|          |          | Claw attack            | 24                         | 6 dmg                      |                                                           |
-| Theo     | Hezrou   | Melee attack           | 7                          | Miss!                      |                                                           |
-| Evan     | Hezrou   | Banishment (5th level) | DC 17 (CHA)                | Fail!                      | Banished (*permanently* banished to the Abyss after 1min) |
+| Attacker | Defender | Action                 | Attack roll / Saving throw | Damage / Healing / Outcome | Total damage / Status                                         |
+| -------- | -------- | ---------------------- | -------------------------- | -------------------------- | ------------------------------------------------------------- |
+| Narissa  | Hezrou   | Wails from the Grave   |                            | 7 dmg                      | 7 dmg                                                         |
+| Ossian   | Hezrou   | Wall of Fire           | DC 15 (DEX)                | Fail! 9 dmg, fire (19 / 2) | 16 dmg                                                        |
+| Hezrou   | Theo     | Bite attack            | 14                         | 13 dmg                     |                                                               |
+|          |          | Claw attack            | 24                         | 6 dmg                      |                                                               |
+|          |          | Claw attack            | 24                         | 6 dmg                      |                                                               |
+| Theo     | Hezrou   | Melee attack           | 7                          | Miss!                      |                                                               |
+| Evan     | Hezrou   | Banishment (5th level) | DC 17 (CHA)                | Fail!                      | Banished (*permanently* banished to [[The Abyss]] after 1min) |
 
 ---
 
 **Hezrou #3**
-- ??? AC (at most 19)
+- =< 19 AC
 - ~ 135 HP
 
 | Attacker | Defender | Action                       | Attack roll / Saving throw | Damage / Healing / Outcome     | Total damage / Status |
@@ -86,7 +86,7 @@
 - [[Kyle]] shouts out that it's called a "Glabrezu"
 ---
 **Glabrezu**
-- ??? AC (at least 16)
+- > 16 AC
 - ~ 230 HP
 
 | Attacker | Defender | Action                                  | Attack roll / Saving throw | Damage / Healing / Outcome     | Total damage / Status          |
@@ -146,7 +146,7 @@
 - Chip hears "I always like fresh meat" in his mind
 - A magical darkness emanates from the Glabrezu
 ---
-- The banished demons don't come back and are permanently banished to The Abyss
+- The banished demons don't come back and are permanently banished to [[The Abyss]]
 - The demons we slayed disintegrate into pools of ichor
 - We did it! The crowd roars
 - [[Korren]] and his troop is cheering the loudest

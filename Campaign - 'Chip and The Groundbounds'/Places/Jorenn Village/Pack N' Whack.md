@@ -8,7 +8,7 @@
 	- 2x Potion of Healing (Greater) - 110g
 	- 1x Potion of Healing (Superior) - 550g
 		- 8d4+8 HP
-	- 1x [[Keoghtom's Ointment]] w/ 4 doses - 130g
+	- 1x [[Restorative Ointment]] w/ 4 doses - 130g
 		- 2d8+2 HP
 		- Removes poison
 		- Cures disease

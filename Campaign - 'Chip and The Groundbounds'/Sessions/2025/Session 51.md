@@ -10,7 +10,7 @@
 **Next steps**
 1. Start travelling to [[Lyrengorn]]
 	- Go north out of [[Westruun]], on the *Blackvalley Path* until we get to [[Jorenn Village]]. We then continue north, passing [[Umbra Hills]], continuing through *The Grey Valley* and the *Cliffkeep Mountains* until we get to Lyrengorn.
-2. On the way there, I should read through the books I took from [[Dragomir Lunthak]]'s secret lab about Necromancy, Druids, and The Abyss for any clues regarding his exact plans or connections to other things going on
+2. On the way there, I should read through the books I took from [[Dragomir Lunthak]]'s secret lab about Necromancy, Druids, and [[The Abyss]] for any clues regarding his exact plans or connections to other things going on
 3. Open questions regarding Orcus:
 	- When, where, how, and why was he imprisoned in this pocket dimension? And by whom?
 	- Why *exactly* is it related to [[Shadebarrow]]? Was it there it happened?
@@ -81,7 +81,7 @@
 		- [[Mads]] takes this
 	- 2x Potions of Healing - 55g
 	- 2x Potion of Healing (Greater) - 110g
-	- 1x [[Keoghtom's Ointment]] w/ 4 doses - 130g
+	- 1x [[Restorative Ointment]] w/ 5 doses - 130g
 		- I take this
 - I try to convince her to give us a better deal but fail (Persuasion ➡️ 19)
 - Turns out the proprietor lost her hand to a demon in [[Umbra Hills]]
@@ -99,10 +99,10 @@
 	- [[Bumblesworth Shitterton]] is sad that he "has" to run the tavern because he won it playing dice but Narissa promises to help him lose the tavern in a game of dice
 		- He is *very* grateful and thinks of Narissa as his saviour
 	- Narissa finds out that [[Korren]]'s mercenary group is called "*The Reckless Blades*"
-		- Korren
-		- A Rogue
-		- A Human Wizard
-		- A Halfling Druid
+		- [[Korren]]
+		- Xam - a Rogue
+		- Ruth - a Human Wizard
+		- Archburrows - a Halfling Druid
 	- Narissa rolls a straight CHA roll ➡️ 14 and an Insight check ➡️ Nat 20
 	- They are waiting to head out of town to [[Umbra Hills]] to act as protection for people picking spice
 	- Narissa invites Korren to join her at the inn later that night (*if we survive*)

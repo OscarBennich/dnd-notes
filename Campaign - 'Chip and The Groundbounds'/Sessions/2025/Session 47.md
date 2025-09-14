@@ -216,5 +216,5 @@
 	- Mads makes a WIS check - 12...
 	- She doesn't remember her mother or know if the picture is of her or not
 - We also find a book called "The Codex of the Unspoken", it lies open
-	- It seems to be about drawing energy from the Abyss to cast necromantic spells
+	- It seems to be about drawing energy from [[The Abyss]] to cast necromantic spells
 - The session ends...

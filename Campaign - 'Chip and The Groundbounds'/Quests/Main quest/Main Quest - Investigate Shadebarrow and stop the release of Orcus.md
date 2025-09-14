@@ -14,9 +14,9 @@ When I asked [[Mother Veyra]] about Meg, she said that if someone was turned und
 
 [[Buddleah Austan]] (descendent of [[Sevil Howthess]]) told us in [[Session 44]] that she has sent "quite a few" treasure seeking adventurers to their death / undeath in search of Shadebarrow. Apparently [[Camilla Tenver]] (her cousin) gave up the location of the tomb to someone who then came back as an undead and killed their whole family. This was 15-20 years ago and after that they wanted to keep the location of Shadebarrow secret "forever".
 
-From [[A History of Tal’Dorei]], we learned that [[Shadebarrow]] used to be a sanctuary for sun-worshiping Druids ([[Druids of the Dawn Circle]]) before [[Trist Drassig]] slew everyone there in a rage. [[Neminar Drassig]], brother of [[Trist Drassig]], was an infamous necromancer and had made a pact with [[Bane the Strife Emperor]] to bless his troops. Trist then used the same connection to Bane to get a legion of demons to join his forces but they were still defeated in the [[A History of Tal’Dorei#Chapter 10 The Battle of the Umbra Hills]], ending the Drassig bloodline, and with it the demonic pact that the Drassigs had made. This demonic pact drew the attention of two Demon princes, [[Orcus the Demon Prince of Undeath]] and [[Graz’zt the Demon Prince of Pleasure]].
+From [[A History of Tal’Dorei]], we learned that [[Shadebarrow]] used to be a sanctuary for sun-worshiping Druids ([[Druids of the Dawn Circle]]) before [[Trist Drassig]] slew everyone there in a rage. [[Neminar Drassig]], brother of [[Trist Drassig]], was an infamous necromancer and had made a pact with [[Bane the Strife Emperor]] to bless his troops. Trist then used the same connection to Bane to make a pact with [[Graz’zt the Demon Prince of Pleasure]] and had a legion of demons to join his forces. Despite this, he was defaeated in the [[A History of Tal’Dorei#Chapter 10 The Battle of the Umbra Hills|The Battle of the Umbra Hills]], ending the Drassig bloodline, and with it the demonic pact that the Drassigs had made. This demonic pact also drew the attention of another demon prince: [[Orcus the Demon Prince of Undeath]].
 
-[[Queen Titania of the Summer Court]] (my Patron) later told us that after this battle, a Druid that "belonged" to her participated in a druidic ritual performed in Shadebarrow which succeeded in imprisoning Orcus, capturing him in a pocket dimension instead of his home plane, the Abyss ([[Session 48]]).
+[[Queen Titania of the Summer Court]] (my Patron) later told us that after this battle, a Druid that "belonged" to her participated in a druidic ritual performed in Shadebarrow which succeeded in imprisoning Orcus, capturing him in a pocket dimension instead of his home plane, [[The Abyss]] ([[Session 48]]).
 
 > *At this point we do not know who these druids were exactly but they could be remnants of the [[Druids of the Dawn Circle]] that went back to Shadebarrow. Imprisoning Orcus might also be a kind of revenge for the slaughter of their Druid allies...*
 
@@ -28,13 +28,13 @@ The way he intends to free Orcus from the pocket dimension he is currently impri
 
 >"*I believe the excavation team in [[Aeor]] is close to finding the [[Planar Scythe]]. The time has almost come to make use of the bargain with [[Luella the Dawnstealer|Luella]] and release the Shadow That Was.*"
 
-In the same lab we also found a lot of books on the topics of Necromancy, Druids, and The Abyss ([[Session 48]]).
+In the same lab we also found a lot of books on the topics of Necromancy, Druids, and [[The Abyss]] ([[Session 48]]).
 
 As Dragomir is trying to free Orcus, the undead presence in the area around Shadebarrow is increasing.
 
 ---
 **Visions and "The Storm"**
-[[Chip]] was sent to [[Tal'Dorei]] by [[Eebah]] to find this magical storm that supposedly is related to a threat to the world - based on his visions. We spoke to [[Simon Cloudfang]] in [[Westruun]] about this and he said that that the magical "storm" could be a metaphor for something that corrupts nature. And that **could** refer to something like hoards of undead. So it is safe to say that the *storm* and the threat against the world is actually Shadebarrow and the release of Orcus 
+[[Chip]] was sent to [[Tal'Dorei]] by [[Eebah]] to find this magical storm that supposedly is related to a threat to the world - based on his visions. We spoke to [[Simon Cloudfang]] in [[Westruun]] about this and he said that that the magical "storm" could be a metaphor for something that corrupts nature. And that **could** refer to something like hoards of undead. So it is safe to say that the *storm* and the threat against the world is actually Shadebarrow and the potential release of Orcus.
 
  [[Narissa]] also had visions when visiting the [[Westruun - Temple of Matron of Ravens|Twilit temple]] in Westruun that included an undead army.
  
@@ -52,5 +52,5 @@ As Dragomir is trying to free Orcus, the undead presence in the area around Shad
 ## Objectives
 - We need to stop [[Dragomir Lunthak]] from using the [[Planar Scythe]] to release [[Orcus the Demon Prince of Undeath]] from the pocket dimension he is currently imprisoned in
 	- In exchange for this, Dragomir has been promised "powers to protect those he loves" and eternal life
-	- *If* Dragomir were to succeed, we need to figure out a way to kill and/or stop Orcus instead but he can only be killed on his own plane (the Abyss)
-- We also need to watch out for any potential protections guarding the tomb of [[Sevil Howthess]].
+	- *If* Dragomir were to succeed, we need to figure out a way to kill and/or stop Orcus instead but he can only be killed on his own plane ([[The Abyss]])
+- We also need to watch out for any potential protections guarding the tomb of [[Sevil Howthess]]

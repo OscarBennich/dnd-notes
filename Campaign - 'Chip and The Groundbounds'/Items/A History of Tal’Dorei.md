@@ -21,7 +21,7 @@ Beneath the unruly elements, and supposedly unknown to the Creators, lived ancie
 
 Some gods, filled with grief and anger as they saw their children crushed, wished to abandon the world for another. They wished to join the Primordials in reclaiming the realm for chaos, so that they could move on and start anew. This led to a schism between the gods, with the faction inclined towards chaos later being dubbed the “Betrayer Gods”.
 
-The cosmos itself seemed to sense the magnitude of the battle on Exandria, and chaotic creatures emerged from a formless void that Exandrians later called the Abyss to feed upon the suffering of the wounded and dying. These are the demons.
+The cosmos itself seemed to sense the magnitude of the battle on Exandria, and chaotic creatures emerged from a formless void that Exandrians later called [[The Abyss]] to feed upon the suffering of the wounded and dying. These are the demons.
 
 Other beings known as celestials, sentinels of order, aided the Prime Deities in continuing to try and tame the primordial world to save their children, and protect them from the Primordial Titans and the Betrayers.
 
@@ -42,9 +42,9 @@ The abundance that began the Age of Arcanum did not last, as it gave way to endl
 
 Tantalising rumours of immortality began to slither through the most decadent circles of arcanists, magi and nobility. One mortal mage, her name lost and struck from history, crafted now-forbidden rites, challenging, and subsequently felling the God of Death. She took his place among the pantheon, making her the first and only living mortal to ascend to divinity. Only the title of this successor, or to some, usurper, survives - The [[Matron of Ravens]].
 
-Her ascension became a catalyst for many of the horrors of the Age of Arcanum, as other arcanists sought to imitate her. An archmage named Vespin Chloras, renowned throughout ancient Vasselheim for his wealth, skill and cruelty, sought the guidance and power of the banished Betrayer gods so that he could do the same. What happened instead was that he wrought asunder the gates of their prisons, releasing the Betrayers and allowing them to walk Exandria once more, next to the Prime Deities.
+Her ascension became a catalyst for many of the horrors of the Age of Arcanum, as other arcanists sought to imitate her. An archmage named Vespin Chloras, renowned throughout ancient [[Vasselheim]] for his wealth, skill and cruelty, sought the guidance and power of the banished Betrayer gods so that he could do the same. What happened instead was that he wrought asunder the gates of their prisons, releasing the Betrayers and allowing them to walk [[Exandria]] once more, next to the Prime Deities.
 
-The gods of hatred and despair had warped their prisons into reflections of their depravity. The Abyss, once a formless place of chaos and a by-product of the gods’ creation, was twisted into a place of evil, and the Hells were created and presided upon by Asmodeus the Lord of the Hells.
+The gods of hatred and despair had warped their prisons into reflections of their depravity. [[The Abyss]], once a formless place of chaos and a by-product of the gods’ creation, was twisted into a place of evil, and the Hells were created and presided upon by Asmodeus the Lord of the Hells.
 
 The released Betrayers created a new kingdom on the far end of the world, the capital of which was named Ghor Dranas, the Gathering of Shadows. Here, the twisted power of their corrupted planes seeped into the world, scaring the lands and drawing to them the mortals susceptible to the gods’ grand promises of infinite power over the arcane. Eventually, the Betrayers led an assault on Vasselheim itself.
 
@@ -115,7 +115,7 @@ Outraged by this vile act, Zan Tal’Dorei led a righteously invigorated force t
 
 They spilled onto the battlefield like a river of nightmares and in minutes the surrounding hills ran dark with rivers of blood and ichor, with the bodies of humans and demons alike littering the battlefield. Yet, despite all odds, Zan defeated King Trist, ending the Drassig bloodline, and with it the demonic pact that the Drassigs had made. It is said that the grass and flowers of the Umbra Hills grow black and burnt as an echo of this battle, their sap coursing with fiendish blood that was spilled that day.
 
-It has also been noted by prominent abyssal researchers that the use of demons by King Trist in the Battle of the [[Umbra Hills]] caused such a stir in the depths of the Abyss that it subsequently drew the attention of several demon princes to this region of Tal’Dorei, among them [[Graz’zt the Demon Prince of Pleasure ]]and [[Orcus the Demon Prince of Undeath]].
+It has also been noted by prominent abyssal researchers that the use of demons by King Trist in the Battle of the [[Umbra Hills]] caused such a stir in the depths of [[The Abyss]] that it subsequently drew the attention of several demon princes to this region of Tal’Dorei, among them [[Graz’zt the Demon Prince of Pleasure ]]and [[Orcus the Demon Prince of Undeath]].
 
 # Part 4: Tal’Dorei Ascendant
 
