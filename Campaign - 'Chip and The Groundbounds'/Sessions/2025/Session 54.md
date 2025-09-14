@@ -84,19 +84,16 @@
 - Suddenly, [[Mads]] hears [[Keyleth]]'s voice in her head (using *Sending*). She asks her where we are and Mads tells her we're in [[Umbra Hills]].
 - Chip notices an eagle in the sky
 - Ossian casts *Invisibility* on Chip and he flies up to check on the eagle
-- The eagle flies down to our camp and turns into [[Keyleth]]
+- The eagle flies down to our camp and transforms back into [[Keyleth]]
 - We ask Keyleth about [[Orcus the Demon Prince of Undeath]] and [[Shadebarrow]]
-	- The [[Druids of the Dawn Circle]] assisted by casting *Sunlight* on the undead armies, killing them
-	- After this, they retreated to [[Shadebarrow]]
-	- Then [[Trist Drassig]] killed them (this was *before* the battle of [[Umbra Hills]])
-	- The cruelty of the killing and the demon activity around [[Umbra Hills]] sparked the interest of Orcus
-	- Some magic leaves an impact on the land. The murder of the druids *corrupted* Shadebarrow (with the help of Orcus)
-	- Orcus wanted to tear a rift between the material plane and [[The Abyss]] to allow his demon armies to come through
-	- A group of clerics and druids (apparently including Aarakocra!) from around the area performed the ritual to lock Orcus away in a pocket dimension, deep below [[Shadebarrow]] (the Aarakocra are definitely connected to the monastery that raised [[Chip]])
+	- The [[Druids of the Dawn Circle]] assisted by casting *Sunlight* on the undead armies, killing them. After doing this, they retreated to [[Shadebarrow]] and that's where [[Trist Drassig]] killed later killed them as revenge (this was *before* the [[A History of Tal’Dorei#Chapter 10 The Battle of the Umbra Hills|The Battle of the Umbra Hills]]).
+	- The cruelty of the killing and the demon activity around [[Umbra Hills]] sparked the interest of Orcus.
+	- Keyleth tells us that some magic leaves an impact on the land. The murder of the druids *corrupted* Shadebarrow (with the help of Orcus). Orcus wanted to use this corruption to tear a rift between the material plane and [[The Abyss]] which would allow his demon armies to come through and invade our world.
+	- A group of clerics and druids (apparently including Aarakocra!) from around the area performed the ritual to lock Orcus away in a pocket dimension, deep below [[Shadebarrow]] (the Aarakocra are definitely connected to the monastery that raised [[Chip]]).
 	- Keyleth doesn't know any specifics about the actual ritual itself but will try to find out more information by travelling to [[Faernwë]] as she believes there's a chance they've written details down.
 	- While there she will also talk to [[Eebah]] and try to bring her back to [[Westruun]] (dropping her off at [[Caliban House]]). Chip gives her a letter to take with her so they know Chip is safe and that Keyleth isn't a stranger.
-	- She informs us that in 2 months, [[Ruidus]] will be at it's peak, which is an ill omen. There are theories that during that time, some magic is easier to cast. This is probably part of [[Dragomir Lunthak]]'s plan
+	- She informs us that in 2 months, [[Ruidus]] will be at it's peak, which is an ill omen. There are theories that during that time, some magic is easier to cast. This is probably part of [[Dragomir Lunthak]]'s plan.
 	- Keyleth also tells us that there are other threats connected to [[Ruidus]] and [[Catha]] are going to be in solstice at the same time (which only happens every 100 years), this means she has less time to prioritize this and help us. She will send any help she can to us but her resources is spread thin, but she will do her best.
 	- I ask her if she can help us with [[Dragomir Lunthak]], [[Eiselcross]], and the [[Planar Scythe]] but she thinks it's a better plan to simply wait and meet up with him as he comes back from [[Wildemount]]. If too many people are looking for him, he might be spooked and change his plans, which would be bad. "Trust the plan" she says.
-- After talking for a while, Keyleth transforms back into an eagle and flies away
+- After talking to us for a while longer, Keyleth transforms back into an eagle and flies away
 - The session ends...
