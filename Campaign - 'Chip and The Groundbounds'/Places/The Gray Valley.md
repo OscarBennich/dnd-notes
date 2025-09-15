@@ -1,4 +1,0 @@
-- A valley north west of [[Umbra Hills]]
-- Related to [[The Scattered War]] and [[A History of Tal’Dorei#Chapter 10 The Battle of the Umbra Hills|the battle of Umbra Hills]]
-- Infested with Demons from [[The Abyss]]
-- Difficult to traverse and dangerous

@@ -7,7 +7,7 @@
 ---
 **Next steps**
 1. Continue travelling to [[Lyrengorn]]
-	- Go north out of [[Westruun]], on the *Blackvalley Path* until we get to [[Jorenn Village]]. We then continue north, passing [[Umbra Hills]], continuing through *The Grey Valley* and the *Cliffkeep Mountains* until we get to Lyrengorn.
+	- Go north out of [[Westruun]], on the *Blackvalley Path* until we get to [[Jorenn Village]]. We then continue north, passing [[Umbra Hills]], continuing through [[The Grey Valley]] and the *Cliffkeep Mountains* until we get to Lyrengorn.
 2. On the way there, I should read through the books I took from [[Dragomir Lunthak]]'s secret lab about Necromancy, Druids, and [[The Abyss]] for any clues regarding his exact plans or connections to other things going on
 3. Open questions regarding [[Orcus the Demon Prince of Undeath|Orcus]]:
 	- Apparently Orcus was imprisoned with a druidic ritual in [[Shadebarrow]]
@@ -32,9 +32,12 @@
 - [[Narissa]] comes back from Korren's camp
 - [[Bumblesworth Shitterton]] walks through the doors, chipper and relieved
 - Shitterton is specifically interested in the demonic aspect of the battle of [[Umbra Hills]]
-- [INSERT LORE DUMP HERE]
+	- During the battle, when it looked like Trist Drassig’s forces were about to be overwhelmed, he made a pact with Graz’zt the Demon Prince of Indulgence - pledging his service in exchange for the power to win. The bargain accepted, demonic forces were sent but ultimately both demon lord and king fell.
+	- “He actually joined Trist Drassig on the battlefield, but both the Human King and the Demon Prince were defeated in the end, and Graz’zt was banished back to the Abyss.”
+	- Victory came at a cost when the release of terrible energies exploded across the battlefield. The valley to the north was left cursed and lifeless, a warning against dealing with demons, and a ruined place where dangerous entities are drawn to.
+	- Danger still lurks within the [[Umbra Hills]] and [[The Grey Valley]]. Undead soldiers rise from the grass when Catha is high, and the ruins of ancient Drassig war camps seem to draw demons of all types, still bound by the contract between Trist Drassig and the Demon Prince of Indulgence. Pathetic Dretches gambol about in the ruins’ long shadows and rumours say that on nights where Ruidus is full even Balor demons prowl the hills and the valley beyond searching for mighty souls to corrupt.
 - The demons here are believed to be remainders of the original demon troops, but it now seems that the veil between the planes has been weakened so demons can continue to cross over from [[The Abyss]]
-- The demons mostly stay around this area ([[Umbra Hills]] and [[The Gray Valley]])
+- The demons mostly stay around this area ([[Umbra Hills]] and [[The Grey Valley]])
 - There are rumors that [[Graz’zt the Demon Prince of Pleasure]] *himself* crossed over to the Material Plane. It's probably the pact with [[Trist Drassig]] that allowed Graz'zt to do this.
 - It seems some details in [[A History of Tal’Dorei]] are slightly wrong:
 	1. [[Neminar Drassig]] made some kind of pact with [[Bane the Strife Emperor]] and created an undead army.
@@ -71,8 +74,9 @@
 - Later in the evening, we see more roaming groups of these demons
 - They seem more like animals (livestock/cows/reindeer) rather than something intelligent
 - As the night falls we set up camp under a stone outcropping close to a mountain in the area
-- Narissa reads the *Threads of the Pale Loom* book that we took from [[Dragomir Lunthak]]'s lab in [[Westruun]]
-- [INSERT LORE DUMP ON RAVEN QUEEN HERE]
+- Narissa reads the *Threads of the Pale Loom* book that we took from [[Dragomir Lunthak]]'s lab in [[Westruun]]. In it she finds more information about the [[Matron of Ravens]].
+	- Interesting note for [[Narissa]]: though the author herself is a High Warden of the Coven of the Veil in [[Vasselheim]], [[Exandria]]’s religious centre, she seems somewhat skeptical of the establishment she has encountered there. Many texts, histories and references to the Raven Queen are tinted with dislike, and sometimes even disgust. “How dare a mortal deem themselves worthy to walk among our precious gods!” It’s almost as if other religious scholars and leaders over the centuries think she’s just an uppity oik who got too big for her boots. Their disapproval is somewhat understandable - after her ascension there was chaos with copycats popping up and causing trouble everywhere.
+	- There is no mention of the [[Claret Orders]] in this book - in fact it’s much more of a scholarly text reviewing other literature on the Raven Queen.
 - I also read through the books we picked up from Dragomir's lab but am not able to get any new, *specific*, information (we already knew Dragomir was looking into Druids, [[The Abyss]], and necromancy)
 - We take a long rest...
 

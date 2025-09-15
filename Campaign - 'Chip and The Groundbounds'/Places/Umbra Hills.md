@@ -1,8 +1,3 @@
-- Umbra Hills is a valley that lies in perpetual shadow
-- It was once a sun-kissed and emerald green place
-- It is rumoured to be home to demons and undead
-- [[Shadegrass]] grows here
+[[A History of Tal’Dorei#Chapter 10 The Battle of the Umbra Hills|The Battle of the Umbra Hills]], the climactic battle of the Scattered War, and the death knell of the Kingdom of Drassig, transformed this once floral sun-dappled Emerald Highlands into a blasted wasteland. A tide of demonic blood spilled across the highlands like fire, cursing the land forever. Generations have passed but the heather that once grew on this land remains as black and burnt as the day of the battle. No animals live here, and the only plant that grows now is [[shadegrass]]. Its ash grey stalks are dry and unfulfilling, but its unique, acrid flavour has drawn the interest of spice trailers worldwide, propelling wealthy merchants to hire armed escorts for their spice-pickers. This spice cannot be cultivated, which is why people risk their lives trying to harvest it.
 
-From [[A History of Tal’Dorei#Chapter 10 The Battle of the Umbra Hills]]:
-- It is said that the grass and flowers of the Umbra Hills grow black and burnt as an echo of this battle, their sap coursing with fiendish blood that was spilled that day.
-
+Danger still lurks within the [[Umbra Hills]] and [[The Grey Valley]]. Undead soldiers rise from the grass when Catha is high, and the ruins of ancient Drassig war camps seem to draw demons of all types, still bound by the contract between Trist Drassig and the Demon Prince of Indulgence. Pathetic Dretches gambol about in the ruins’ long shadows and rumours say that on nights where Ruidus is full even Balor demons prowl the hills and the valley beyond searching for mighty souls to corrupt.

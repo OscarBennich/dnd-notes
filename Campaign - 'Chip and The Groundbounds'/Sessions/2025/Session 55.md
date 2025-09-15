@@ -6,12 +6,12 @@
 
 **Next steps**
 1. Continue travelling to [[Lyrengorn]]
-	- Go north out of [[Westruun]], on the *Blackvalley Path* until we get to [[Jorenn Village]]. We then continue north, passing [[Umbra Hills]], continuing through [[The Gray Valley]] and the *Cliffkeep Mountains* until we get to Lyrengorn.
+	- Go north out of [[Westruun]], on the *Blackvalley Path* until we get to [[Jorenn Village]]. We then continue north, passing [[Umbra Hills]], continuing through [[The Grey Valley]] and the *Cliffkeep Mountains* until we get to Lyrengorn.
 ---
 - We pick back up as [[Keyleth]] leaves our camp (the end of day 3)
 - We gather around the fire, [[Chip]] talks about [[Eebah]] and the monastery. He also talks about one of the monks, *Coorg Mendel*.
 - We take a long rest...
-- Ossian dreams of our camp on fire and [[The Gray Valley]]. Premonition?
+- Ossian dreams of our camp on fire and [[The Grey Valley]]. Premonition?
 - The campfire has suddenly gone out
 - Ossian tries to cast *Prestidigitation*, but nothing happens
 - Chip tries to light the fire with a piece of flint, but nothing happens
@@ -48,11 +48,11 @@
 
 **Travel from [[Jorenn Village]] to [[Lyrengorn]], day 4**
 - An uneventful day
-- We are still in the [[Umbra Hills]], getting closer to [[The Gray Valley]]
+- We are still in the [[Umbra Hills]], getting closer to [[The Grey Valley]]
 - Ossian is keeping an extra eye out for the location from his dream
 - Ossian's fire magic still doesn't work
 - There's an unsettling atmosphere
-- Towards the late afternoon we reach the mountain pass between the [[Umbra Hills]] and [[The Gray Valley]]
+- Towards the late afternoon we reach the mountain pass between the [[Umbra Hills]] and [[The Grey Valley]]
 - As the evening comes, we begin looking for a place to rest
 - There is a place close to the mouth of a cave, but it looks similar to the place Ossian dreamed of
 - The cave seems unnaturally dark, almost like fog
