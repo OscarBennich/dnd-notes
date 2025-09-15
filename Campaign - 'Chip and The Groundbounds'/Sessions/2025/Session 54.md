@@ -42,6 +42,8 @@
 	3. [[A History of Tal’Dorei#Chapter 10 The Battle of the Umbra Hills|The Battle of the Umbra Hills]] happens.
 - [[Bumblesworth Shitterton]] thinks the mention of [[Orcus the Demon Prince of Undeath]] in the history book is misleading and that he actually wasn't involved in [[The Scattered War]] (although his attention still seems to have been drawn because of the demonic involvement)
 - Note: [[Orcus the Demon Prince of Undeath]] is currently imprisoned in a pocket dimension and will have to be released through a ritual, [[Graz’zt the Demon Prince of Pleasure]] was free inside of [[The Abyss]] when he (in some way related to the Pact with [[Trist Drassig]]) was able to enter the material plane. So it is two different situations.
+
+**Travel from [[Jorenn Village]] to [[Lyrengorn]], day 1**
 - We head out of [[Jorenn Village]] and begin to head north
 - My [[Patron]] tells me to tell [[Mads]] that regarding the person that she and her spoke of, a witch in [[Lyrengorn]] might be able to help
 - We see a sign pointing to [[Kran and Gloup's Mount' and Lodge]] and after being persuaded by [[Dain]] we start heading there
@@ -73,12 +75,16 @@
 - [INSERT LORE DUMP ON RAVEN QUEEN HERE]
 - I also read through the books we picked up from Dragomir's lab but am not able to get any new, *specific*, information (we already knew Dragomir was looking into Druids, [[The Abyss]], and necromancy)
 - We take a long rest...
+
+**Travel from [[Jorenn Village]] to [[Lyrengorn]], day 2**
 - The next day we set off again and it's a freezing day. It begins to rain 🌧️
 - We're now halfway though [[Umbra Hills]]
 - We set up camp but because of the cold we need to make a fire this time or risk exhaustion
 - [[Chip]] comes up with the idea to stack rocks in front of the fire and make a pit to make the fire less visible
 - [[Ossian]] casts *Bigby's Hand* and uses it to lift rocks
 - We take another long rest...
+
+**Travel from [[Jorenn Village]] to [[Lyrengorn]], day 3**
 - The next day is another freezing day.
 - As we prepare to set up camp, we spot another group of demons in the distance but manage to stealthily avoid them (w/ *Pass without Trace*)
 - Suddenly, [[Mads]] hears [[Keyleth]]'s voice in her head (using *Sending*). She asks her where we are and Mads tells her we're in [[Umbra Hills]].
