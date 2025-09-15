@@ -32,8 +32,11 @@
 - Are these the threads from [[Narissa]]'s dream?
 - I've seen the golden flame when I viewed Ossian's dream with [[Queen Titania of the Summer Court]]
 	- See: the [[Burning Vale]]
-- Ossian made a choice: *Master the Tempest*
-- [LIST OTHER CHOICES HERE]
+- Ossian was given three choices by Titania (see [[Session 49]]):
+	- Master the Tempest
+	- Seek revenge
+	- Do nothing
+- Ossian chose to *Master the Tempest*
 - I ask Titania if this is her doing, she says "No. I just put him in touch with the right people..."
 	- What does that mean?
 	- This is def. referring to [[Lady Elmenore the Unforgiving]]?
